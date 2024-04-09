@@ -7,11 +7,12 @@
 
 ---
 
-#### Resolution
+### Resolution
 
-Via XiO Cloud, do the following:
 > [!CAUTION]
 > XiO Cloud settings take precedence over local settings
+
+Via XiO Cloud:
 ```
 - Go to XiO -> Find the UC-Engine -> Note it's IP address from the "Network" dropdown
 - Select the connected Mercury X device
@@ -23,7 +24,7 @@ Via XiO Cloud, do the following:
 - Save Changes
 ```
 
-Alternative Method:
+Local Method:
 ```
 - Find and note IP address of UC-Engine (XiO, Toolbox, any other method)
 - Note IP address of Mercury X from it's front screen or other method available
