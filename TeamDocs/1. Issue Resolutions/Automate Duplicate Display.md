@@ -50,5 +50,8 @@ tags:
 [3]: https://www.sevenforums.com/tutorials/37625-display-switch-shortcut-create.html
 [4]: https://sid-500.com/2019/02/12/windows-10-changing-the-default-projector-settings-with-displayswitch-exe-duplicate-extend/
 
-> [!faq]- 
+> [!INFO] 
+> Are callouts foldable? Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
+
+> [!TODO] This is a Title
 > Are callouts foldable? Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
