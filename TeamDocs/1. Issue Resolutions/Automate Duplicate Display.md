@@ -22,9 +22,9 @@ tags:
 
 ### Resolution #2 - Script
 >[!NOTE]
-> > This method creates a .bat file that is clickable.  This `.bat` file can be triggered from windows scheduler.
-> > 
-> > You can also create a shortcut to this `.bat` file to change the icon etc. to make it more user friendly. I used to do this to put a button on the taskbar or desktop
+>  This method creates a .bat file that is clickable.  This `.bat` file can be triggered from windows scheduler.
+>  
+>  You can also create a shortcut to this `.bat` file to change the icon etc. to make it more user friendly. I used to do this to put a button on the taskbar or desktop
 
 - Create a new `.txt` file and name it `DisplaySwitch.txt`
 - Open the `DisplaySwitch.txt` file with `notepad.exe`
