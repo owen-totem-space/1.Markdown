@@ -36,7 +36,8 @@ tags:
 - Save and close the file
 - Right click the file and rename it from `DisplaySwitch.txt` to `DisplaySwitch.bat`
 
->[!TIP] You have now created an executable `.bat` file. Double click the file to duplicate the displays! Now lets create the shortcut.
+>[!TIP] 
+> You have now created an executable `.bat` file. Double click the file to duplicate the displays! Now lets create the shortcut.
 - Put this file in a discreet location on the PC
 - Right click the `DisplaySwitch.bat` file and select `Create Shortcut`
 - Once the shortcut is create, you can right click the file and select `Properties`
