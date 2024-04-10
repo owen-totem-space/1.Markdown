@@ -1,3 +1,9 @@
+---
+title: UC Engine IP Address Changed
+date: 2024-04-08
+tags: issue
+---
+
 # UC Engine IP Address Changed
 
 #### Description
@@ -7,12 +13,11 @@
 
 ---
 
-### Resolution
+### XiO Cloud Resolution:
 
 > [!CAUTION]
-> XiO Cloud settings take precedence over local settings
+> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](../../Crestron/1.%20OLH-Links.md#XiO%20Cloud)
 
-Via XiO Cloud:
 ```
 - Go to XiO -> Find the UC-Engine -> Note it's IP address from the "Network" dropdown
 - Select the connected Mercury X device
@@ -24,7 +29,8 @@ Via XiO Cloud:
 - Save Changes
 ```
 
-Local Method:
+### Local Network Resolution:
+
 ```
 - Find and note IP address of UC-Engine (XiO, Toolbox, any other method)
 - Note IP address of Mercury X from it's front screen or other method available
