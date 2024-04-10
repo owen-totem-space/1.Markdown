@@ -32,17 +32,17 @@
 - [XiO PDF Manual]
 
 [XiO Online Manual]: https://docs.crestron.com/en-us/8214/Content/Topics/Home.htm
-[XiO Online FAQ]: (https://docs.crestron.com/en-us/8214/Content/Topics/FAQs.htm)
-[XiO PDF Manual]: (https://www.crestron.com/getmedia/5480b91a-51af-4db5-90b1-99d864c68b12/mg_ug_crestron_xio_cloud_service)
-[XiO Single Sign On blog article]: (https://www.crestron.com/News/Blog/April-2020/SSO-for-XiO-Cloud-using-Azure-AD)
-[Crestron XiO Cloud® Platform: SSO SAML Integration / Configuration]: (https://community.crestron.com/s/article/id-1000838)
-[Crestron XiO Cloud® Platform: Certified Third-Party Devices]: (https://community.crestron.com/s/article/id-1001716)
-[Crestron XiO Cloud® Platform Service Status]: (https://community.crestron.com/s/article/id-5894)
-[Crestron XiO Cloud® Platform: Room-based Pricing FAQ]: (https://community.crestron.com/s/article/id-1000717)
-[Crestron XiO Cloud® Platform: Tenant ID]: (https://community.crestron.com/s/article/id-1001130)
-[Crestron XiO Cloud® Platform: License Calculator]: (https://community.crestron.com/s/article/id-1001165)
-[XiO Security Article]: (https://community.crestron.com/s/article/id-1000076)
-[XiO Security Guide]: (https://www.crestron.com/getmedia/7519fbb5-e58c-46c7-9ab5-549ac58b507b/mg_sr_xio-cloud-security)
+[XiO Online FAQ]: https://docs.crestron.com/en-us/8214/Content/Topics/FAQs.htm
+[XiO PDF Manual]: https://www.crestron.com/getmedia/5480b91a-51af-4db5-90b1-99d864c68b12/mg_ug_crestron_xio_cloud_service
+[XiO Single Sign On blog article]: https://www.crestron.com/News/Blog/April-2020/SSO-for-XiO-Cloud-using-Azure-AD
+[Crestron XiO Cloud® Platform: SSO SAML Integration / Configuration]: https://community.crestron.com/s/article/id-1000838
+[Crestron XiO Cloud® Platform: Certified Third-Party Devices]: https://community.crestron.com/s/article/id-1001716
+[Crestron XiO Cloud® Platform Service Status]: https://community.crestron.com/s/article/id-5894
+[Crestron XiO Cloud® Platform: Room-based Pricing FAQ]: https://community.crestron.com/s/article/id-1000717
+[Crestron XiO Cloud® Platform: Tenant ID]: https://community.crestron.com/s/article/id-1001130
+[Crestron XiO Cloud® Platform: License Calculator]: https://community.crestron.com/s/article/id-1001165
+[XiO Security Article]: https://community.crestron.com/s/article/id-1000076
+[XiO Security Guide]: https://www.crestron.com/getmedia/7519fbb5-e58c-46c7-9ab5-549ac58b507b/mg_sr_xio-cloud-security
 
 ---
 ## Firmware & Recovery
