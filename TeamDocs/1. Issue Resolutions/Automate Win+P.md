@@ -7,7 +7,7 @@ tags:
 # Automate Win+P
 
 #### Description
-> Issue Description
+> Set up windows so that it will automatically trigger "Duplicate Display" when a user logs in or unlocks the PC.
 
 ---
 

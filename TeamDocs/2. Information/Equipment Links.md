@@ -1,4 +1,6 @@
 ---
+title: Equipment Links
+date: 2024-04-08
 tags: equipment, links
 ---
 # Table Of Contents
@@ -7,7 +9,7 @@ tags: equipment, links
 3. [Crestron DM Lite](#Crestron%20DM%20Lite)
 4. [HDMI - Ethernet Converters](#HDMI%20-%20Ethernet%20Converters)
 5. [Streaming](#Streaming)
-6. [Reference Links](#Reference%20Links)
+
 ---
 
 ## Miscellaneous Equipment
@@ -61,7 +63,7 @@ tags: equipment, links
 ---
 
 ###### Reference Links
-> [!tip] See raw file for a list of links
+> [!caution] See raw file for a list of links
 
 [Brother PT-E550W Label Printer]: https://ie.rs-online.com/web/p/label-printers/9186692
 [Label Printer Tape]: https://ie.rs-online.com/web/p/label-printer-tapes/1572275?searchId=e888b5b2-ef44-424e-a07a-b6d4b04b519d&gb=s
