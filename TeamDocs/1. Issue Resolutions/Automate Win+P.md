@@ -7,7 +7,7 @@ tags:
 # Automate Win+P
 
 > [!CAUTION]
-> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](../../Crestron/1.%20OLH-Links.md#XiO%20Cloud)
+> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](../2.%20Information/Crestron%20OLH%20Links.md#XiO%20Cloud)
 
 #### Description
 > Issue Description
@@ -24,3 +24,9 @@ tags:
 ![](../../Archive/Attachments/windows-scheduler-pic1.png)
 ![](../../Archive/Attachments/windows-scheduler-pic2.png)
 ![](../../Archive/Attachments/windows-scheduler-pic3.png)
+
+### Script
+Create .bat file with the following line:
+```
+display /clone
+```

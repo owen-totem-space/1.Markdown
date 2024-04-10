@@ -7,7 +7,7 @@ tags: issue
 # UC Engine IP Address Changed
 
 > [!CAUTION]
-> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](../../Crestron/1.%20OLH-Links.md#XiO%20Cloud)
+> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](../2.%20Information/Crestron%20OLH%20Links.md#XiO%20Cloud)
 
 #### Description
 >In a flex system, the Mercury Touchpanel needs the IP address of the UC-Engine that it is connected to. The UC-Engine does not need to know the IP of the Mercury device. 
