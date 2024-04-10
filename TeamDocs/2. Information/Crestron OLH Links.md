@@ -31,7 +31,7 @@
 - [XiO Online FAQ]
 - [XiO PDF Manual]
 
-[XiO Online Manual]: (https://docs.crestron.com/en-us/8214/Content/Topics/Home.htm)
+[XiO Online Manual]: https://docs.crestron.com/en-us/8214/Content/Topics/Home.htm
 [XiO Online FAQ]: (https://docs.crestron.com/en-us/8214/Content/Topics/FAQs.htm)
 [XiO PDF Manual]: (https://www.crestron.com/getmedia/5480b91a-51af-4db5-90b1-99d864c68b12/mg_ug_crestron_xio_cloud_service)
 [XiO Single Sign On blog article]: (https://www.crestron.com/News/Blog/April-2020/SSO-for-XiO-Cloud-using-Azure-AD)
