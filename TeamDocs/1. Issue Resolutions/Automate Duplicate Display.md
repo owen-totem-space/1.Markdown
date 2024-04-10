@@ -25,7 +25,7 @@ tags:
 >[!NOTE]
 >  This method creates a .bat file that is clickable.  This `.bat` file can be triggered from windows scheduler.
 >  
->  You can also create a shortcut to this `.bat` file to change the icon etc. to make it more user friendly. I used to do this to put a button on the taskbar or desktop
+>  We will also create a shortcut to this `.bat` file to hide the file and to change the icon. I used to do this to put a button on the taskbar or desktop.
 
 - Create a new `.txt` file and name it `DisplaySwitch.txt`
 - Open the `DisplaySwitch.txt` file with `notepad.exe`
@@ -35,8 +35,8 @@ tags:
 	```
 - Save and close the file
 - Right click the file and rename it from `DisplaySwitch.txt` to `DisplaySwitch.bat`
-> You have now created an executable file. Double click the file to duplicate the displays!
-> Now lets create the shortcut:
+
+>[!TIP] You have now created an executable `.bat` file. Double click the file to duplicate the displays! Now lets create the shortcut.
 - Put this file in a discreet location on the PC
 - Right click the `DisplaySwitch.bat` file and select `Create Shortcut`
 - Once the shortcut is create, you can right click the file and select `Properties`
