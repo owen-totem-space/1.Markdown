@@ -3,6 +3,16 @@ title: USBC Research
 date: 2024-04-10
 tags: research, usbc, usb
 ---
+## Contents
+
+1. [Description](#Description)
+2. [Method 1 - Dongle & Cable](#Method%201%20-%20Dongle%20&%20Cable)
+3. [Method 2 - Laptop Dock](#Method%202%20-%20Laptop%20Dock)
+4. [Method 3 - AV Converters & Switchers](#Method%203%20-%20AV%20Converters%20&%20Switchers)
+5. [Products](#Products)
+6. [Conclusion](#Conclusion)
+7. [Further Reading](#Further%20Reading)
+
 ## Description
 
 Examine methods to provide USBC connections in both existing and new rooms.
@@ -21,7 +31,7 @@ This is the most basic approach. Current HDMI cables could be adapted by locking
 >   - Unreliable
 >   - Cannot provide power to device
 
-#### Products
+#### Dongle Products
 - [Extron HDMI-USBC Dongle]
 - [Extron DP-USBC Dongle]
 - [Extron USBC - USBC Cable]
@@ -38,6 +48,7 @@ This method involves using currently provided laptop docks as the interface betw
 > [!NOTE]
 > - Pros
 >   - Can provide power
+>   - Mid range cost
 > 
 > - Cons
 >   - Power cable and DC adapter are large
@@ -62,19 +73,19 @@ The following works for a lot of situation. It would require the switcher near t
 
 ## Products
 - ___Crestron___
-- [Crestron USBC - DM Lite Transmitter]
-- [Crestron USBC Wall Plate]
-- [Crestron DMPS Lite Receiver & Switcher]
-- [Crestron HDMI & USBC Switcher]
-- [Crestron HDMI & USBC Switcher with Charging]
+	- [Crestron USBC - DM Lite Transmitter]
+	- [Crestron USBC Wall Plate]
+	- [Crestron DMPS Lite Receiver & Switcher]
+	- [Crestron HDMI & USBC Switcher]
+	- [Crestron HDMI & USBC Switcher with Charging]
 - ___Extron___
-- [Extron USBC - HDMI Converter box]
-- [Extron USBC & HDMI & USBA Switcher] 
-- [Extron 3 In Switcher with USBC]
-- [Extron USBC - HDMI plus USB kvm]
-- [Extron Fibre Optic USB extender]
+	- [Extron USBC - HDMI Converter box]
+	- [Extron USBC & HDMI & USBA Switcher] 
+	- [Extron 3 In Switcher with USBC]
+	- [Extron USBC - HDMI plus USB kvm]
+	- [Extron Fibre Optic USB extender]
 - ___Honourable Mentions___
-- [Atlona 2 Input Switcher]
+	- [Atlona 2 Input Switcher]
 
 ---
 
