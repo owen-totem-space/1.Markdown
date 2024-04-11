@@ -4,13 +4,12 @@ date: 2024-04-10
 tags: research, usbc, usb
 ---
 ## Description
-Examine methods to provide USBC connections in both existing and new rooms.
 
-Provide some links to example pieces of equipment.
+Examine methods to provide USBC connections in both existing and new rooms.
 
 ---
 
-### Method 1 - Dongle & Cable
+## Method 1 - Dongle & Cable
 
 This is the most basic approach. Current HDMI cables could be adapted by locking dongles onto the end of them. Alternatively provide a USBC - HDMI cable in position. 
 
@@ -32,7 +31,7 @@ This is the most basic approach. Current HDMI cables could be adapted by locking
 
 ---
 
-### Method 2 - Laptop Dock
+## Method 2 - Laptop Dock
 This method involves using currently provided laptop docks as the interface between the user and the HDMI cable.
 
 
@@ -46,7 +45,7 @@ This method involves using currently provided laptop docks as the interface betw
 
 ---
 
-### Method 3 - AV Converters & Switchers
+## Method 3 - AV Converters & Switchers
 > [!CAUTION]
 > Not all switching & converting devices provide USB power, many have a separate model denoted as "with USBC charging".
 
@@ -59,28 +58,32 @@ The following works for a lot of situation. It would require the switcher near t
 - [Crestron USBC Wall Plate]
 - [Crestron DMPS Lite Receiver & Switcher]
 
-#### Products
+---
+
+## Products
 - ___Crestron___
 - [Crestron USBC - DM Lite Transmitter]
 - [Crestron USBC Wall Plate]
 - [Crestron DMPS Lite Receiver & Switcher]
 - [Crestron HDMI & USBC Switcher]
 - [Crestron HDMI & USBC Switcher with Charging]
-	___Extron___
+- ___Extron___
 - [Extron USBC - HDMI Converter box]
 - [Extron USBC & HDMI & USBA Switcher] 
 - [Extron 3 In Switcher with USBC]
-- [Extron USBC - HDMI plus USB kvm] - This is basically a dock
+- [Extron USBC - HDMI plus USB kvm]
 - [Extron Fibre Optic USB extender]
-	___Honourable Mentions___
+- ___Honourable Mentions___
 - [Atlona 2 Input Switcher]
+
+---
 
 ## Conclusion
 [Method 1 - Dongle](#Method%201%20-%20Dongle) shouldn't be anything but a short term fix for people who have no HDMI option available.
 
 While [Method 2 - Laptop Dock](#Method%202%20-%20Laptop%20Dock) may seem tempting, the costs around extra cabling and the inconvenience of the power supplies and cabling options, may not outweigh some of the options in [Method 3 - AV Converters & Switchers](#Method%203%20-%20AV%20Converters%20&%20Switchers)
 
-###### Power
+#### Power
 [Method 1 - Dongle](#Method%201%20-%20Dongle) cannot provide power to a device and should be avoided. Not all switching & converting devices provide power, many have a separate model denoted as "with USBC charging".
 
 Separate USBC ports, solely for charging, can of course be provided by cable caddies etc. But it's not really practical to have to plug in 2 USBC cables if you need to charge.
