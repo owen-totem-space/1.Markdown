@@ -1,5 +1,5 @@
 ---
-title: Equipment Links
+title: Common Purchases
 date: 2024-04-08
 tags: equipment, links
 ---
@@ -12,22 +12,22 @@ tags: equipment, links
 
 ---
 
-## Miscellaneous Equipment
+#### Miscellaneous Equipment
 - [Velcro Black Hook & Loop Tape]
 - [HDMI Port Blocker]
 - [Power Supply for Crestron 18v 0.75A]
 
-	_Labeller_
+#### Labeller
 - [Brother PT-E550W Label Printer]
 - [Label Printer Tape]
 
-	_Cat6_
+#### Cat6
 - [Female RJ45 Connector]
 
-	_Cable_
+#### Cable
 - [Lapp 3 Core Control Cable]
 
-	_SDI_
+#### SDI
 - [Inogeni SDI - USB]
 - [Blackmagic MC SDI-HDMI 3G w. PSU]
 ---
