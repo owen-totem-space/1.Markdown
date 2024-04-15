@@ -33,3 +33,9 @@ tags: [todo, purchases, tasklist]
 	- https://ie.rs-online.com/web/p/aux-cables/1929468
 - [ ] POE injector
 	- https://ie.rs-online.com/web/p/poe-injectors/2047272?gb=s
+
+---
+
+### Resources
+
+[Finance Codes 2024](https://rcsicampus.sharepoint.com/:x:/r/sites/MediaSevicesStaff/Shared%20Documents/General/Finance%20Information/Finance%20Codes%202024.xlsx?d=wc0bf963b236e4796bd231c26bc867e11&csf=1&web=1&e=zBgrfF)

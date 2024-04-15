@@ -7,7 +7,7 @@ tags: [issue, xio, flex]
 > [!CAUTION]
 > XiO Cloud settings take precedence over local settings. [XiO Cloud Help](../02-Information/Crestron-OLH-Links.md#XiO-Cloud)
 
-#### Description
+### Description
 
 In a flex system, the Mercury Touchpanel needs the IP address of the UC-Engine that it is connected to. The UC-Engine does not need to know the IP of the Mercury device. 
 
@@ -15,7 +15,7 @@ If the IP address of the UC-Engine changes, this new IP address will need to be 
 
 ---
 
-#### XiO Cloud Resolution:
+### XiO Cloud Resolution:
 
 ```
 - Go to XiO -> Find the UC-Engine -> Note it's IP address from the "Network" dropdown
@@ -28,7 +28,7 @@ If the IP address of the UC-Engine changes, this new IP address will need to be 
 - Save Changes
 ```
 
-#### Local Network Resolution:
+### Local Network Resolution:
 
 ```
 - Find and note IP address of UC-Engine (XiO, Toolbox, any other method)

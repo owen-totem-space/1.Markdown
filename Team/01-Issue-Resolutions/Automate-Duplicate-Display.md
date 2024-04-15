@@ -4,7 +4,7 @@ date: 2024-04-08
 tags:
   - issue
 ---
-#### Description
+### Description
 
  Set up windows so that it will automatically trigger "Duplicate Display" when a user logs in or unlocks the PC.
  
@@ -15,9 +15,9 @@ tags:
 - Open Windows Task Scheduler
 - Right Click Task Scheduler Library and select "Create Task"
 - Fill in as follows:
-	- ![ |500](../../Archive/Attachments/windows-scheduler-pic1.png)
-	- ![ |500](../../Archive/Attachments/windows-scheduler-pic2.png)
-	- ![ |500](../../Archive/Attachments/windows-scheduler-pic3.png)
+	- ![ |400](../../Archive/Attachments/windows-scheduler-pic1.png)
+	- ![ |400](../../Archive/Attachments/windows-scheduler-pic2.png)
+	- ![ |400](../../Archive/Attachments/windows-scheduler-pic3.png)
 ---
 
 ### Resolution #2 - Script
