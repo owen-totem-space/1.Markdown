@@ -10,11 +10,13 @@ tags:
 
 #### Description
 
-> [!TIP] ###### Issue 1
+> [!TIP] 
+> ###### Issue 1
 > - Screen loses rs232 connection with processor
 > - Screen cannot be powered on or off via touchpanel
 
-> [!TIP] ###### Issue 2
+> [!TIP] 
+> ###### Issue 2
 > - Screen loses HDMI handshake
 > - Screen can be powered on and off via touchpanel
 > - Screen still online in XiO
