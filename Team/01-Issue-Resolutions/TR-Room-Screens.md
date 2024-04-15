@@ -27,7 +27,7 @@ tags:
 ### XiO Cloud Resolution:
 
 > [!CAUTION]
-> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](Crestron-OLH-Links.md#XiO-Cloud)
+> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](../02-Information/Crestron-OLH-Links.md#XiO-Cloud)
 
 ```
 Issue 1:
