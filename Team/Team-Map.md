@@ -1,10 +1,10 @@
 ---
-title: Team Map
+title: Team-Map
 date: 2024-04-11
 tags: [moc]
 ---
 
-[Main Map](../Main%20Map.md) | 
+[Map](../Map.md) | 
 --- | ---
 
 ## Issues

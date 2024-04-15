@@ -1,12 +1,12 @@
 ---
-title: XiO Cloud
+title: XiO-Cloud
 date: 2024-04-10
-tags: xio
+tags: [crestron, xio]
 ---
 # XiO Cloud
 
 > [!CAUTION]
-> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](Crestron%20OLH%20Links.md#XiO%20Cloud)
+> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](Crestron-OLH-Links.md#XiO%20Cloud)
 
 ## Table Of Contents
 1. [Firmware Updates](#Firmware%20Updates)

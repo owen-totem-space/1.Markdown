@@ -1,5 +1,5 @@
 ---
-title: Common Purchases
+title: Common-Purchases
 date: 2024-04-08
 tags: equipment, links
 ---

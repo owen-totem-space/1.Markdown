@@ -1,5 +1,5 @@
 ---
-title: TR Room Screens
+title: TR-Room-Screens
 date: 2024-04-15
 tags:
   - issue
@@ -27,7 +27,7 @@ tags:
 ### XiO Cloud Resolution:
 
 > [!CAUTION]
-> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](../../Team/2.%20Information/Crestron%20OLH%20Links.md#XiO%20Cloud)
+> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](../02-Information/Crestron-OLH-Links.md#XiO%20Cloud)
 
 ```
 Issue 1:
