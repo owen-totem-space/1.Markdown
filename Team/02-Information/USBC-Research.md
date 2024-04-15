@@ -1,7 +1,7 @@
 ---
 title: USBC-Research
 date: 2024-04-10
-tags: [research, usbc, usb]
+tags: [research, usbc, usb, team/information]
 ---
 ## Contents
 

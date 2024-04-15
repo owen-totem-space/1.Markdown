@@ -1,7 +1,7 @@
 ---
 title: Common-Purchases
 date: 2024-04-08
-tags: equipment, links
+tags: [ equipment, team/information ]
 ---
 # Table Of Contents
 1. [Miscellaneous Equipment](#Miscellaneous%20Equipment)

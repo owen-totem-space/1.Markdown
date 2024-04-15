@@ -2,8 +2,7 @@
 title: Required-Software
 date: 2024-04-12
 cssclasses: 
-tags:
-  - note
+tags: [ team/information, sotfware ]
 ---
 
 # Required Software

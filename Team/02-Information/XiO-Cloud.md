@@ -1,7 +1,7 @@
 ---
 title: XiO-Cloud
 date: 2024-04-10
-tags: [crestron, xio]
+tags: [crestron, xio, team/information]
 ---
 # XiO Cloud
 
