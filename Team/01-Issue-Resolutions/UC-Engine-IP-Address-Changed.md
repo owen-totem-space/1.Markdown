@@ -5,7 +5,7 @@ tags: [issue, xio, flex]
 ---
 
 > [!CAUTION]
-> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](../02-Information/Crestron-OLH-Links.md#XiO%20Cloud)
+> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](Crestron-OLH-Links.md#XiO-Cloud)
 
 #### Description
 

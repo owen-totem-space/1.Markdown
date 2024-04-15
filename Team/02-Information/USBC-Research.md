@@ -6,12 +6,12 @@ tags: [research, usbc, usb]
 ## Contents
 
 1. [Description](#Description)
-2. [Method 1 - Dongle & Cable](#Method%201%20-%20Dongle%20&%20Cable)
-3. [Method 2 - Laptop Dock](#Method%202%20-%20Laptop%20Dock)
-4. [Method 3 - AV Converters & Switchers](#Method%203%20-%20AV%20Converters%20&%20Switchers)
+2. [Method-1-Dongle-&-Cable](#Method-1-Dongle-&-Cable)
+3. [Method-2-Laptop-Dock](#Method-2-Laptop-Dock)
+4. [Method-3-AV-Converters&Switchers](#Method-3-AV-Converters&Switchers)
 5. [Products](#Products)
 6. [Conclusion](#Conclusion)
-7. [Further Reading](#Further%20Reading)
+7. [Further-Reading](#Further-Reading)
 
 ## Description
 
@@ -19,7 +19,7 @@ Examine methods to provide USBC connections in both existing and new rooms.
 
 ---
 
-## Method 1 - Dongle & Cable
+## Method-1-Dongle-&-Cable
 
 This is the most basic approach. Current HDMI cables could be adapted by locking dongles onto the end of them. Alternatively provide a USBC - HDMI cable in position. 
 
@@ -41,7 +41,7 @@ This is the most basic approach. Current HDMI cables could be adapted by locking
 
 ---
 
-## Method 2 - Laptop Dock
+## Method-2-Laptop-Dock
 This method involves using currently provided laptop docks as the interface between the user and the HDMI cable.
 
 
@@ -56,7 +56,7 @@ This method involves using currently provided laptop docks as the interface betw
 
 ---
 
-## Method 3 - AV Converters & Switchers
+## Method-3-AV-Converters&Switchers
 > [!CAUTION]
 > Not all switching & converting devices provide USB power, many have a separate model denoted as "with USBC charging".
 
@@ -101,7 +101,7 @@ Separate USBC ports, solely for charging, can of course be provided by cable cad
 
 ---
 
-## Further Reading
+## Further-Reading
 - [Understanding USB in Professional AV Environments - White Paper]
 
 ---

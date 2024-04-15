@@ -4,18 +4,18 @@ tags: [crestron, faq]
 ---
 
 # Table Of Contents
-1. [General Crestron](#General%20Crestron)
+1. [General-Crestron](#General-Crestron)
 2. [Flex](#Flex)
-3. [XiO Cloud](#XiO%20Cloud)
-4. [Firmware & Recovery](#Firmware%20&%20Recovery)
-5. [Specific Hardware](#Specific%20Hardware)
+3. [XiO-Cloud](#XiO-Cloud)
+4. [Firmware&Recovery](#Firmware&Recovery)
+5. [Specific-Hardware](#Specific-Hardware)
 6. [Networking](#Networking)
 7. [Programming](#Programming)
-8. [Crestron Certified Drivers](#Crestron%20Certified%20Drivers)
-9. [Reading List](#Reading%20List)
+8. [Crestron-Certified-Drivers](#Crestron-Certified-Drivers)
+9. [Reading-List](#Reading-List)
 ---
 
-## General Crestron
+## General-Crestron
 - [Online Help Answer Index](https://docs.crestron.com/en-us/9450/Content/Topics/Home.htm)
 - [Getting Started with Online Help (OLH)](https://community.crestron.com/s/article/Getting-Started-with-Online-Help-OLH)
 - [What Information Should I Have When Contacting Crestron Support?](https://community.crestron.com/s/article/id-5413)
@@ -31,7 +31,7 @@ tags: [crestron, faq]
 - [Crestron Flex For Microsoft Teams® Rooms (MTR) Systems Insider](https://community.crestron.com/s/article/id-1000471)
 
 ---
-## XiO Cloud
+## XiO-Cloud
 - [XiO Online Manual]
 - [XiO Online FAQ]
 - [XiO PDF Manual]
@@ -50,13 +50,13 @@ tags: [crestron, faq]
 [XiO Security Guide]: https://www.crestron.com/getmedia/7519fbb5-e58c-46c7-9ab5-549ac58b507b/mg_sr_xio-cloud-security
 
 ---
-## Firmware & Recovery
+## Firmware&Recovery
 - [Crestron Firmware Updates: Getting Started & Best Practices](https://community.crestron.com/s/article/id-1000265)
 - [3-Series® Processors: Recovery Procedure](https://community.crestron.com/s/article/id-5153)
 - [Toolbox™ Software: Device Discovered But Will Not Connect to Crestron Toolbox](https://community.crestron.com/s/article/id-5768)
 
 ---
-## Specific Hardware
+## Specific-Hardware
 - [TSW & TST: Tech Tips and Known Issues](https://community.crestron.com/s/article/id-5286)
 - [DMPS-300-C: Tech Tips and Known Issues](https://community.crestron.com/s/article/id-5147)
 - [DMPS3-4K-150-C, DM-MD8x1-4K-C, HD-MD8x1-4K: Tech Tips and Known Issues](https://community.crestron.com/s/article/id-516)
@@ -73,13 +73,13 @@ tags: [crestron, faq]
 - [CH5 Help](https://sdkcon78221.crestron.com/sdk/Crestron_HTML5UI/Content/Topics/Home.htm)
 
 ---
-## Crestron Certified Drivers
+## Crestron-Certified-Drivers
 - [Crestron Certified Drivers: SIMPL Windows](https://community.crestron.com/s/article/id-1000527)
 - [Crestron Certified Drivers - Getting Started](https://community.crestron.com/s/article/id-1000185)
 - [Crestron Certified Drivers: AV Framework (AVF)](https://community.crestron.com/s/article/id-1000528)
 
 ---
-## Reading List
+## Reading-List
 - [Previous Crestron Masters Presentations and Videos - 2021](https://community.crestron.com/s/article/Previous-Crestron-Masters-Presentations-and-Videos-2021)
 - [Occupancy Sensors - Getting Started](https://community.crestron.com/s/article/id-1000184)
 - [Getting Started with Toolbox Scripting](https://community.crestron.com/s/article/id-1000540)
