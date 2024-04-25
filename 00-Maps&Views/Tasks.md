@@ -22,7 +22,7 @@ dv.taskList(
 )
 ```
 
-### Project Tasks
+### Current Project Tasks
 
 ```dataviewjs
 const pages = '#project/active'
@@ -33,6 +33,22 @@ dv.taskList(
 		.filter(t => t.children = [])
 		.where(t => query(t)
     )
+)
+```
+
+---
+
+### Future Project Tasks
+
+```dataviewjs
+const pages = '#project/future'
+const query = (t) => !t.completed
+
+dv.taskList(
+	dv.pages(pages).file.tasks
+		.filter(t => t.children = [])
+		.where(t => query(t)
+		)
 )
 ```
 
@@ -49,6 +65,8 @@ dv.taskList(
 ```
 
 ---
+
+
 
 
 

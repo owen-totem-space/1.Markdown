@@ -2,7 +2,7 @@
 title: Required-Software
 date: 2024-04-12
 cssclasses: 
-tags: [ team/information, sotfware ]
+tags: [ resource/team, software ]
 ---
 
 # Required Software
@@ -40,3 +40,13 @@ tags: [ team/information, sotfware ]
 - [ ] Filezilla - emergency file transfer to devices
 - [ ] Obsidian - Notes
 - [ ] nmap/zenmap
+
+### QSC
+- [ ] Q-sys Designer
+
+- [Q-sys Training](https://training.qsc.com/mod/page/view.php?id=560)
+- [Q-sys Designer Software](https://www.qsys.com/resources/software-and-firmware/q-sys-designer-software/)
+
+### Shure
+
+- [Shure Tech Portal](https://techportal.shure.com/en/)

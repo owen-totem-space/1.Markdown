@@ -16,13 +16,13 @@ tags: [todo, purchases, tasklist]
 	- https://www.elara.ie/productdetail.aspx?productcode=ECE5826760
 	- https://www.elara.ie/productdetail.aspx?productcode=MME0714416
 
-- [ ] Cable mat with larger opening
+- [x] Cable mat with larger opening
 	- https://ie.rs-online.com/web/p/cable-covers/1823873?gb=s
 	- https://ie.rs-online.com/web/p/cable-covers/1823871?gb=s
 	- https://ie.rs-online.com/web/p/cable-covers/1823874?gb=s
 	- https://ie.rs-online.com/web/p/cable-covers/2983452?gb=s
 
-- [ ] Cable retainer clips for wall input plates
+- [x] Cable retainer clips for wall input plates
 	- https://ie.rs-online.com/web/p/cable-tie-mounts/7048652?searchId=1ce8dd6f-f2e7-44d2-975f-322d0c2193dc&gb=s
 	
 - [ ] mini jack to mini jack
@@ -31,10 +31,14 @@ tags: [todo, purchases, tasklist]
 	- https://ie.rs-online.com/web/p/aux-cables/1929456?gb=s
 	- https://ie.rs-online.com/web/p/aux-cables/1929470?gb=s
 	- https://ie.rs-online.com/web/p/aux-cables/1929468
-- [ ] POE injector
+- [x] POE injector
 	- https://ie.rs-online.com/web/p/poe-injectors/2047272?gb=s
-- [ ] Dongle Lock
+- [x] Dongle Lock
 	- https://ie.rs-online.com/web/p/laptop-locks/2228283
+- [x] SDI Cable
+	- https://ie.rs-online.com/web/p/coaxial-cable/3657851
+- [x] SDI Connectors
+	- https://ie.rs-online.com/web/p/coaxial-connectors/2698991?gb=s
 
 ---
 

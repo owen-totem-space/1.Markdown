@@ -1,7 +1,7 @@
 ---
 title: Common-Purchases
 date: 2024-04-08
-tags: [ equipment, team/information ]
+tags: [ equipment, resource/team ]
 ---
 # Table Of Contents
 1. [Miscellaneous Equipment](#Miscellaneous%20Equipment)
@@ -16,6 +16,7 @@ tags: [ equipment, team/information ]
 - [Velcro Black Hook & Loop Tape]
 - [HDMI Port Blocker]
 - [Power Supply for Crestron 18v 0.75A]
+- [Rack Mounted Power Strip]
 
 #### Labeller
 - [Brother PT-E550W Label Printer]
@@ -49,6 +50,7 @@ tags: [ equipment, team/information ]
 - [DTP HDMI 4k 230 Tx] - Transmitter
 - [DTP HDMI 4k 230 Rx] - Receiver
 - [DTP HD DA 4K 230] - 1 HDMI input, 8 or 4 output DTP Cat6, HDMI Loop thru
+- [Extron Cable Cubby Drawer](https://www.extron.com/product/ccdseries)
 ---
 
 ## Streaming
@@ -63,7 +65,6 @@ tags: [ equipment, team/information ]
 ---
 
 ###### Reference Links
-> [!caution] See raw file for a list of links
 
 [Brother PT-E550W Label Printer]: https://ie.rs-online.com/web/p/label-printers/9186692
 [Label Printer Tape]: https://ie.rs-online.com/web/p/label-printer-tapes/1572275?searchId=e888b5b2-ef44-424e-a07a-b6d4b04b519d&gb=s
@@ -89,3 +90,4 @@ tags: [ equipment, team/information ]
 [TST‑902‑BTP]: https://www.crestron.com/Products/Accessory/Power-Supplies/Battery-Packs/TST-902-BTP
 [CEN-GWEXER-PWE]: https://www.crestron.com/Products/Control-Hardware-Software/Wireless-Communications/Wireless-Gateways/CEN-GWEXER-PWE
 [RMC4]: https://www.crestron.com/Products/Control-Hardware-Software/Hardware/Control-Systems/RMC4
+[Rack Mounted Power Strip]: https://ie.farnell.com/lms-data/pdu-6ws-h/6-way-horizontal-13a-switched/dp/3761838

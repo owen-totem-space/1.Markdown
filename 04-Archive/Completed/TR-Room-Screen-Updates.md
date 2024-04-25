@@ -32,8 +32,7 @@ For future reference. If all screens are online, export pro settings file for ot
 ---
 ###### Resources
 
-
-
+[Sony Bravia RS232](https://pro-bravia.sony.net/develop/integrate/rs-232c/data-format/index.html)
 
 
 
