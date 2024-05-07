@@ -21,14 +21,14 @@ tags: [moc]
 
 ## Dataview
 
-> [!callout]-
+> [!note]-
 > ```dataviewjs
 > const pages = '#resource/team'
 > const data = dv.pages(pages).file.link
 > dv.list(data)
 >```
 
-> [!callout]-
+> [!note]-
 > ```dataviewjs
 > const pages = '#resource/team'
 > const data = dv.pages(pages).file.link
