@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "b9c01451064d9165",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d69f0f0c68f5662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08a37193b55a216b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Projects/TR-Room-Timer-Plug.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a7c8ec9de97a4376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Team-Map.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "19e8df02dd14fedd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Team/02-Resources/Crestron-OLH-Links.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd838005e354ad2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7068aaca136f0ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3770bf630846d620",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "594ad8c53b60dbf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#project/active :project ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63db14ce10c51aef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d79721317163a0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3065269b0824a3ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "212e2aefd6128bdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Team-Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "144d06c7efe2209f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Team-Map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "432acac72b1ae25f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ff5e4e3201d5e6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Team-Map.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a7c8ec9de97a4376",
+  "lastOpenFiles": [
+    "05-Team/02-Resources/VS-Code-Online.md",
+    "Team-Map.md",
+    "Shopping-List.md",
+    "Map.md",
+    "03-Resources/Equipment/Crestron-Flex.md",
+    "03-Resources/Equipment/Aver-PTZ330.md",
+    "05-Team/02-Resources/XiO-Cloud.md",
+    "02-Areas/Notes/Outdoor-Links.md",
+    "01-Projects/Reprogram Language Lab.md",
+    "02-Areas/Notes/ray email.md",
+    "02-Areas/Notes/Untitled.md",
+    "01-Projects/TR-Room-Timer-Plug.md",
+    "01-Projects/Wheelchair-Podium.md",
+    "01-Projects/Boucher-Hayes-Cameras.md",
+    "01-Projects/College-Hall-Camera-Install.md",
+    "01-Projects/College-Hall-Podium-Cabling.md",
+    "01-Projects/Desmond-QSC-DM-Upgrade.md",
+    "01-Projects/Device-User-Access.md",
+    "01-Projects/Exam-Hall-Camera-Install.md",
+    "01-Projects/Exam-Hall-Crestron-Conversion.md",
+    "01-Projects/Physio-Movement-Redesign.md",
+    "01-Projects/Project-Connect.md",
+    "01-Projects/Mutchnik-Stage-Box.md",
+    "01-Projects/Reprogram Computer Lab.md",
+    "00-Maps&Views/Tasks.md",
+    "00-Maps&Views/Rooms.md",
+    "03-Resources/Javascript/tasklist-top-level.js",
+    "03-Resources/Javascript/purchasing-list.js",
+    "03-Resources/Javascript/New Text Document.txt",
+    "03-Resources/Javascript/meetings-tasklist.js",
+    "03-Resources/Javascript/active-project-tasklist.js",
+    "03-Resources/Javascript/future-projects-tasklist.js",
+    "03-Resources/Javascript",
+    "02-Areas/Dev/js.js",
+    "04-Archive/Attachments/Current-Wall-plate.jpg",
+    "04-Archive/Attachments/rack-wall-front.jpg",
+    "04-Archive/Attachments/Wall-plate-1.jpg",
+    "04-Archive/Attachments/wall-plate-2.jpg",
+    "04-Archive/Attachments/wall-plate-3.jpg",
+    "04-Archive/Attachments/wall plate 3.jpg",
+    "02-Areas/Dev",
+    "01-Projects/Untitled",
+    "Personal/Training/Crestron P101/CTI-P101 System Drawing-ILOT.png",
+    "04-Archive/Attachments/windows-scheduler-pic1.png",
+    "04-Archive/Attachments/windows-scheduler-pic3.png",
+    "04-Archive/Attachments/windows-scheduler-pic2.png"
+  ]
+}

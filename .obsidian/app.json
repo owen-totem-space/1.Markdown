@@ -1,0 +1,12 @@
+{
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "livePreview": false,
+  "showIndentGuide": false,
+  "tabSize": 2,
+  "attachmentFolderPath": "04-Archive/Attachments",
+  "newLinkFormat": "relative",
+  "propertiesInDocument": "source"
+}

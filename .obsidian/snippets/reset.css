@@ -1,0 +1,25 @@
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+.markdown-rendered h6 {
+  margin-block-start: 0;
+  margin-block-end: 0.5rem;
+}
+
+.markdown-rendered ul,
+.markdown-rendered ol {
+  margin-block-start: 0;
+  margin-block-end: 0.5rem;
+}
+
+.markdown-rendered p {
+  margin-block-start: 0;
+  margin-block-end: 0.5rem;
+}
+
+body {
+  --link-decoration: none;
+  --heading-spacing: calc(var(--p-spacing) * 1);
+}
