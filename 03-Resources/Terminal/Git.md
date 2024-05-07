@@ -18,3 +18,9 @@ puts files in:
 ```shell
 .git/lost-found/other
 ```
+
+## Remove folder from Git, not locally
+
+```
+> git rm -r --cached .obsidian
+```
