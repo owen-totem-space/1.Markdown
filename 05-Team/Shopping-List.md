@@ -16,8 +16,6 @@ tags: [todo, purchases, tasklist]
 	- https://www.elara.ie/productdetail.aspx?productcode=ECE5826760
 	- https://www.elara.ie/productdetail.aspx?productcode=MME0714416
 
-- [x] Ethercon heads
-	- https://ie.rs-online.com/web/p/av-connector-accessories/1216995?gb=s
 - [ ] Knipex Side Cutters
 	- https://ie.rs-online.com/web/p/cutters/0288831?gb=s
 - [ ] Klein Small Cat6 Tester
@@ -38,6 +36,9 @@ tags: [todo, purchases, tasklist]
 	- https://ie.rs-online.com/web/p/ethernet-connectors/8006829
 - [x] Blanking plate
 	- https://ie.rs-online.com/web/p/av-connector-accessories/8485294?searchId=ed5a0f06-43fa-4f71-8d4c-8308980735c2&gb=s
+
+- [x] Ethercon heads
+	- https://ie.rs-online.com/web/p/av-connector-accessories/1216995?gb=s
 
 - [x] Ethercon heads to wrap cat6 cables
 	- https://ie.rs-online.com/web/p/ethernet-connectors/1974999?gb=s
