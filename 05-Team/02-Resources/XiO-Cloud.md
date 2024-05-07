@@ -9,9 +9,9 @@ tags:
 
 ## Table Of Contents
 
-1. [User-Access](#User-Access)
-	- [Contractor-Access](#Contractor-Access)
+1. [User-Access](#User-Access)	
 	- [Adding-New-Users](#Adding-New-Users)
+	- [Contractor-Access](#Contractor-Access)
 4. [IP-Address-Note](#IP-Address-Note)
 5. [Device-Meta-Data-Links](#Device-Meta-Data-Links)
 7. [Program-Storage](#Program-Storage)
