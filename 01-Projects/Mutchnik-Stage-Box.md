@@ -9,7 +9,8 @@ tags:
 
 ## Description
 
-Install stage box under the floor to replace and prevent broken cables
+- Install stage box under the floor to replace and prevent broken cables
+- Cables getting damaged by podium movement
 
 ## Task List
 
@@ -22,8 +23,8 @@ Install stage box under the floor to replace and prevent broken cables
 
 ## Information
 
-Heading          | Description
----------------- | -----------------
+![ | 300](../04-Archive/Attachments/mutchnik-cable-damage.jpg)
+
 
 ---
 ###### Resources
