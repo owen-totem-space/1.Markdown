@@ -8,7 +8,7 @@ tags:
 
 ## Tasks
 
-- [ ] Mutchnik stage box
+- [ ] Install stage box under the podium floor in Mutchnik Lab
 - [ ] Boucher Hayes camera fix
 - [ ] TR Room timers
 - [ ] Terminate spare Cat6/SDI box in Exam Hall

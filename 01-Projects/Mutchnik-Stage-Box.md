@@ -21,6 +21,14 @@ tags:
 	- [ ] Terminate Cat6 cables in floor with female Cat6 heads
 	- [ ] Solder head onto XLR cable
 
+## Purchases
+- [x] Stage box
+	- https://www.thomann.de/ie/cae_stagebox_8.htm
+- [x] Cat6 Connectors for stage box
+- [x] XLR Connectors for stage box
+- [x] Cat6 Female connectors for installed cables
+- [x] Angles cat6 cables for tails
+
 ## Information
 
 ![ | 300](../04-Archive/Attachments/mutchnik-cable-damage.jpg)
