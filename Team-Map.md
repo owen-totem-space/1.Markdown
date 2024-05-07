@@ -19,25 +19,18 @@ tags: [moc]
 
 --- 
 
-## Issues
+## Dataview
 
-```dataviewjs
-const pages = '#issue'
+> [!callout]-
+> ```dataviewjs
+> const pages = '#resource/team'
+> const data = dv.pages(pages).file.link
+> dv.list(data)
+>```
 
-const data = dv.pages(pages).file.link
-
-dv.list(data)
-```
-
-## Resources
-
-```dataviewjs
-const pages = '#resource/team'
-
-const data = dv.pages(pages).file.link
-
-dv.list(data)
-```
-
----
-
+> [!callout]-
+> ```dataviewjs
+> const pages = '#resource/team'
+> const data = dv.pages(pages).file.link
+> dv.list(data)
+>```
