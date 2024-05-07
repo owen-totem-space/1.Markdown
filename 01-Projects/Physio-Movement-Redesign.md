@@ -59,8 +59,8 @@ I plan to replace the two switcher system with a single dual output DMPS3.
 
 ## Purchases
 
-- [ ] Buy battery for Wireless Touchpanel TST-902
-- [ ] Buy wireless CEN-GWEXER
+- [x] Buy battery for Wireless Touchpanel TST-902
+- [x] Buy wireless CEN-GWEXER
 
 ---
 
