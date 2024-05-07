@@ -13,11 +13,6 @@ tags:
 - [ ] TR Room timers
 - [ ] Terminate spare Cat6/SDI box in Exam Hall
 
-## Information
-
-
----
-
 ###### Resources
 
 - [Mutchnik-Stage-Box](../01-Projects/Mutchnik-Stage-Box.md)
