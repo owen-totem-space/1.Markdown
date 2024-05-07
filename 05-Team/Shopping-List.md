@@ -32,6 +32,7 @@ tags: [todo, purchases, tasklist]
 
 ---
 
+### Completed Purchases
 
 - [x] Male Cat6 Heads
 	- https://ie.rs-online.com/web/p/ethernet-connectors/8006829
