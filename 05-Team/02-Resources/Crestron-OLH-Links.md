@@ -24,6 +24,7 @@ tags: [crestron, faq, resource/team]
 - [Tools](https://www.crestron.com/support/tools)
 - [Pricing Availability](https://www.crestron.com/pro/app/pricing-availability)
 
+
 ---
 ## Flex
 - [Crestron Flex: Crestron Remote Client](https://community.crestron.com/s/article/id-1000725)
@@ -70,6 +71,7 @@ tags: [crestron, faq, resource/team]
 - [DM - Private Network Mode (PNM) & Rapid Spanning Tree Protocol (RSTP)](https://community.crestron.com/s/article/id-1000153)
 - [crestron.com/Security](https://www.crestron.com/Security)
 - [IP Guidelines for the IT Professional](https://www.crestron.com/getmedia/4292ddca-5063-4b79-8d61-9b29fbb425eb/mg_sr_ip-guidelines-for-the-it-professional)
+- [3-Series Security Reference Guide](https://www.crestron.com/getmedia/659a78e0-bd45-431d-af60-1eeeff825fa2/mg_sr_crestron-secure)
 
 ---
 ## Programming

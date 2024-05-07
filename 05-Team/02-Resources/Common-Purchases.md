@@ -17,6 +17,7 @@ tags: [ equipment, resource/team ]
 - [HDMI Port Blocker]
 - [Power Supply for Crestron 18v 0.75A]
 - [Rack Mounted Power Strip]
+- [Neutrik Male XLR Connector]
 
 #### Labeller
 - [Brother PT-E550W Label Printer]
@@ -24,6 +25,7 @@ tags: [ equipment, resource/team ]
 
 #### Cat6
 - [Female RJ45 Connector]
+- [Molex RJ45 Connector]
 
 #### Cable
 - [Lapp 3 Core Control Cable]
@@ -69,6 +71,7 @@ tags: [ equipment, resource/team ]
 [Brother PT-E550W Label Printer]: https://ie.rs-online.com/web/p/label-printers/9186692
 [Label Printer Tape]: https://ie.rs-online.com/web/p/label-printer-tapes/1572275?searchId=e888b5b2-ef44-424e-a07a-b6d4b04b519d&gb=s
 [Female RJ45 Connector]: https://ie.rs-online.com/web/p/ethernet-connectors/7810845
+[Molex RJ45 Connector]: (https://ie.rs-online.com/web/p/ethernet-connectors/8006829?gb=s)
 [Inogeni SDI - USB]: https://www.thomann.de/ie/inogeni_sdi_to_usb_3.0_converter.htm?listPosition=2
 [Blackmagic MC SDI-HDMI 3G w. PSU]:https://www.thomann.de/ie/blackmagic_design_mc_sdi_hdmi_3g_w._psu.htm
 [Velcro Black Hook & Loop Tape]: https://ie.rs-online.com/web/p/hook-loop-tapes/4239533?searchId=a14c5c77-e4ef-4f1f-b9ef-5b48365ff754&gb=s
@@ -91,3 +94,5 @@ tags: [ equipment, resource/team ]
 [CEN-GWEXER-PWE]: https://www.crestron.com/Products/Control-Hardware-Software/Wireless-Communications/Wireless-Gateways/CEN-GWEXER-PWE
 [RMC4]: https://www.crestron.com/Products/Control-Hardware-Software/Hardware/Control-Systems/RMC4
 [Rack Mounted Power Strip]: https://ie.farnell.com/lms-data/pdu-6ws-h/6-way-horizontal-13a-switched/dp/3761838
+
+[Neutrik Male XLR Connector]: (https://ie.rs-online.com/web/p/xlr-connectors/0405607?searchId=2cd68ffa-e5aa-47b3-884c-7883dab3357e&gb=s)
