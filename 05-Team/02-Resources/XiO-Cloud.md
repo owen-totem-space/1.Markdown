@@ -26,7 +26,7 @@ tags:
 ### Adding-New-Users
 
 - Create new user on XiO Cloud with @rcsi.com address. [XiO Help: Manage Users](https://docs.crestron.com/en-us/8214/Content/Topics/Manage-Users.htm)
-- Contact Pat Barry to request access to rcsi-portal.crestron.io for the new users @rcsi account.
+- Contact Pat Barry to request access to rcsi-portal.crestron.io for the new user's @rcsi account.
 - User access by role available here: [User Access Matrix](https://docs.crestron.com/en-us/8214/Content/Topics/Appendix-User-Access.htm)
 
 ### Contractor-Access
@@ -48,7 +48,7 @@ The **SETTINGS** menu for managing support providers is located in the user ma
 
 [XiO Help: Device Metadata](https://docs.crestron.com/en-us/8214/Content/Topics/Manage-Devices.htm#DeviceMetadata)
  
-- For convenience, under the processor of each room I have saved a link to other non XiO Cloud equipment & the Web XPanels
+- For convenience, under the processor of each room I have saved a link to other non XiO Cloud equipment & the HTML5 XPanels
 
 ## Program-Storage
 
