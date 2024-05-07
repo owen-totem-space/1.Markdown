@@ -2,7 +2,9 @@
 title: {{title}}
 date: {{date}}
 time: {{time}}
-tags: []
+tags: 
+	- meeting-note
+	- template
 ---
 # {{title}}
 

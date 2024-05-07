@@ -2,7 +2,9 @@
 title: {{title}}
 date: {{date}}
 cssclasses: []
-tags: [note]
+tags: 
+	- note
+	- template
 ---
 
 # {{title}}

@@ -1,7 +1,9 @@
 ---
 title: {{title}}
 date: {{date}}
-tags: [issue]
+tags: 
+	- issue
+	- template
 ---
 # {{title}}
 
