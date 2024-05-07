@@ -23,6 +23,10 @@ tags:
 
 ## User-Access
 
+### Adding-New-Users
+
+- Create new user on XiO Cloud with @rcsi.com address. [XiO Help: Manage Users](https://docs.crestron.com/en-us/8214/Content/Topics/Manage-Users.htm)
+- Contact Pat Barry to request access to rcsi-portal.crestron.io for the new users @rcsi account.
 - User access by role available here: [User Access Matrix](https://docs.crestron.com/en-us/8214/Content/Topics/Appendix-User-Access.htm)
 
 ### Contractor-Access
@@ -33,11 +37,6 @@ tags:
 The **SETTINGS** menu for managing support providers is located in the user management panel, which may be accessed by clicking the **Settings** button in the navigation menu.
 
 ![](https://docs.crestron.com/en-us/8214/Content/Resources/Images/156-Support-Providers.png)
-
-### Adding-New-Users
-
-- Create new user on XiO Cloud with @rcsi.com address. [XiO Help: Manage Users](https://docs.crestron.com/en-us/8214/Content/Topics/Manage-Users.htm)
-- Contact Pat Barry to request access to rcsi-portal.crestron.io for the new users @rcsi account.
 
 ---
 
