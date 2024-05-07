@@ -14,11 +14,12 @@ tags:
 	- [Adding-New-Users](#Adding-New-Users)
 4. [IP-Address-Note](#IP-Address-Note)
 5. [Device-Meta-Data-Links](#Device-Meta-Data-Links)
-6. [Remote-Control](#Remote-Control)
 7. [Program-Storage](#Program-Storage)
 8. [Firmware-Updates](#Firmware-Updates)
-9. [HTML5-XPanels](#HTML5-XPanels)
-10. [Scheduling](#Scheduling)
+9. [Scheduling](#Scheduling)
+10. [HTML5-XPanels](#HTML5-XPanels)
+
+---
 
 ## User-Access
 
@@ -37,6 +38,7 @@ The **SETTINGS** menu for managing support providers is located in the user ma
 - Contact Pat Barry to request access to rcsi-portal.crestron.io for the new users @rcsi account.
 
 ---
+
 ## IP-Address-Note
 
 - All device IP addresses on XiO Cloud should be taken as the truthful, real time IP address if the device is online.
