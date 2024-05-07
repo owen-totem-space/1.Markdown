@@ -4,7 +4,7 @@ date: 2024-04-11
 tags: [moc]
 ---
 
-[Map](../Map.md) | 
+[Map](../Map.md) | [Shopping-List](00-Maps&Views/Shopping-List.md)
 --- | ---
 
 ## Issues

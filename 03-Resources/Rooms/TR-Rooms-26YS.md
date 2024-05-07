@@ -20,5 +20,6 @@ Heading          | Description
 - Install Ceiling Mics
 - Reprogram
 - [HTML5-XPanels](../../04-Archive/Completed/HTML5-XPanels.md)
+- [TR-Room-Timer-Plug](../../01-Projects/TR-Room-Timer-Plug.md)
 
 ###### Resources

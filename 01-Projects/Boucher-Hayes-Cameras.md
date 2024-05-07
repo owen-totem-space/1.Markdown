@@ -16,6 +16,7 @@ tags: [project/active]
 - [x] remove poly device
 - [x] Write program - no program available
 - [ ] Find wiring for second Camera
+	- [See Below](#Fix-Second-Camera)
 
 ## Connected Equipment
 - cp3 controller
@@ -29,3 +30,15 @@ tags: [project/active]
 - DMC-RMC-4K-Scaler-C
 
 --- 
+
+## Fix-Second-Camera
+
+- Use Toolbox Simpl Debugger to watch Camera Tx and Rx signals
+- Try different wiring permutations in CP3 com port
+- Use Cam init to try to stimulate Rx.
+- Once Rx is seen, camera should be working and controllable.
+
+---
+
+###### Resources
+[Boucher-Hayes-502](../03-Resources/Rooms/Boucher-Hayes-502.md)
