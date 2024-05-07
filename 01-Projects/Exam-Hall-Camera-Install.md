@@ -1,6 +1,8 @@
 ---
 title: Exam Hall Camera Install
 date: 2024-04-10
+building: 123SSG
+room: Exam-Hall
 tags: [project/active]
 ---
 

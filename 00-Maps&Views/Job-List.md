@@ -11,7 +11,7 @@ tags:
 - [ ] Mutchnik stage box
 - [ ] Boucher Hayes camera fix
 - [ ] TR Room timers
-- [ ] Terminate spare box in Exam Hall
+- [ ] Terminate spare Cat6/SDI box in Exam Hall
 
 ## Information
 

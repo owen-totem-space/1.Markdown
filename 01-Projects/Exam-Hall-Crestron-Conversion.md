@@ -1,8 +1,8 @@
 ---
 title: Exam-Hall-Crestron-Conversion
 date: 2024-04-16
-building: 
-room: 
+building: 123SSG
+room: Exam-Hall
 tags:
   - project/future
   - programming

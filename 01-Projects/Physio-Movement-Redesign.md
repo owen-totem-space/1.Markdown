@@ -2,7 +2,7 @@
 title: Physio-Movement-Redesign
 date: 2024-04-12
 building: 123SSG
-room: Physio Movement
+room: Physio-Movement
 tags:
   - project/future
 ---

@@ -2,7 +2,7 @@
 title: Mutchnik 302 Stage Box
 date: 2024-04-12
 building: 26YS
-room: 302
+room: Mutchnik-Lab-302
 tags:
   - project/active
 ---

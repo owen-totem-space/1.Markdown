@@ -2,7 +2,7 @@
 title: College-Hall-Podium-Cabling
 date: 2024-04-12
 building: 123SSG
-room: College Hall
+room: College-Hall
 tags:
   - project/active
 ---

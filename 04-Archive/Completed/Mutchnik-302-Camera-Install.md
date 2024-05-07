@@ -1,6 +1,8 @@
 ---
 title: Mutchnik-302-Camera-Install
 date: 2024-04-10
+building: 26YS
+room: Mutchnik-Lab-302
 tags: [project/complete]
 ---
 ## Description

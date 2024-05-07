@@ -1,18 +1,18 @@
 ---
-title: Reprogram Computer Lab
+title: Reprogram-Language-Lab
 date: 2024-04-25
 building: 26YS
-room: Computer Lab
+room: Language-Lab
 tags:
   - project/future
-  - programming
 ---
 
 ## Description
 
 - Create new user interface in line with other rooms
 - Add projector drivers for XiO
-- Is a camera necessary?
+- Is this a DMPS? Does it need a DMPS? Can we use an RMC?
+
 
 ## Task List
 
@@ -24,4 +24,5 @@ Heading          | Description
 ---------------- | -----------------
 
 ---
+
 ###### Resources

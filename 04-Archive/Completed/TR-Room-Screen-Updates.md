@@ -2,7 +2,7 @@
 title: TR-Room-Screen-Updates
 date: 2024-04-12
 building: 26YS
-room: TR Rooms
+room: TR-Rooms
 tags:
   - project/complete
   - tr-rooms

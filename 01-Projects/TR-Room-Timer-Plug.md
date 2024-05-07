@@ -1,8 +1,8 @@
 ---
-title: TR Room Timer Plug
+title: TR-Room-Timer-Plug
 date: 2024-05-03
 building: 26YS
-room: TR Rooms
+room: TR-Rooms-26YS
 tags:
   - project/active
   - tr-rooms
