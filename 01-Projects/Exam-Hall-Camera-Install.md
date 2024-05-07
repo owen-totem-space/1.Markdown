@@ -1,19 +1,26 @@
 ---
-title: Exam Hall Camera Install
+title: Exam-Hall-Camera-Install
 date: 2024-04-10
 building: 123SSG
 room: Exam-Hall
-tags: [project/active]
+tags:
+  - project/active
 ---
 
 ## Tasks
 
+- [x] Ask Estates to install cabling
+	- Completed by Ian
 - [x] Terminate Camera SDI cables
+- [x] Terminate Cat6 Cables
 - [ ] Install and terminate spare SDI/Cat6 box
 - [ ] Change IP Address to AV VLAN
 - [ ] Change Sennheiser IP addresses to AV VLAN
+- [ ] Debug camera issue - No Content Showing
 
 ## Information
+
+- Due to booking cancellations and issues arranging time for an installer to complete the work, we decided to complete the work ourselves with the help if estates to install the cabling.
 
 - [Exam-Hall](../03-Resources/Rooms/Exam-Hall.md)
 - [Aver PTZ330 Manual]
