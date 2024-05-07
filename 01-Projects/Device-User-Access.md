@@ -7,34 +7,22 @@ tags:
   - project/active
 ---
 
-## Description
-
-Credentials
-ray_lohan - Operator1
-admin - Connected1
-ISS - ISSAVRCSI
-
-## Actions
-
-- added devices to XiO
-- Added authentication with 3 user accounts listed above.
-
-## Comments
+## Active Directory
 
 - I was able to add the active directory group Design-MediaServices
 - I added myself as user. I could log in with the toolbox terminal.
 - Could not log in to web interface or toolbox
 - used username  `rcsi\owenmccarthy`
 
-## Instructions
+### Instructions
 
-#### Check Active Directory Groups
+###### Check Active Directory Groups
 
-```
+```powershell
 net user USERNAME /domain
-```
-Also:
-```
+
+OR
+
 whoami /groups
 ```
 
