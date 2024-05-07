@@ -4,8 +4,8 @@ date: 2024-04-11
 tags: [moc]
 ---
 
-[Map](../Map.md) | [Shopping-List](00-Maps&Views/Shopping-List.md) | [Job-List](00-Maps&Views/Job-List.md)
---- | --- | ---
+[Shopping-List](00-Maps&Views/Shopping-List.md) | [Job-List](00-Maps&Views/Job-List.md)
+--- | ---
 
 ## Issues
 <div><div class="block-language-dataviewjs node-insert-event" style="overflow-x: auto;"><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="04-Archive/Templates/Issue-Template.md" data-href="04-Archive/Templates/Issue-Template.md" href="04-Archive/Templates/Issue-Template.md" class="internal-link" target="_blank" rel="noopener">Issue-Template</a></span></li><li><span><a data-tooltip-position="top" aria-label="05-Team/01-Issue-Resolutions/XiO Duplicate Mac Address.md" data-href="05-Team/01-Issue-Resolutions/XiO Duplicate Mac Address.md" href="05-Team/01-Issue-Resolutions/XiO Duplicate Mac Address.md" class="internal-link" target="_blank" rel="noopener">XiO Duplicate Mac Address</a></span></li><li><span><a data-tooltip-position="top" aria-label="05-Team/01-Issue-Resolutions/TR-Room-Screens.md" data-href="05-Team/01-Issue-Resolutions/TR-Room-Screens.md" href="05-Team/01-Issue-Resolutions/TR-Room-Screens.md" class="internal-link" target="_blank" rel="noopener">TR-Room-Screens</a></span></li><li><span><a data-tooltip-position="top" aria-label="05-Team/01-Issue-Resolutions/UC-Engine-IP-Address-Changed.md" data-href="05-Team/01-Issue-Resolutions/UC-Engine-IP-Address-Changed.md" href="05-Team/01-Issue-Resolutions/UC-Engine-IP-Address-Changed.md" class="internal-link" target="_blank" rel="noopener">UC-Engine-IP-Address-Changed</a></span></li><li><span><a data-tooltip-position="top" aria-label="05-Team/01-Issue-Resolutions/Automate-Duplicate-Display.md" data-href="05-Team/01-Issue-Resolutions/Automate-Duplicate-Display.md" href="05-Team/01-Issue-Resolutions/Automate-Duplicate-Display.md" class="internal-link" target="_blank" rel="noopener">Automate-Duplicate-Display</a></span></li></ul></div></div></div>
