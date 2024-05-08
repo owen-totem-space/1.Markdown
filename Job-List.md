@@ -16,8 +16,10 @@ tags:
 
 ###### Resources
 
-- [Mutchnik-Stage-Box](../01-Projects/Mutchnik-Stage-Box.md)
-- [Boucher-Hayes-Cameras](../01-Projects/Boucher-Hayes-Cameras.md)
-- [TR-Room-Timer-Plug](../01-Projects/TR-Room-Timer-Plug.md)
-- [Exam-Hall-Camera-Install](../01-Projects/Exam-Hall-Camera-Install.md)
+- [Mutchnik-Stage-Box](01-Projects/Mutchnik-Stage-Box.md)
+- [Boucher-Hayes-Cameras](01-Projects/Boucher-Hayes-Cameras.md)
+- [TR-Room-Timer-Plug](01-Projects/TR-Room-Timer-Plug.md)
+- [Exam-Hall-Camera-Install](01-Projects/Exam-Hall-Camera-Install.md)
 - [College-Hall-Podium-Cabling](01-Projects/College-Hall-Podium-Cabling.md)
+
+
