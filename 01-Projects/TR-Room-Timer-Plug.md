@@ -29,7 +29,9 @@ tags:
 	- [x] Contact estates by email
 	- [ ] Billy to complete job
 - [ ] Place Timer on the screen plug in each room
-- [ ] Check for and remove any unnecessary cabling behind screens.
+- [ ] Bring Small Ladder 
+	- Check for and remove any unnecessary cabling behind screens
+	- Use clips to tidy cabling
 
 
 
