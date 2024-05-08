@@ -17,18 +17,23 @@ tags:
 - Investigate putting a stage box on the side of the podium.
 - Investigate using cable mat
 
+---
+
 ## Task List
 
 - [ ] Podium Cabling
 	-  Install new cables where necessary
 	-  Dress cables with cable sock
+- [ ] Ask about IEC power connection to podium
 - [x] Purchase or make bespoke length cables
 	- [x] Get List Of Cables
 - [x] Source a stage box plate to mount on podium
 	- https://www.thomann.de/ie/cae_stagebox_8.htm
 - [x] Contact estates to make hole in podium
 - [x] Make 2 cable looms, short and long
-- [ ] Contact Estates to make hole in the side of the podium
+- [x] Contact Estates to make hole in the side of the podium
+
+---
 
 ## Cable list
 
