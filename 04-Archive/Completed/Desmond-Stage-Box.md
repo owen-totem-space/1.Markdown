@@ -35,6 +35,15 @@ No  | Device
 11  | Camera Capture Card
 12  | USB Keyboard
 
+## Purchases
+
+- [x] Stage Box
+	- https://www.thomann.de/ie/cae_stagebox_120.htm
+- [x] Cat6 Connectors for box
+- [x] Xlr Connectors for box
+- [x] Angled Cat6 Cables
+- [x] Cat6 Heads
+- [x] XLR heads
 
 ###### Resources
 

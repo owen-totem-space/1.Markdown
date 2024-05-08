@@ -16,10 +16,10 @@ tags:
 
 - [ ] Build Stage Box
 	- [ ] Cat6 can be built as back to back - angled Cat6 Cables in basement
-	- [ ] Solder XLR
+	- [ ] Solder Female XLR port to male XLR head
 - [ ] Install stage box in floor
 	- [ ] Terminate Cat6 cables in floor with female Cat6 heads
-	- [ ] Solder head onto XLR cable
+	- [ ] Solder female head onto XLR cable in floor
 
 ## Purchases
 - [x] Stage box

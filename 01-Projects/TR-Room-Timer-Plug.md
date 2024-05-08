@@ -10,6 +10,7 @@ tags:
 
 > [!NOTE]
 > - Estates contacted to replace 2 pin plugs. Billy TODO
+> - Spoke to Billy, gave him 12 3 pin plugs
 
 
 ## Description
