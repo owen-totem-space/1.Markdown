@@ -5,6 +5,7 @@ building: 26YS
 room: Desmond
 tags:
   - project/inactive
+  - accessibility
 ---
 
 ## Information

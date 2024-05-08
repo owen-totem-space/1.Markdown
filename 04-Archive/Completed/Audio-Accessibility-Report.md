@@ -5,6 +5,7 @@ cssclasses:
 tags:
   - note
   - report/complete
+  - accessibility
 ---
 
 # Audio-Accessibility-Report

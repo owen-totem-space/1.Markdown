@@ -7,14 +7,15 @@ tags:
   - project/active
 ---
 
-## Active Directory
+## Device Access Control
+### Active Directory
 
 - I was able to add the active directory group Design-MediaServices
 - I added myself as user. I could log in with the toolbox terminal.
 - Could not log in to web interface or toolbox
 - used username  `rcsi\owenmccarthy`
 
-### Instructions
+#### Instructions
 
 ###### Check Active Directory Groups
 
@@ -26,6 +27,8 @@ OR
 whoami /groups
 ```
 
+### Use script to create new credentials on all devices
+- 
 
 
 ---

@@ -20,6 +20,8 @@ tags: [todo, purchases, tasklist]
 	- https://ie.rs-online.com/web/p/cutters/0288831?gb=s
 - [ ] Klein Small Cat6 Tester
 	- https://ie.rs-online.com/web/p/network-testers/2708016?gb=s
+- [ ] SDI panel connector for exam hall box
+	- https://ie.rs-online.com/web/p/coaxial-connectors/1750160
 
 
 --- 

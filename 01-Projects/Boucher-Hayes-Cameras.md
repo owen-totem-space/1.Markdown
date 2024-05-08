@@ -2,7 +2,7 @@
 title: Boucher-Hayes-Cameras
 date: 2024-04-10
 building: 26YS
-room: 502
+room: Boucher-Hayes-502
 tags: [project/active]
 ---
 
