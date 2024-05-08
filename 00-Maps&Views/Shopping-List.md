@@ -18,12 +18,18 @@ tags: [todo, purchases, tasklist]
 
 - [ ] Knipex Side Cutters
 	- https://ie.rs-online.com/web/p/cutters/0288831?gb=s
-- [ ] Klein Small Cat6 Tester
+- [ ] Knipex Wire stripper
+	- https://ie.rs-online.com/web/p/wire-strippers/1245812?gb=s
+- [ ] Klein Small RJ45 Tester
 	- https://ie.rs-online.com/web/p/network-testers/2708016?gb=s
+- [ ] RJ45 Crimper
+	- https://ie.rs-online.com/web/p/crimp-tools/2286501?gb=s
 - [ ] SDI panel connector for exam hall box
-	- https://ie.rs-online.com/web/p/coaxial-connectors/1750160
-- [ ] Cheap Cat6 Heads for practice
-
+	- https://ie.rs-online.com/web/p/coaxial-connectors/3997733?gb=s
+- [ ] Cheap Cat5 Heads for practice
+	- https://ie.rs-online.com/web/p/ethernet-connectors/8863262
+- [ ] Soldering Helping Hand
+	- https://ie.rs-online.com/web/p/soldering-accessories/2083893?gb=s
 
 --- 
 

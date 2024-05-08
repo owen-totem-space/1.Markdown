@@ -7,6 +7,10 @@ tags:
   - project/active
 ---
 
+> [!Note]
+> John has contacted estates about cutting hole in podium for stage box
+
+
 ## Description
 
 - Clean up the cabling at the podium. 
