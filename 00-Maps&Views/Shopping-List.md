@@ -16,19 +16,19 @@ tags: [todo, purchases, tasklist]
 	- https://www.elara.ie/productdetail.aspx?productcode=ECE5826760
 	- https://www.elara.ie/productdetail.aspx?productcode=MME0714416
 
-- [ ] Knipex Side Cutters
+- [x] Knipex Side Cutters
 	- https://ie.rs-online.com/web/p/cutters/0288831?gb=s
-- [ ] Knipex Wire stripper
+- [x] Knipex Wire stripper
 	- https://ie.rs-online.com/web/p/wire-strippers/1245812?gb=s
-- [ ] Klein Small RJ45 Tester
+- [x] Klein Small RJ45 Tester
 	- https://ie.rs-online.com/web/p/network-testers/2708016?gb=s
-- [ ] RJ45 Crimper
+- [x] RJ45 Crimper
 	- https://ie.rs-online.com/web/p/crimp-tools/2286501?gb=s
-- [ ] SDI panel connector for exam hall box
+- [x] SDI panel connector for exam hall box
 	- https://ie.rs-online.com/web/p/coaxial-connectors/3997733?gb=s
-- [ ] Cheap Cat5 Heads for practice
+- [x] Cheap Cat5 Heads for practice
 	- https://ie.rs-online.com/web/p/ethernet-connectors/8863262
-- [ ] Soldering Helping Hand
+- [x] Soldering Helping Hand
 	- https://ie.rs-online.com/web/p/soldering-accessories/2083893?gb=s
 
 --- 
