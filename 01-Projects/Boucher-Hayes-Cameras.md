@@ -41,4 +41,4 @@ tags: [project/active]
 ---
 
 ###### Resources
-[Boucher-Hayes-502](../03-Resources/Rooms/Boucher-Hayes-502.md)
+- [Boucher-Hayes-502](../03-Resources/Rooms/Boucher-Hayes-502.md)

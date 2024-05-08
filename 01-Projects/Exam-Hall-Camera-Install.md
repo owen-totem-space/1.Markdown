@@ -29,9 +29,9 @@ tags:
 ###### Reference Links
 [Aver PTZ330 Manual]: https://www.averusa.com/pro-av/downloads/user-manual/PTZ310,330,310N,330N%20UM_20200316.pdf
 
-[Exam Hall list of works.docx](https://rcsicampus-my.sharepoint.com/:w:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/Exam%20Hall%20list%20of%20works.docx?d=w5fd95ffa6ad24740a4a457dfd8c9872b&csf=1&web=1&e=W8wEJT)
+- [Exam Hall list of works.docx](https://rcsicampus-my.sharepoint.com/:w:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/Exam%20Hall%20list%20of%20works.docx?d=w5fd95ffa6ad24740a4a457dfd8c9872b&csf=1&web=1&e=W8wEJT)
 
-[Exam-Hall-Stage-Box-Pics](https://rcsicampus-my.sharepoint.com/:f:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/Exam-Hall-Stage-Box-Pics?csf=1&web=1&e=vhMNCt)
+- [Exam-Hall-Stage-Box-Pics](https://rcsicampus-my.sharepoint.com/:f:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/Exam-Hall-Stage-Box-Pics?csf=1&web=1&e=vhMNCt)
 
 
 

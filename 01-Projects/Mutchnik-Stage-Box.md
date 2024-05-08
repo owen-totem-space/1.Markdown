@@ -36,4 +36,4 @@ tags:
 
 ---
 ###### Resources
-[Mutchnik-Lab-302](../03-Resources/Rooms/Mutchnik-Lab-302.md)
+- [Mutchnik-Lab-302](../03-Resources/Rooms/Mutchnik-Lab-302.md)

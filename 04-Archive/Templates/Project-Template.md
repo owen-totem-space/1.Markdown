@@ -3,9 +3,7 @@ title: {{title}}
 date: {{date}}
 building:
 room:
-tags: 
-	- project
-	- template
+tags: [project, template]
 ---
 
 ## Description

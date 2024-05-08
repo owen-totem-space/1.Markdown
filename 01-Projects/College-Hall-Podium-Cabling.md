@@ -52,5 +52,5 @@ tags:
 ---
 ### Resources
 
-[College-Hall](../03-Resources/Rooms/College-Hall.md)
-[College-Hall-Camera-Install](College-Hall-Camera-Install.md)
+- [College-Hall](../03-Resources/Rooms/College-Hall.md)
+- [College-Hall-Camera-Install](College-Hall-Camera-Install.md)

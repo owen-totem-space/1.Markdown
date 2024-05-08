@@ -22,6 +22,7 @@ tags: [todo, purchases, tasklist]
 	- https://ie.rs-online.com/web/p/network-testers/2708016?gb=s
 - [ ] SDI panel connector for exam hall box
 	- https://ie.rs-online.com/web/p/coaxial-connectors/1750160
+- [ ] Cheap Cat6 Heads for practice
 
 
 --- 

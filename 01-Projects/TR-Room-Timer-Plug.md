@@ -38,5 +38,5 @@ tags:
 ---
 
 ###### Resources
-[Link to Timer](https://ie.rs-online.com/web/p/plug-in-timers/1716224?gb=s)
-[TR-Rooms-26YS](../03-Resources/Rooms/TR-Rooms-26YS.md)
+- [Link to Timer](https://ie.rs-online.com/web/p/plug-in-timers/1716224?gb=s)
+- [TR-Rooms-26YS](../03-Resources/Rooms/TR-Rooms-26YS.md)
