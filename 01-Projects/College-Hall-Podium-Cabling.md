@@ -24,6 +24,7 @@ tags:
 	- https://www.thomann.de/ie/cae_stagebox_8.htm
 - [x] Contact estates to make hole in podium
 - [x] Make 2 cable looms, short and long
+- [ ] Contact Estates to make hole in the side of the podium
 
 ## Cable list
 
