@@ -18,18 +18,3 @@ tags: [moc]
 
 --- 
 
-## Dataview
-
-> [!note]
-> ```dataviewjs
-> const pages = '#issue'
-> const data = dv.pages(pages).file.link
-> dv.list(data)
->```
-
-> [!note]
-> ```dataviewjs
-> const pages = '#resource/team'
-> const data = dv.pages(pages).file.link
-> dv.list(data)
->```
