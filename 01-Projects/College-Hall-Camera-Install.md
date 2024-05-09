@@ -28,23 +28,23 @@ The following needs to be decided:
 	-  Cabling To Network
 	-  Power For Converters
 - [ ] Get HDMI - Cat6 Converters
+- [ ] Debug pan/tilt programming
 
 ## Information
 
-Heading              | Description
--------------------- | -----------------
-00:10:7f:84:41:b5    | [Autoswitch IP]
-00:18:1A:09:75:95    | [Camera IP]
-c4:42:68:25:59:6a    | MPC3 [XPanel IP]
-
----
-
-###### Resources
+Device         | MAC               | Link
+-------------- | ----------------- | ---------
+HD-MD-400-CE   | 00:10:7f:84:41:b5 | [Autoswitch IP]
+Aver PTZ       | 00:18:1A:09:75:95 | [Camera IP]
+MPC3           | c4:42:68:25:59:6a | [XPanel IP]
 
 [Camera IP]: http://10.2.160.55
 [Autoswitch IP]: http://10.2.160.45
 [XPanel IP]: http://10.2.160.42
-[Aver-PTZ330](../../03-Resources/Equipment/Aver-PTZ330.md)
 
-[College-Hall](../03-Resources/Rooms/College-Hall.md)
-[College-Hall-Podium-Cabling](College-Hall-Podium-Cabling.md)
+---
+
+###### Resources
+- [Aver-PTZ330](../../03-Resources/Equipment/Aver-PTZ330.md)
+- [College-Hall](../03-Resources/Rooms/College-Hall.md)
+- [College-Hall-Podium-Cabling](College-Hall-Podium-Cabling.md)
