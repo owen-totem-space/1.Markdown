@@ -4,7 +4,7 @@ date: 2024-05-07
 building: Beaumont-Hospital
 room: Carmichael
 tags:
-  - project/active
+  - project/complete
 ---
 
 ## Description
@@ -19,7 +19,7 @@ tags:
 - [x] add admin User for ISS
 - [x] add operator user for local user (Ray)
 - [x] add devices to XiO
-- [ ] Update firmware
+- [x] Update firmware
 - [x] Order XiO room licences
 	- PO sent to ISS
 
@@ -31,3 +31,5 @@ tags:
 - [5x XIO Licenses Quote May 2024.pdf](https://rcsicampus.sharepoint.com/:b:/r/sites/MediaSevicesStaff/Shared%20Documents/General/AV%20Room%20Installation%20(PO%27s%20-%20Quotes%20-%20RAMS)/Equipment,%20Subscriptions%20%26%20Contract%20Quotes-PO%27s/XiO%20Cloud%20Room%20Licences/5x%20XIO%20Licenses%20Quote%20May%202024.pdf?csf=1&web=1&e=SRaYhr)
 
 - [5x XIO Licenses PO May2024.pdf](https://rcsicampus.sharepoint.com/:b:/r/sites/MediaSevicesStaff/Shared%20Documents/General/AV%20Room%20Installation%20(PO%27s%20-%20Quotes%20-%20RAMS)/Equipment,%20Subscriptions%20%26%20Contract%20Quotes-PO%27s/XiO%20Cloud%20Room%20Licences/5x%20XIO%20Licenses%20PO%20May2024.pdf?csf=1&web=1&e=FAgLdj)
+- [Carmichael](../../03-Resources/Rooms/Carmichael.md)
+- [Robert-Adams](../../03-Resources/Rooms/Robert-Adams.md)

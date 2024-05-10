@@ -30,6 +30,12 @@ whoami /groups
 ### Use script to create new credentials on all devices
 - 
 
+## Spoke to Kevin Brew
+
+- Advised against active directory as it can cause problems in future
+- it's likely to go away in future and will need to be converted
+- Kevin has a OnePass account, that we may be able to jump on and organise all our passwords
+- This sounds like the best solution to all our password control.
 
 ---
 ###### Resources

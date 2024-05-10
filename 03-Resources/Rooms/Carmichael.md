@@ -23,4 +23,5 @@ TSW760           | 10.36.0.127
 ---
 
 ###### Resources
-[Add-Beaumont-XiO](../../01-Projects/Add-Beaumont-XiO.md)
+- [Add-Beaumont-XiO](../../04-Archive/Completed/Add-Beaumont-XiO.md)
+- [Device-User-Access](../../01-Projects/Device-User-Access.md)
