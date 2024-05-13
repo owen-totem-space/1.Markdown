@@ -17,7 +17,8 @@ tags:
 
 ## Task List
 
-- [ ] Use one Driver for cloud connection, piggy back behaviour of other monitor
+- [x] Use one Driver for cloud connection, piggy back behaviour of other monitor with IR port
+- [x] Add devices to program
 - [ ] Solder rs232 cable to run to opposite monitor
 - [ ] Install cable, cable tie to Cat6 signal cable.
 
