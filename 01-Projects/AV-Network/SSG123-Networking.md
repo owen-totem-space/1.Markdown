@@ -28,10 +28,13 @@ A list of equipment in 123SSG that is not on the AV VLAN.
 
 | Room          | Device         | IP           | MAC               |
 | ------------- |--------------- | ------------ | ----------------- |
-| Thomas Myles  | Flex NUC       | 10.2.8.26    | 90.8d.6e.92.88.aa |
-| Thomas Myles  | Flex Mercury   | 10.2.8.62    | c4:42:68:28:0E:E3 |
-| Presidents MR | Flex NUC       | 10.2.32.54   | 7C:10:c9:b8:f4:ab |
-| Presidents MR | Flex Mercury   | 10.2.32.55   | c4:42:68:10:9b:d2 |
+| Thomas Myles  | Flex NUC       | 10.103.2.172 | 90.8d.6e.92.88.aa |
+| Thomas Myles  | Flex Mercury   | 10.103.2.164 | c4:42:68:28:0E:E3 |
+| Presidents MR | Flex NUC       | 10.103.2.179 | 7C:10:c9:b8:f4:ab |
+| Presidents MR | Flex Mercury   | 10.103.2.135 | c4:42:68:10:9b:d2 |
+
+| Room          | Device         | IP           | MAC               |
+| ------------- |--------------- | ------------ | ----------------- |
 | TR4           | MPC-M5         | 10.102.72.57 | 00:10:7F:82:22:D2 |
 | TR4           | DIN-AP3        | 10.102.72.43 | 00.10.7f.a3.a1.c5 |
 | TR5           | MPC-M5         | 10.x.x.x     | |

@@ -13,6 +13,7 @@ tags:
 - [ ] TR Room timers
 - [ ] Terminate spare Cat6/SDI box in Exam Hall
 - [ ] College Hall Podium Cabling
+- [ ] Install rs232 Cable in Desmond
 
 ###### Resources
 
@@ -21,5 +22,6 @@ tags:
 - [TR-Room-Timer-Plug](01-Projects/TR-Room-Timer-Plug.md)
 - [Exam-Hall-Camera-Install](01-Projects/Exam-Hall-Camera-Install.md)
 - [College-Hall-Podium-Cabling](01-Projects/College-Hall-Podium-Cabling.md)
+- [Desmond-Foldback-Monitors](01-Projects/Desmond-Foldback-Monitors.md)
 
 
