@@ -41,7 +41,7 @@ tags:
 
 - ![ |200](../04-Archive/Attachments/Timer-Plug-Box.jpg)
 - ![ |200](../04-Archive/Attachments/Timer-Plug-Pic.jpg)
-- ![ |200](../04-Archive/Attachments/Timer-Plug%20Manual2.jpg)
+- ![ |200](../04-Archive/Attachments/Timer-Plug-Manual2.jpg)
 - ![ |200](../04-Archive/Attachments/Timer-Plug-Manual1.jpg)
 
 

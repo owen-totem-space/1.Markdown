@@ -1,8 +1,8 @@
 ---
-title: Boucher Hayes 502
+title: Boucher-Hayes-502
 date: 2024-04-16
 building: 26YS
-room: 502
+room: Boucher-Hayes-502
 tags:
   - room-info
 ---

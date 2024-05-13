@@ -31,7 +31,9 @@ tags:
 
 ## Information
 
-![ | 300](../04-Archive/Attachments/mutchnik-cable-damage.jpg)
+![ | 200](../04-Archive/Attachments/mutchnik-cable-damage.jpg)
+
+![|200](../04-Archive/Attachments/Mutchnik-Cable-Damage%201.jpg)
 
 
 ---

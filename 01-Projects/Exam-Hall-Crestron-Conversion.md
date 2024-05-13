@@ -50,3 +50,6 @@ tags:
 [Aver-PTZ330](../03-Resources/Equipment/Aver-PTZ330.md)
 
 [Exam-Hall](../03-Resources/Rooms/Exam-Hall.md)
+
+
+- ![ |200](../04-Archive/Attachments/Exam-Hall-Ion-Solutions-Schematic.jpg)

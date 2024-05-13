@@ -1,5 +1,5 @@
 ---
-title: Organise All Programs
+title: Organise-All-Programs
 date: 2024-05-08
 building: 
 room: 

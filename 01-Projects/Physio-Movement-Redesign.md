@@ -67,3 +67,11 @@ I plan to replace the two switcher system with a single dual output DMPS3.
 ###### Resources
 
 [Crestron Equipment_Rev1-Quote with products and scope.pdf](https://rcsicampus-my.sharepoint.com/:b:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/Crestron%20Equipment_Rev1-Quote%20with%20products%20and%20scope.pdf?csf=1&web=1&e=GPoQ2a)
+
+
+---
+
+## Pictures
+
+- ![ |200](../04-Archive/Attachments/Physio-Movement-Rack.jpg)
+- ![|200](../04-Archive/Attachments/Physio-Movement-Projector.jpg)

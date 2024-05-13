@@ -1,8 +1,8 @@
 ---
-title: Mutchnik Lab 302
+title: Mutchnik-Lab-302
 date: 2024-04-16
 building: 26YS
-room: 302
+room: Mutchnik-Lab-302
 cssclasses: 
 tags:
   - room-info

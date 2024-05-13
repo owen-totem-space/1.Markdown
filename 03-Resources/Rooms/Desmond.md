@@ -28,3 +28,6 @@ Heading          | Description
 
 
 ###### Resources
+
+Small Lectern Floor Box
+- ![ |200](../../04-Archive/Attachments/Desmond-Small-Lectern-Floor-Box.jpg)

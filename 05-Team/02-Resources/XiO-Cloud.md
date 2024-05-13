@@ -54,6 +54,9 @@ The **SETTINGS** menu for managing support providers is located in the user ma
 
 [XiO Help: File Library](https://docs.crestron.com/en-us/8214/Content/Topics/File-Upload.htm)
 
+- All Programs are stored on XiO Cloud.
+- Stored individually as Simpl, VTPro, Construct folders.
+
 ## Scheduling
 
 - Scheduled actions can be done on a building, room or device basis

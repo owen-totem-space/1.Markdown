@@ -33,3 +33,11 @@ c4:42:68:25:59:6a    | MPC3 [XPanel IP]
 [Autoswitch IP]: http://10.2.160.45
 [XPanel IP]: http://10.2.160.42
 [Aver-PTZ330](../../03-Resources/Equipment/Aver-PTZ330.md)
+
+---
+
+## Pictures
+
+- ![|200](../../04-Archive/Attachments/College-Hall-MPC-Wiring.jpg)
+- ![|200](../../04-Archive/Attachments/College-Hall-Screen-Model.jpg)
+- ![|200](../../04-Archive/Attachments/College-Hall-Screen-Relay1.jpg)
