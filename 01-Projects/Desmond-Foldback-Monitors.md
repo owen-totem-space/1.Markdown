@@ -7,6 +7,10 @@ tags:
   - project/active
   - programming
 ---
+### Foldback Monitors
+
+- We ran 2 female - female Cat6 cables from the large podium to the foldback monitors
+- One of these is used to link the Cat6 from the booth directly to the foldback monitors
 
 ## Description
 
