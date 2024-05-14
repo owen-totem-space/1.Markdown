@@ -13,7 +13,7 @@ tags:
 - [ ] TR Room timers
 - [ ] Terminate spare Cat6/SDI box in Exam Hall
 - [ ] College Hall Podium Cabling
-- [ ] Install rs232 Cable in Desmond
+- [ ] Install rs232 cable between foldback monitors in Desmond
 
 ###### Resources
 
