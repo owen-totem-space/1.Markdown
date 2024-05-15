@@ -4,9 +4,6 @@ date: 20204-04-11
 tags: [todo, purchases, tasklist]
 ---
 
-[Map](../Map.md) | [Tasks](../00-Maps&Views/Tasks.md)
- --- | --- | ---
- 
 ## Items to be purchased
 
 - [ ] Network Switch for Block B 4th Floor

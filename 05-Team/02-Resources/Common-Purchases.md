@@ -17,27 +17,46 @@ tags: [ equipment, resource/team ]
 - [HDMI Port Blocker]
 - [Power Supply for Crestron 18v 0.75A]
 - [Rack Mounted Power Strip]
-- [Neutrik Male XLR Connector]
+
+[Velcro Black Hook & Loop Tape]: https://ie.rs-online.com/web/p/hook-loop-tapes/4239533?searchId=a14c5c77-e4ef-4f1f-b9ef-5b48365ff754&gb=s
+[HDMI Port Blocker]: https://ie.rs-online.com/web/p/av-connector-accessories/7635751?searchId=17fa40cb-e2f2-42ab-86b5-ea82e0dc63ff&gb=s
+[Power Supply for Crestron 18v 0.75A]: https://ie.rs-online.com/web/p/ac-dc-adapters/1176114?searchId=cc908ba1-ab5f-41e0-99ed-0b9db397ce18&gb=s
+[Rack Mounted Power Strip]: https://ie.farnell.com/lms-data/pdu-6ws-h/6-way-horizontal-13a-switched/dp/3761838
 
 #### Labeller
 - [Brother PT-E550W Label Printer]
 - [Label Printer Tape]
 
-#### Cat6
+[Brother PT-E550W Label Printer]: https://ie.rs-online.com/web/p/label-printers/9186692
+[Label Printer Tape]: https://ie.rs-online.com/web/p/label-printer-tapes/1572275?searchId=e888b5b2-ef44-424e-a07a-b6d4b04b519d&gb=s
+
+#### Cable Connectors
 - [Female RJ45 Connector]
 - [Molex RJ45 Connector]
+- [Neutrik Male XLR Connector]
+
+[Female RJ45 Connector]: https://ie.rs-online.com/web/p/ethernet-connectors/7810845
+[Molex RJ45 Connector]: https://ie.rs-online.com/web/p/ethernet-connectors/8006829?gb=s
+[Neutrik Male XLR Connector]: https://ie.rs-online.com/web/p/xlr-connectors/0405607?searchId=2cd68ffa-e5aa-47b3-884c-7883dab3357e&gb=s
 
 #### Cable
 - [Lapp 3 Core Control Cable]
 
+[Lapp 3 Core Control Cable]: https://ie.rs-online.com/web/p/twisted-pair-multicore-data-cable/4451654?searchId=fc4e2d63-1425-4a87-bca2-94507e21762c&gb=s
+
 #### SDI
 - [Inogeni SDI - USB]
 - [Blackmagic MC SDI-HDMI 3G w. PSU]
+
+[Inogeni SDI - USB]: https://www.thomann.de/ie/inogeni_sdi_to_usb_3.0_converter.htm?listPosition=2
+[Blackmagic MC SDI-HDMI 3G w. PSU]:https://www.thomann.de/ie/blackmagic_design_mc_sdi_hdmi_3g_w._psu.htm
+
 ---
 
 ## Crestron DM
 - [DM-RMC-4KZ-100-C] - Receiver
----
+
+[DM-RMC-4KZ-100-C]: https://www.crestron.com/Products/Video/DigitalMedia-Endpoints/Receivers/DM-RMC-4KZ-100-C
 
 ## Crestron DM Lite
 - [HD-RXA-4KZ-101] - Receiver
@@ -46,6 +65,14 @@ tags: [ equipment, resource/team ]
 - [HD-TX-4KZ-111] - USBC over DM lite
 - [HD-PS402] - 4 x 2 HDMI switcher with DM Lite outputs 
 - [HD-PS401] - 4 x 1 HDMI switcher with DM Lite output
+
+[HD-RXA-4KZ-101]: https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-RXA-4KZ-101
+[HD-TX-4KZ-101]: https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-TX-4KZ-101
+[HD-TXC-4KZ-101]: https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-TXC-4KZ-101
+[HD-TX-4KZ-111]: https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-TX-4KZ-111
+[HD-PS402]: https://www.crestron.com/Products/Video/DigitalMedia-Switchers/Fixed-Switchers/HD-PS402
+[HD-PS401]: https://www.crestron.com/Products/Video/DigitalMedia-Switchers/Fixed-Switchers/HD-PS401
+
 ---
 
 ## HDMI - Ethernet Converters
@@ -53,46 +80,42 @@ tags: [ equipment, resource/team ]
 - [DTP HDMI 4k 230 Rx] - Receiver
 - [DTP HD DA 4K 230] - 1 HDMI input, 8 or 4 output DTP Cat6, HDMI Loop thru
 - [Extron Cable Cubby Drawer](https://www.extron.com/product/ccdseries)
+
+[DTP HDMI 4k 230 Tx]: https://www.extron.com/product/dtphdmi230tx?subtype=360
+[DTP HDMI 4k 230 Rx]: https://www.extron.com/product/dtphdmi230rx?subtype=360
+[DTP HD DA 4K 230]: https://www.extron.com/product/dtphdda230
+
 ---
 
 ## Streaming
 - [SMP 111] - Streaming/recording box. Allows streaming to Teams/Other
 - [StudioStation]- One button record/stream
+
+[SMP 111]: https://www.extron.com/product/smp111
+[StudioStation]: https://www.extron.com/product/studiostation
+
 ---
 
 ## Previous Purchases
 - [TST‑902‑BTP]
 - [CEN-GWEXER-PWE]
 - [RMC4]
+
+[TST‑902‑BTP]: https://www.crestron.com/Products/Accessory/Power-Supplies/Battery-Packs/TST-902-BTP
+[CEN-GWEXER-PWE]: https://www.crestron.com/Products/Control-Hardware-Software/Wireless-Communications/Wireless-Gateways/CEN-GWEXER-PWE
+[RMC4]: https://www.crestron.com/Products/Control-Hardware-Software/Hardware/Control-Systems/RMC4
+
 ---
 
 ###### Reference Links
 
-[Brother PT-E550W Label Printer]: https://ie.rs-online.com/web/p/label-printers/9186692
-[Label Printer Tape]: https://ie.rs-online.com/web/p/label-printer-tapes/1572275?searchId=e888b5b2-ef44-424e-a07a-b6d4b04b519d&gb=s
-[Female RJ45 Connector]: https://ie.rs-online.com/web/p/ethernet-connectors/7810845
-[Molex RJ45 Connector]: (https://ie.rs-online.com/web/p/ethernet-connectors/8006829?gb=s)
-[Inogeni SDI - USB]: https://www.thomann.de/ie/inogeni_sdi_to_usb_3.0_converter.htm?listPosition=2
-[Blackmagic MC SDI-HDMI 3G w. PSU]:https://www.thomann.de/ie/blackmagic_design_mc_sdi_hdmi_3g_w._psu.htm
-[Velcro Black Hook & Loop Tape]: https://ie.rs-online.com/web/p/hook-loop-tapes/4239533?searchId=a14c5c77-e4ef-4f1f-b9ef-5b48365ff754&gb=s
-[Lapp 3 Core Control Cable]: https://ie.rs-online.com/web/p/twisted-pair-multicore-data-cable/4451654?searchId=fc4e2d63-1425-4a87-bca2-94507e21762c&gb=s
-[HDMI Port Blocker]: https://ie.rs-online.com/web/p/av-connector-accessories/7635751?searchId=17fa40cb-e2f2-42ab-86b5-ea82e0dc63ff&gb=s
-[Power Supply for Crestron 18v 0.75A]: https://ie.rs-online.com/web/p/ac-dc-adapters/1176114?searchId=cc908ba1-ab5f-41e0-99ed-0b9db397ce18&gb=s
-[DM-RMC-4KZ-100-C]: https://www.crestron.com/Products/Video/DigitalMedia-Endpoints/Receivers/DM-RMC-4KZ-100-C
-[HD-RXA-4KZ-101]: https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-RXA-4KZ-101
-[HD-TX-4KZ-101]: https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-TX-4KZ-101
-[HD-TXC-4KZ-101]: https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-TXC-4KZ-101
-[HD-TX-4KZ-111]: https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-TX-4KZ-111
-[HD-PS402]: https://www.crestron.com/Products/Video/DigitalMedia-Switchers/Fixed-Switchers/HD-PS402
-[HD-PS401]: https://www.crestron.com/Products/Video/DigitalMedia-Switchers/Fixed-Switchers/HD-PS401
-[DTP HDMI 4k 230 Tx]: https://www.extron.com/product/dtphdmi230tx?subtype=360
-[DTP HDMI 4k 230 Rx]: https://www.extron.com/product/dtphdmi230rx?subtype=360
-[DTP HD DA 4K 230]: https://www.extron.com/product/dtphdda230
-[SMP 111]: https://www.extron.com/product/smp111
-[StudioStation]: https://www.extron.com/product/studiostation
-[TST‑902‑BTP]: https://www.crestron.com/Products/Accessory/Power-Supplies/Battery-Packs/TST-902-BTP
-[CEN-GWEXER-PWE]: https://www.crestron.com/Products/Control-Hardware-Software/Wireless-Communications/Wireless-Gateways/CEN-GWEXER-PWE
-[RMC4]: https://www.crestron.com/Products/Control-Hardware-Software/Hardware/Control-Systems/RMC4
-[Rack Mounted Power Strip]: https://ie.farnell.com/lms-data/pdu-6ws-h/6-way-horizontal-13a-switched/dp/3761838
 
-[Neutrik Male XLR Connector]: (https://ie.rs-online.com/web/p/xlr-connectors/0405607?searchId=2cd68ffa-e5aa-47b3-884c-7883dab3357e&gb=s)
+
+
+
+
+
+
+
+
+
