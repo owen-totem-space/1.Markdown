@@ -3,16 +3,18 @@ title: {{title}}
 date: {{date}}
 building:
 room:
-tags: [project, template]
+tags: 
+  - project
+  - template
 ---
 
 ## Description
 
-## Task List
+### Task List
 
 - [ ] Item 1
 
-## Information
+### Information
 
 Heading          | Description
 ---------------- | -----------------

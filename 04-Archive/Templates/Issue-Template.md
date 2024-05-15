@@ -2,12 +2,13 @@
 title: {{title}}
 date: {{date}}
 tags: 
-	- issue
-	- template
+  - issue
+  - template
 ---
-# {{title}}
 
-#### Description
+## {{title}}
+
+### Description
 
 > Issue Description
 

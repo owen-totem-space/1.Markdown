@@ -64,4 +64,5 @@ __Web Control__
 
 ###### Resources
 
-[Desmond](../../03-Resources/Rooms/Desmond.md)
+- [Desmond](../../03-Resources/Rooms/Desmond.md)
+- [Desmond-Foldback-Monitors](../../01-Projects/Desmond-Foldback-Monitors.md)

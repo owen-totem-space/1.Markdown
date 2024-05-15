@@ -3,20 +3,20 @@ title: {{title}}
 date: {{date}}
 cssclasses: []
 tags: 
-	- note
-	- template
+  - note
+  - template
 ---
 
-# {{title}}
+## {{title}}
 
-## Description
+### Description
 
 
-## Tasks
+### Tasks
 
 - [ ] Task 1
 
-## Information
+### Information
 
 Heading          | Description
 ---------------- | -----------------

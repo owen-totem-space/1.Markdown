@@ -34,8 +34,9 @@ whoami /groups
 
 - Advised against active directory as it can cause problems in future
 - it's likely to go away in future and will need to be converted
-- Kevin has a OnePass account, that we may be able to jump on and organise all our passwords
-- This sounds like the best solution to all our password control.
+- Kevin has a 1Password account, that we may be able to jump on and organise all our passwords
+	- https://1password.com/
+- This sounds like the best solution to all our password control
 
 ---
 ###### Resources

@@ -29,6 +29,20 @@ I plan to replace the two switcher system with a single dual output DMPS3.
 	- [ ] Web XPanel
 - [ ] Install new equipment
 
+## Purchases
+
+- [x] Buy battery for Wireless Touchpanel TST-902
+- [x] Buy wireless CEN-GWEXER
+
+###### Quotes & PO
+- [Crestron Equipment_Rev1-Quote with products and scope.pdf](https://rcsicampus-my.sharepoint.com/:b:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/Crestron%20Equipment_Rev1-Quote%20with%20products%20and%20scope.pdf?csf=1&web=1&e=GPoQ2a)
+- [po-TST902-CEN-GWEXER](https://rcsicampus-my.sharepoint.com/:b:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/po-ExamHall-RMC4.pdf?csf=1&web=1&e=zfsnpx)
+
+## Cabling
+- Can We run new rs232/network cabling?
+
+---
+
 ## Information
  
  Function           | Device      | Communication
@@ -56,22 +70,11 @@ I plan to replace the two switcher system with a single dual output DMPS3.
 | Com 1 |
 | Com 2 |
 
-
-## Purchases
-
-- [x] Buy battery for Wireless Touchpanel TST-902
-- [x] Buy wireless CEN-GWEXER
-
----
-
-###### Resources
-
-[Crestron Equipment_Rev1-Quote with products and scope.pdf](https://rcsicampus-my.sharepoint.com/:b:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/Crestron%20Equipment_Rev1-Quote%20with%20products%20and%20scope.pdf?csf=1&web=1&e=GPoQ2a)
-
-
 ---
 
 ## Pictures
 
 - ![ |200](../04-Archive/Attachments/Physio-Movement-Rack.jpg)
+	- [Link](../04-Archive/Attachments/Physio-Movement-Rack.jpg)
 - ![|200](../04-Archive/Attachments/Physio-Movement-Projector.jpg)
+	- [Link](../04-Archive/Attachments/Physio-Movement-Projector.jpg)

@@ -3,28 +3,28 @@ title: {{title}}
 date: {{date}}
 time: {{time}}
 tags: 
-	- meeting-note
-	- template
+  - meeting-note
+  - template
 ---
-# {{title}}
+## {{title}}
 
-## Meeting Information
+### Meeting Information
 
 Location: 
 Purpose:
 
-## Attendees
+### Attendees
 
 - Person 1
 
 
-## Discussion Items
+### Discussion Items
 
 Heading          | Description
 ---------------- | -----------------
 
 
-## Action Items
+### Action Items
 
 - [ ] List Item 1
 

@@ -8,16 +8,17 @@ tags:
   - room-info
 ---
 
-# College-Hall
-
-
-## Information
+## College-Hall
 
 Heading          | Description
 ---------------- | -----------------
 00:10:7f:84:41:b5    | [Autoswitch IP]
 00:18:1A:09:75:95    | [Camera IP]
 c4:42:68:25:59:6a    | MPC3 [XPanel IP]
+
+[Camera IP]: http://10.2.160.55
+[Autoswitch IP]: http://10.2.160.45
+[XPanel IP]: http://10.2.160.42
 
 ---
 
@@ -29,10 +30,9 @@ c4:42:68:25:59:6a    | MPC3 [XPanel IP]
 
 
 ###### Resources
-[Camera IP]: http://10.2.160.55
-[Autoswitch IP]: http://10.2.160.45
-[XPanel IP]: http://10.2.160.42
-[Aver-PTZ330](../../03-Resources/Equipment/Aver-PTZ330.md)
+
+- [Aver-PTZ330](../../03-Resources/Equipment/Aver-PTZ330.md)
+- [po-College-Hall-Audio-Upgrade.pdf](https://rcsicampus-my.sharepoint.com/:b:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/po-College-Hall-Audio-Upgrade.pdf?csf=1&web=1&e=Miedfp)
 
 ---
 

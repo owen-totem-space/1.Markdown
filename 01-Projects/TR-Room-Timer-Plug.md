@@ -25,9 +25,9 @@ tags:
 
 ## Task List
 
-- [ ] Get estates to replace 2 pin plugs with 3 pin plugs.
+- [x] Get estates to replace 2 pin plugs with 3 pin plugs.
 	- [x] Contact estates by email
-	- [ ] Billy to complete job
+	- [x] Billy to complete job
 - [ ] Place Timer on the screen plug in each room
 - [ ] Bring Small Ladder 
 	- Check for and remove any unnecessary cabling behind screens

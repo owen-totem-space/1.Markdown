@@ -15,6 +15,21 @@ tags: [todo, purchases, tasklist]
 	- https://www.elara.ie/productdetail.aspx?productcode=ECE5831775
 	- https://www.elara.ie/productdetail.aspx?productcode=ECE5826760
 	- https://www.elara.ie/productdetail.aspx?productcode=MME0714416
+- [ ] Knipex Wire Stripper
+	- https://ie.rs-online.com/web/p/wire-strippers/1245812?gb=s
+- [ ] Female Cat6 Heads
+	- https://ie.rs-online.com/web/p/ethernet-connectors/7810845
+
+
+
+
+--- 
+
+### Resources
+
+[Finance Codes 2024](https://rcsicampus.sharepoint.com/:x:/r/sites/MediaSevicesStaff/Shared%20Documents/General/Finance%20Information/Finance%20Codes%202024.xlsx?d=wc0bf963b236e4796bd231c26bc867e11&csf=1&web=1&e=zBgrfF)
+
+---
 
 - [x] Knipex Side Cutters
 	- https://ie.rs-online.com/web/p/cutters/0288831?gb=s
@@ -30,12 +45,3 @@ tags: [todo, purchases, tasklist]
 	- https://ie.rs-online.com/web/p/ethernet-connectors/8863262
 - [x] Soldering Helping Hand
 	- https://ie.rs-online.com/web/p/soldering-accessories/2083893?gb=s
-
---- 
-
-### Resources
-
-[Finance Codes 2024](https://rcsicampus.sharepoint.com/:x:/r/sites/MediaSevicesStaff/Shared%20Documents/General/Finance%20Information/Finance%20Codes%202024.xlsx?d=wc0bf963b236e4796bd231c26bc867e11&csf=1&web=1&e=zBgrfF)
-
----
-

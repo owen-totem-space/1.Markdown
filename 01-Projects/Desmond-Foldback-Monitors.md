@@ -30,3 +30,4 @@ tags:
 ---
 ###### Resources
 - [Desmond](../03-Resources/Rooms/Desmond.md)
+- [Desmond-Reprogramming](../04-Archive/Completed/Desmond-Reprogramming.md)
