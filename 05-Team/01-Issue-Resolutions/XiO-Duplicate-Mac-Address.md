@@ -19,7 +19,7 @@ tags:
 
 - Unclaim the device in XiO Cloud
 - Reboot the device
-- Wait 20-30 mins (Crestron said this, it doesn't always need to be this long)
+- Wait 30 mins (Crestron said this, it doesn't always need to be this long)
 - Claim the device in XiO cloud again.
 - Issue should be solved, try rebooting the device again if it doesn't come back online in XiO Cloud
 
