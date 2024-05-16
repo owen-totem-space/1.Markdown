@@ -65,3 +65,9 @@ The **SETTINGS** menu for managing support providers is located in the user ma
 
 - Accessed via the room's processor IP ie. CP3, RMC4, DMPS3
 - Real time control of room. Room panel changes in sync.
+
+---
+###### Resources
+
+###### Issues
+- [XiO-Duplicate-Mac-Address](../01-Issue-Resolutions/XiO-Duplicate-Mac-Address.md)

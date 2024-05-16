@@ -22,6 +22,9 @@ tags: [ resource/team, software ]
     - [ ] Smart Graphics
 - [ ] Remote
 - [ ] Construct
+- [ ] DM NVX Tool
+- [ ] Firmware Update Tool
+	- [Crestron Advanced Support Tools OLH](https://community.crestron.com/s/article/ATSG?fbclid=IwAR07Q_3Znlm87sayp7QxGwOtMVtNOgmfa2qr19KKGiVdfuM_yx6BOr1_4eo)
 
 ### Extron
 - [ ] Extron PCS (Product Configuration Software)
