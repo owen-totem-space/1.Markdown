@@ -17,19 +17,17 @@ tags:
 ### Solution
 
 - Go to https://myaccount.microsoft.com
-- log in with room account (link at bottom of page). ie. sirthomasmylesroom@rcsi.com
+- log in with room account (link at bottom of page)
 - Go to "Settings & Privacy"
 - Change time zone to GMT
 
 #### Sign into Outlook Web
 - https://outlook.office.com
-- I had to sign in with ==rcsicampus.onmicrosoft.com== address
-- Selecting "open another mailbox" will not work
-- You must sign into the Micosoft account for Outlook to open, otherwise an error appears
+- Sign in with ==@rcsicampus.onmicrosoft.com== address, if available
 - Select settings in top right (gear icon)
 - Select Calendar on the left
-- You should see this
-- ![ |600](../../04-Archive/Attachments/Pasted%20image%2020240516102635.png)
+- You should see this:
+![ |600](../../04-Archive/Attachments/Pasted%20image%2020240516102635.png)
 - Select "Yes Update"
 - Issue should now be solved
 
