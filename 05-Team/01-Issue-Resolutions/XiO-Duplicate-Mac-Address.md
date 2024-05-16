@@ -6,21 +6,19 @@ tags:
 ---
 # XiO Duplicate Mac Address
 
-#### Description
+## Description
 
-> Issue Description
+- Devices go offline in XiO and can't reconnect even though they are online locally. This error has only been observed during periods when a large amount of our devices went offline overnight, likely due to RCSI network changes.
+
+- Error only detected by connecting to the device in toolbox then running `hydrogenstatus` to check XiO connection.
+
+- It's unknown whether the source of this error is XiO/Crestron/Microsoft servers or a local switch config. I contacted Crestron Support to find the solution.
 
 ---
-### XiO Cloud Resolution:
+## Solution:
 
-> [!CAUTION]
-> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](../../05-Team/02-Resources/Crestron-OLH-Links.md#XiO%20Cloud)
-
-```
-- 
-```
-
-### Local Network Resolution:
-```
-- 
-```
+- Unclaim the device in XiO Cloud
+- Reboot the device
+- Wait 20-30 mins (Crestron said this, it doesn't always need to be this long)
+- Claim the device in XiO cloud again.
+- Issue should be solved, try rebooting the device again if it doesn't come back online in XiO Cloud
