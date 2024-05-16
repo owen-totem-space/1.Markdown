@@ -23,6 +23,8 @@ tags:
 - Claim the device in XiO cloud again.
 - Issue should be solved, try rebooting the device again if it doesn't come back online in XiO Cloud
 
+---
+
 ## Crestron Case #00178623
 
 ```
