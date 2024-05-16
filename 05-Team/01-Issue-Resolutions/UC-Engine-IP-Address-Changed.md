@@ -6,20 +6,19 @@ tags: [issue, xio, flex]
 
 # UC-Engine-IP-Address-Changed
 
-> [!CAUTION]
-> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](../02-Resources/Crestron-OLH-Links.md#XiO-Cloud)
-
-### Description
+## Description
 
 In a flex system, the Mercury Touchpanel needs the IP address of the UC-Engine that it is connected to. The UC-Engine does not need to know the IP of the Mercury device. 
 
 If the IP address of the UC-Engine changes, this new IP address will need to be entered into the Mercury device's settings. This can be done via XiO Cloud or directly on the device.
 
+> [!CAUTION]
+> XiO Cloud settings take precedence over local settings. [XiO Cloud Help](../02-Resources/Crestron-OLH-Links.md#XiO-Cloud)
+
 ---
 
-### XiO Cloud Resolution:
+## XiO Cloud Solution:
 
-```
 - Go to XiO -> Find the UC-Engine -> Note it's IP address from the "Network" dropdown
 - Select the connected Mercury X device
 - Select Settings in top tab buttons
@@ -28,11 +27,10 @@ If the IP address of the UC-Engine changes, this new IP address will need to be 
 - You can now change the "UC Engine Address" to the IP noted earlier.
 - UC-Engine Port = 49500
 - Save Changes
-```
 
-### Local Network Resolution:
 
-```
+## Local Network Solution:
+
 - Find and note IP address of UC-Engine (XiO, Toolbox, any other method)
 - Note IP address of Mercury X from it's front screen or other method available
 - Visit IP address of Mercury X in a browser
@@ -41,6 +39,6 @@ If the IP address of the UC-Engine changes, this new IP address will need to be 
 - Scroll down to "Applications" dropdown and enter IP address of UC-Engine in "Teams Video PC Address"
 - UC-Engine Port = 49500
 - Save Changes
-```
+
 ---
 
