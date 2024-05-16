@@ -22,6 +22,7 @@ tags:
 ---
 
 ## Solution
+
 ##### Sign into Microsoft account
 - Go to https://myaccount.microsoft.com
 - log in with room account (Link to Teams document at bottom of page)

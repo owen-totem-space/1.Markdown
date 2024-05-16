@@ -4,13 +4,16 @@ date: 2024-04-08
 tags:
   - issue
 ---
-### Description
+
+# Automate-Duplicate-Display
+
+## Description
 
  Set up windows so that it will automatically trigger "Duplicate Display" when a user logs in or unlocks the PC.
  
 ---
 
-### Resolution #1 - Windows Scheduler
+## Resolution #1 - Windows Scheduler
 
 - Open Windows Task Scheduler
 - Right Click Task Scheduler Library and select "Create Task"
@@ -20,7 +23,7 @@ tags:
 	- ![ |400](../../04-Archive/Attachments/windows-scheduler-pic3.png)
 ---
 
-### Resolution #2 - Script
+## Resolution #2 - Script
 >[!NOTE]
 >  This method creates a .bat file that is clickable.  This `.bat` file can be triggered from windows scheduler.
 >  
