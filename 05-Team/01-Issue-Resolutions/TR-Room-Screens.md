@@ -31,9 +31,7 @@ tags:
 - No network fix available as screen loses communication 
 
 ##### Issue 2:
-- If the fix of turning off and on via the touchpanel works:
-- You could access the Xpanel and turn it off and on
-- You could access the remote control in XiO (though much slower)
+- No XiO or XPanel fixes have worked so far
 
 ---
 
