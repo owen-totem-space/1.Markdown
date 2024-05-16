@@ -9,11 +9,6 @@ tags:
 
 ## Description
 
-## Information
-
-Heading          | Description
----------------- | -----------------
-
 ## Jobs
 
 - [TR-Room-Screen-Updates](../../04-Archive/Completed/TR-Room-Screen-Updates.md)

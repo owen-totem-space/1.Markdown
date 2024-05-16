@@ -24,6 +24,7 @@ tags:
 ## Solution
 
 ##### Sign into Microsoft account
+- Use an Incognito/Private Browser window
 - Go to https://myaccount.microsoft.com
 - log in with room account (Link to Teams document at bottom of page)
 - Go to "Settings & Privacy"

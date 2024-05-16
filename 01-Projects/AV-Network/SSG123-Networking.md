@@ -32,6 +32,7 @@ A list of equipment in 123SSG that is not on the AV VLAN.
 | Thomas Myles  | Flex Mercury   | 10.103.2.164 | c4:42:68:28:0E:E3 |
 | Presidents MR | Flex NUC       | 10.103.2.179 | 7C:10:c9:b8:f4:ab |
 | Presidents MR | Flex Mercury   | 10.103.2.135 | c4:42:68:10:9b:d2 |
+| SARA MR       | Flex NUC       | 10.2.120.53  | 90:8d:6e:93:59:59
 
 | Room          | Device         | IP           | MAC               |
 | ------------- |--------------- | ------------ | ----------------- |

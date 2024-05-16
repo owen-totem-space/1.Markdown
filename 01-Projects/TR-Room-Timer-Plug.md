@@ -4,14 +4,9 @@ date: 2024-05-03
 building: 26YS
 room: TR-Rooms-26YS
 tags:
-  - project/active
+  - project/complete
   - tr-rooms
 ---
-
-> [!NOTE]
-> - Estates contacted to replace 2 pin plugs. Billy TODO
-> - Spoke to Billy, gave him 12 3 pin plugs
-
 
 ## Description
 
@@ -28,8 +23,8 @@ tags:
 - [x] Get estates to replace 2 pin plugs with 3 pin plugs.
 	- [x] Contact estates by email
 	- [x] Billy to complete job
-- [ ] Place Timer on the screen plug in each room
-- [ ] Bring Small Ladder 
+- [x] Place Timer on the screen plug in each room
+- [x] Bring Small Ladder 
 	- Check for and remove any unnecessary cabling behind screens
 	- Use clips to tidy cabling
 

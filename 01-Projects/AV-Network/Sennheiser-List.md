@@ -5,6 +5,7 @@ building:
 room: 
 tags:
   - project/active
+  - sennheiser/cockpit
 ---
 
 ## Sennheiser Mics
@@ -41,3 +42,4 @@ tags:
  Exam Hall     | Sennheiser Rx  | x.x.x.x      | 00:1B:66:B0:58:F1
  Exam Hall     | Sennheiser CHG | x.x.x.x      | 00:1B:66:31:F8:BD
 
+- [ ] Add All to VLAN

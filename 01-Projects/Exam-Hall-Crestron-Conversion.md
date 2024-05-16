@@ -14,6 +14,7 @@ tags:
 - Get projector control via XiO scheduling
 - Create XPanel and program with scheduling
 - Control Cameras
+- Add mini-jack, HDMI IN, HDMI OUT, XLR Out, CAT6 on panel to cabinet
 
 ## DM Lite Solution
 - [ ] DM Lite 8x2 Switcher €3350

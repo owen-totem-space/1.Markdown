@@ -16,6 +16,8 @@ tags: [todo, purchases, tasklist]
 	- https://ie.rs-online.com/web/p/wire-strippers/1245812?gb=s
 - [ ] Female Cat6 Heads
 	- https://ie.rs-online.com/web/p/ethernet-connectors/7810845
+- [ ] Duct Tape
+- [ ] Extron Panel plates for Exam Hall
 
 
 
