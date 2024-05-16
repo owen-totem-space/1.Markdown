@@ -21,6 +21,14 @@ tags:
 - Go to "Settings & Privacy"
 - Change time zone to GMT
 
+#### Sign into Outlook Web
+- Select settings in top right (gear icon)
+- Select Calendar on the left
+- You should see this
+- ![ |600](../../04-Archive/Attachments/Pasted%20image%2020240516102635.png)
+- Select "Yes Update"
+- Issue should now be solved
+
 ---
 
 ###### Resources
