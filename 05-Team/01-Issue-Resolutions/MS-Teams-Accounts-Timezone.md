@@ -13,7 +13,7 @@ tags:
 
 - When adding a Teams room to a meeting in MS Teams on a PC, the above popup appears.
 - Meetings are unaffected
-###### Reason
+##### Reason
 - Timezone was "unset" in https://myaccount.microsoft.com
 - Calendar "Work Hours" not synced with Account Timezone in https://outlook.office.com
 
