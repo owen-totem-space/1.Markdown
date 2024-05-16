@@ -22,6 +22,10 @@ tags:
 - Change time zone to GMT
 
 #### Sign into Outlook Web
+- https://outlook.office.com
+- I had to sign in with ==rcsicampus.onmicrosoft.com== address
+- Selecting "open another mailbox" will not work
+- You must sign into the Micosoft account for Outlook to open, otherwise an error appears
 - Select settings in top right (gear icon)
 - Select Calendar on the left
 - You should see this
