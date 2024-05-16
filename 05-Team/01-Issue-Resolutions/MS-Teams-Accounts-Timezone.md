@@ -22,7 +22,7 @@ tags:
 ## Solution
 ##### Sign into Microsoft account
 - Go to https://myaccount.microsoft.com
-- log in with room account (link at bottom of page)
+- log in with room account (Link to Teams document at bottom of page)
 - Go to "Settings & Privacy"
 - Change time zone to GMT
 
