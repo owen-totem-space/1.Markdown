@@ -1,14 +1,13 @@
+---
+title: Non-Crestron-List
+date: 2024-05-20
+building: 
+room: 
+tags:
+  - project/active
+---
 
-## Non-Crestron Toolbox Devices
-
- Room               | Device           | IP           | MAC 
- ------------------ | ---------------- | ------------ | -----------------
- Desmond            | Soundstructure   | 10.103.2.122 | 00:04:f2:bf:e1:7b
- Mercer Study Hall  | Soundstructure   | 10.103.2.x   | 
- Mercer 104         | Soundstructure   | 10.103.2.155 | 00:04:f2:bf:f0:72
- SSG TR3            | Soundstructure   | 10.103.2.140 | 64:16:7f:21:15:b7
- Simulation         | Soundstructure   | 10.103.2.135 | 00:04:f2:bf:e1:5b
-
+## Other Devices
 
  Room               | Device           | IP           | MAC 
  ------------------ | ---------------- | ------------ | ----------------- 
@@ -26,15 +25,4 @@
  exam hall          | Aver PTZ310 rear | 10.2.120.65  | 00:18:1A:06:98:9D
  exam hall          | Aver PTZ310 side |              |
  exam hall          | Aver controller  |              | 28:b7:7c:8d:c1:3f
-
-
-## TO BE DONE
-00:10:7f:84:41:b5
-00:10:7f:97:5a:17
-00:18:1A:06:98:9D
-28:b7:7c:8d:c1:3f
-
-| | |
-| --- | --- | --- | --- |
-| MR 302 | SONY FW-65BZ40H | 10.2.176.67 | 88.c9.e8.0d.48.99
-| MR 302 | SONY FW-65BZ40H | 10.2.176.144 | 88.c9.e8.0d.47.f7
+ Block B            | Extron IN1804    | 10.2.224.138 | 

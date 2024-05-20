@@ -6,12 +6,6 @@ tags: [todo, purchases, tasklist]
 
 ## Items to be purchased
 
-- [ ] Network Switch for Block B 4th Floor
-- [ ] Network Switch for 121 KPL
-	- https://www.elara.ie/productdetail.aspx?productcode=ECE7923350
-	- https://www.elara.ie/productdetail.aspx?productcode=ECE5831775
-	- https://www.elara.ie/productdetail.aspx?productcode=ECE5826760
-	- https://www.elara.ie/productdetail.aspx?productcode=MME0714416
 - [ ] Knipex Wire Stripper
 	- https://ie.rs-online.com/web/p/wire-strippers/1245812?gb=s
 - [ ] Female Cat6 Heads
