@@ -1,6 +1,5 @@
 ---
-title: SSG121-
-Networking
+title: SSG121-Networking
 date: 2024-04-12
 building: 121SSG
 room: 
@@ -22,6 +21,7 @@ tags:
 - See also:
 	- [SSG123-Networking](SSG123-Networking.md)
 	- [YS26-Networking](YS26-Networking.md)
+	- [KPL-Networking](KPL-Networking.md)
 
 ## Task List
 
@@ -41,8 +41,9 @@ tags:
 - 401 Meeting Room
 - G01 Meeting Room
 
+---
 
-## Information
+## Flex Devices
 
 Room    | Device       | IP           | MAC 
 ------- | ------------ | ------------ | ----------------- 
@@ -56,6 +57,23 @@ MR 4-01 | Flex NUC     | 10.2.176.57  | 04:42:1A:C9:53:48
 MR 4-01 | Flex Mercury | 10.2.176.137 | C4:42:68:10:98:88 
 MR G-01 | Flex NUC     | 10.2.176.115 | 04:42:1A:C9:C0:D5 
 MR G-01 | Flex Mercury | 10.2.176.118 | 00:10:7F:ED:29:9E 
+
+## Screens
+
+Room   | Device          | IP            | MAC 
+------ | --------------- | ------------- | -----------------
+MR 101 | SONY FW-65BZ40H | 10.2.176.64   | 88:c9:e8:0d:48:aa
+MR 101 | SONY FW-65BZ40H | 10.2.176.65   | 88:c9:e8:0d:48:61
+MR 302 | SONY FW-65BZ40H | 10.2.176.67   | 88:c9:e8:0d:48:99
+MR 302 | SONY FW-65BZ40H | 10.2.176.144  | 88:c9:e8:0d:47:f7
+MR 401 | SONY FW-65BZ40H | 10.2.176.55   | 88:c9:e8:0d:48:a8
+MR 401 | SONY FW-65BZ40H | 10.2.176.128  | 88:c9:e8:0d:48:98
+
+## Other
+Room    | Device       | IP           | MAC 
+------- | ------------ | ------------ | ----------------- 
+MR 3-01 | HD-CTL-101   | 10.2.176.207 | c4:42:68:2f:b1:6e
+
 
 ---
 

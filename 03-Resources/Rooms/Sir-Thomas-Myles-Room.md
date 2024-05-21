@@ -17,8 +17,8 @@ tags:
 
 ## Network Information
 
-Heading          | IP Address    | MAC Address
----------------- | ------------- | ----------
+Device           | IP Address    | MAC 
+---------------- | ------------- | -----------------
 Flex NUC         | 10.103.2.172  | 90:8d:6e:92:88:aa
 Flex Mercury     | 10.103.2.164  | c4:42:68:28:0E:E3
 HD-CTL-101       | 10.103.2.194  | c4:42:68:2f:a0:df

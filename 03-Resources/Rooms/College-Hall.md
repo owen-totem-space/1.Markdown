@@ -10,15 +10,11 @@ tags:
 
 ## College-Hall
 
-Heading          | Description
----------------- | -----------------
-00:10:7f:84:41:b5    | [Autoswitch IP]
-00:18:1A:09:75:95    | [Camera IP]
-c4:42:68:25:59:6a    | MPC3 [XPanel IP]
-
-[Camera IP]: http://10.2.160.55
-[Autoswitch IP]: http://10.2.160.45
-[XPanel IP]: http://10.2.160.42
+Device           | IP Address  | MAC
+---------------- | ----------- | ---------------
+HD-MD-400-CE     | 10.2.160.45 | 00:10:7f:84:41:b5
+Aver PTZ Cam     | 10.2.160.55 | 00:18:1A:09:75:95
+MPC3             | 10.2.160.42 | c4:42:68:25:59:6a
 
 ---
 
