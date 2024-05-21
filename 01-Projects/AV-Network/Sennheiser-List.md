@@ -41,5 +41,7 @@ tags:
  Exam Hall     | Sennheiser Rx  | x.x.x.x      | 00:1B:66:B0:58:EF
  Exam Hall     | Sennheiser Rx  | x.x.x.x      | 00:1B:66:B0:58:F1
  Exam Hall     | Sennheiser CHG | x.x.x.x      | 00:1B:66:31:F8:BD
+ Block B       | Sennheiser Rx  | 10.2.224.117 | 00:1B:66:37:24:3A
+ Block B       | Sennhesier CHG | 10.2.224.143 | 00:1B:66:38:24:DF
 
 - [ ] Add All to VLAN
