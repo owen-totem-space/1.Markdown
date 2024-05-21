@@ -27,9 +27,12 @@ tags:
 - Enable Crestron Connected App
 - Reboot required after install of each App
 - Set the Admin Password (this is required for access to Web UI also)
+- username should be "admin"
+- password should be our standard department password
 
 ###### Next
 - XiO Cloud App appears after Crestron Connected App is installed
+- If it hasn't appeared, reboot.
 - Install XiO Cloud App
 - Go to "Home Page" and select XiO Cloud App, a serial number/mac will appear
 - Claim on XiO with these details
