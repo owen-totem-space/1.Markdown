@@ -4,7 +4,7 @@ date: 2024-05-16
 building: Ardilaun
 room: Study-Room
 tags:
-  - project/active
+  - project/complete
 ---
 
 ## Description
@@ -24,9 +24,6 @@ tags:
 - [x] Replace Dante cat 6 cable
 - [x] Add Everything to XiO
 - [x] Put QSC Flex System on network
-- [ ] Put Everything on AV VLAN
-
-
 - [x] Investigate if new switch is needed
 	- https://www.elara.ie/productdetail.aspx?productcode=ECE7923350
 	- https://www.elara.ie/productdetail.aspx?productcode=ECE5831775

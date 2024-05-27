@@ -9,7 +9,7 @@ tags:
 
 # Block-B-Study-Room
 
-## Information
+## Network Information
 
 IPID  | Device        | IP                | MAC
 ----- | ------------- | ----------------- | -----------------
@@ -30,7 +30,7 @@ Sennheiser CHG      | 10.2.224.143      | 00:1B:66:38:24:DF
 Crestron MPC3-201   | 10.2.224.115      | c4:42:68:0d:e1:78
 
 ## Jobs
-- [Block-B-Networking](../../01-Projects/AV-Network/Block-B-Networking.md)
+- [Block-B-Networking](../../04-Archive/Completed/Block-B-Networking.md)
 
 
 ---

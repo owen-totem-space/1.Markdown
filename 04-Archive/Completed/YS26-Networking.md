@@ -4,7 +4,7 @@ date: 2024-04-12
 building: 26YS
 room: 
 tags:
-  - project/active
+  - project/complete
   - network
 ---
 
@@ -19,9 +19,9 @@ A list of equipment in 26YS that is not on the AV VLAN.
 
 ## Task List
 
-- [ ] Change IPs 5th Floor
-- [ ] Change IPs 4th Floor
-- [ ] Change IPs 3rd Floor
+- [x] Change IPs 5th Floor
+- [x] Change IPs 4th Floor
+- [x] Change IPs 3rd Floor
 - [ ] Activate port in Computer Lab
 
 ## Information

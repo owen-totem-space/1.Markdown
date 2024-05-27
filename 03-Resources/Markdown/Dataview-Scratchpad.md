@@ -24,7 +24,7 @@ dv.executeJs(content)
 ## Example
 
 ```dataviewjs
-await dv.view("../../03-Resources/Javascript/tasklist-top-level",{pages: '#projects/future'})
+await dv.view("../../03-Resources/Javascript/tasklist-top-level",{pages: '#projects/complete'})
 ```
 
 

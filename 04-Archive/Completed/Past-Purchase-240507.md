@@ -6,7 +6,7 @@ tags:
   - purchases/past
 ---
 
-### Completed Purchases
+## Past-Purchase-240507
 
 - [x] Male Cat6 Heads
 	- https://ie.rs-online.com/web/p/ethernet-connectors/8006829

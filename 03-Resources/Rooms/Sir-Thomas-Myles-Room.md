@@ -12,7 +12,8 @@ tags:
 
 ## Teams Room Enabled
 
-- Room Invite email: sirthomasmylesroom@rcsi.com
+> [!Important]
+> Room Invite email: sirthomasmylesroom@rcsi.com
 
 
 ## Network Information
