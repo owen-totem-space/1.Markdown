@@ -36,3 +36,14 @@ dv.taskList(
 	 )
 )
 ```
+
+---
+
+### Rooms
+```dataviewjs
+const pages = '#room-info'
+
+dv.table(["Name", "Building"], dv.pages(pages)
+	.sort(r => r.building)
+	.map(r => [r.file.link, r.building]))
+```
