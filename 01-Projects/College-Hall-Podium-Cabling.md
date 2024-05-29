@@ -61,5 +61,5 @@ tags:
 ---
 ### Resources
 
-- [SSG123-College-Hall](../03-Resources/Rooms/SSG123-College-Hall.md)
+- [SSG123-College-Hall](../05-Team/03-Rooms/SSG123-College-Hall.md)
 - [College-Hall-Camera-Install](College-Hall-Camera-Install.md)

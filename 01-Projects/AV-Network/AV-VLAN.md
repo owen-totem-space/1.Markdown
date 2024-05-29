@@ -25,22 +25,22 @@ tags:
 ## Rooms with devices not on VLAN
 ### Ardilaun
 
-- [ ] [BlockB-Study-Room](../../03-Resources/Rooms/BlockB-Study-Room.md)
+- [ ] [BlockB-Study-Room](../../05-Team/03-Rooms/BlockB-Study-Room.md)
 
 ### SSG121
-- [ ] [SSG121-Kiran-Pathak-Lab](../../03-Resources/Rooms/SSG121-Kiran-Pathak-Lab.md)
+- [ ] [SSG121-Kiran-Pathak-Lab](../../05-Team/03-Rooms/SSG121-Kiran-Pathak-Lab.md)
 - [ ] Radiology Room
-- [ ] [SSG121-MR-101](../../03-Resources/Rooms/SSG121-MR-101.md)
-- [ ] [SSG121-MR-301](../../03-Resources/Rooms/SSG121-MR-301.md)
-- [ ] [SSG121-MR-302](../../03-Resources/Rooms/SSG121-MR-302.md)
-- [ ] [SSG121-MR-401](../../03-Resources/Rooms/SSG121-MR-401.md)
-- [ ] [SSG121-MR-G01](../../03-Resources/Rooms/SSG121-MR-G01.md)
+- [ ] [SSG121-MR-101](../../05-Team/03-Rooms/SSG121-MR-101.md)
+- [ ] [SSG121-MR-301](../../05-Team/03-Rooms/SSG121-MR-301.md)
+- [ ] [SSG121-MR-302](../../05-Team/03-Rooms/SSG121-MR-302.md)
+- [ ] [SSG121-MR-401](../../05-Team/03-Rooms/SSG121-MR-401.md)
+- [ ] [SSG121-MR-G01](../../05-Team/03-Rooms/SSG121-MR-G01.md)
 
 ### SSG123
-- [ ] [SSG123-Albert](../../03-Resources/Rooms/SSG123-Albert.md)
-- [ ] [SSG123-Mary-Emily-Dowson-Room](../../03-Resources/Rooms/SSG123-Mary-Emily-Dowson-Room.md)
-- [ ] [SSG123-TR4](../../03-Resources/Rooms/SSG123-TR4.md)
-- [ ] [SSG123-SARA-MR](../../03-Resources/Rooms/SSG123-SARA-MR.md)
+- [ ] [SSG123-Albert](../../05-Team/03-Rooms/SSG123-Albert.md)
+- [ ] [SSG123-Mary-Emily-Dowson-Room](../../05-Team/03-Rooms/SSG123-Mary-Emily-Dowson-Room.md)
+- [ ] [SSG123-TR4](../../05-Team/03-Rooms/SSG123-TR4.md)
+- [ ] [SSG123-SARA-MR](../../05-Team/03-Rooms/SSG123-SARA-MR.md)
 
 ---
 
