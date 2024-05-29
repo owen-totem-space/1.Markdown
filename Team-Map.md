@@ -4,7 +4,7 @@ date: 2024-04-11
 tags: [moc]
 ---
 
-<a href="00-Maps&Views/Rooms.md"><img src="https://img.icons8.com/?size=100&id=43215&format=png&color=000000"/></br>Rooms</a> | <a href="Job-List.md"><img src="https://img.icons8.com/?size=100&id=10758&format=png&color=CCCCCC"/></br>Jobs To Do</a>
+<a href="00-Maps&Views/Rooms.md"><img width="60" src="https://img.icons8.com/?size=100&id=43215&format=png&color=000000"/></br>Rooms</a> | <a href="Job-List.md"><img width="60" src="https://img.icons8.com/?size=100&id=10758&format=png&color=CCCCCC"/></br>Jobs To Do</a>
 --- | ---
 
 ## Issues
