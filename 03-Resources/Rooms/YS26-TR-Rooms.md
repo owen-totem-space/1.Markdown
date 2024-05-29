@@ -1,5 +1,5 @@
 ---
-title: TR Rooms 26YS
+title: YS26-TR-Rooms
 date: 2024-04-16
 building: 26YS
 room: TR Rooms
@@ -15,6 +15,6 @@ tags:
 - Install Ceiling Mics
 - Reprogram
 - [HTML5-XPanels](../../04-Archive/Completed/HTML5-XPanels.md)
-- [TR-Room-Timer-Plug](../../01-Projects/TR-Room-Timer-Plug.md)
+- [TR-Room-Timer-Plug](../../04-Archive/Completed/TR-Room-Timer-Plug.md)
 
 ###### Resources

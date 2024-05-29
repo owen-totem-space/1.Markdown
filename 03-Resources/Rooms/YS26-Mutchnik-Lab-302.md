@@ -1,5 +1,5 @@
 ---
-title: Mutchnik-Lab-302
+title: YS26-Mutchnik-Lab-302
 date: 2024-04-16
 building: 26YS
 room: Mutchnik-Lab-302

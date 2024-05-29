@@ -80,3 +80,21 @@ Device           | IP           | MAC
 Extron 1606      | 10.2.176.231 |
 
 ---
+## Poly SoundStructure
+ Room               | Device           | IP           | MAC 
+ ------------------ | ---------------- | ------------ | -----------------
+ Desmond            | Soundstructure   | 10.103.2.122 | 00:04:f2:bf:e1:7b
+ Mercer Study Hall  | Soundstructure   | 10.103.2.x   | 
+ Mercer 104         | Soundstructure   | 10.103.2.155 | 00:04:f2:bf:f0:72
+ SSG TR3            | Soundstructure   | 10.103.2.140 | 64:16:7f:21:15:b7
+ Simulation         | Soundstructure   | 10.103.2.135 | 00:04:f2:bf:e1:5b
+
+---
+
+## QSC
+
+Room               | IP           | MAC
+------------------ | ------------ | -----------------
+Block B Study Room |  10.2.224.67 | 00:60:74:F4:0F:6E
+SSG121 KP Lab      | 10.2.176.213 | 00:60:74:FA:BB:C7
+York House Lab     | 

@@ -1,8 +1,8 @@
 ---
-title: Carmichael
+title: SSG123-Robert-Adams
 date: 2024-05-07
 building: Beaumont-Hospital
-room: Carmichael
+room: Robert-Adams
 tags:
   - room-info
 ---
@@ -17,8 +17,8 @@ iss              | ISSAVRCSI
 
 Equipment        | IP
 ---------------- | -----------------
-DMPS             | 10.36.0.128
-TSW760           | 10.36.0.127
+DMPS             | 10.36.0.117
+TSW760           | 10.36.0.124
 
 ---
 

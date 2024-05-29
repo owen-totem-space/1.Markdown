@@ -1,5 +1,5 @@
 ---
-title: College-Hall
+title: SSG123-College-Hall
 date: 2024-04-16
 building: 123SSG
 room: College-Hall

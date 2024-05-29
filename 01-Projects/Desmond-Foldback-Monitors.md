@@ -25,9 +25,10 @@ tags:
 - [x] Add devices to program
 - [ ] Solder rs232 cable to run to opposite monitor
 - [ ] Install cable, cable tie to Cat6 signal cable.
+- [ ] Fix DM Receiver to screen. Clean up cabling
 
 
 ---
 ###### Resources
-- [Desmond](../03-Resources/Rooms/Desmond.md)
+- [YS26-Desmond](../03-Resources/Rooms/YS26-Desmond.md)
 - [Desmond-Reprogramming](../04-Archive/Completed/Desmond-Reprogramming.md)

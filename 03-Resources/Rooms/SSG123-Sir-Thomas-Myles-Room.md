@@ -1,8 +1,8 @@
 ---
-title: Sir Thomas Myles Room
+title: SSG123-Sir-Thomas-Myles-Room
 date: 2024-04-16
 building: 123SSG
-room: Thomas Myles
+room: Sir-Thomas-Myles-Room
 cssclasses: 
 tags:
   - room-info

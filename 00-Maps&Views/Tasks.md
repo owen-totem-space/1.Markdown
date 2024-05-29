@@ -5,22 +5,6 @@ cssclasses: []
 tags: [todo, tasklist]
 ---
 
-[Map](Map.md)| [Project-Tasks](00-Maps&Views/Project-Tasks.md)  | [Meeting-Tasks](00-Maps&Views/Meeting-Tasks.md)
- --- | --- | ---
- 
-### Purchases
-
-```dataviewjs
-const pages = '#purchases'
-const query = (t) => { if (!t.completed) return true }
-
-dv.taskList(
- dv.pages(pages).file.tasks
-	 .filter(t => t.children = [])
-	 .where(t => query(t)
-	 )
-)
-```
 
 ### Current Project Tasks
 

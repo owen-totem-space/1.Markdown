@@ -1,9 +1,8 @@
 ---
-title: Desmond
+title: YS26-Desmond
 date: 2024-04-16
 building: 26YS
 room: Desmond
-cssclasses: 
 tags:
   - room-info
 ---

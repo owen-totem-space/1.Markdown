@@ -46,5 +46,5 @@ MPC3           | c4:42:68:25:59:6a | [XPanel IP]
 
 ###### Resources
 - [Aver-PTZ330](../../03-Resources/Equipment/Aver-PTZ330.md)
-- [College-Hall](../03-Resources/Rooms/College-Hall.md)
+- [SSG123-College-Hall](../03-Resources/Rooms/SSG123-College-Hall.md)
 - [College-Hall-Podium-Cabling](College-Hall-Podium-Cabling.md)

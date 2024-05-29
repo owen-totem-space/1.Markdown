@@ -34,12 +34,12 @@ tags:
 - In case of power failure, time will need to be reset
 - Manual overide will not work 15 mins wither side of programmed time
 
-- ![ |200](../04-Archive/Attachments/Timer-Plug-Box.jpg)
-- ![ |200](../04-Archive/Attachments/Timer-Plug-Pic.jpg)
-- ![ |200](../04-Archive/Attachments/Timer-Plug-Manual2.jpg)
-- ![ |200](../04-Archive/Attachments/Timer-Plug-Manual1.jpg)
+- ![ |200](../Attachments/Timer-Plug-Box.jpg)
+- ![ |200](../Attachments/Timer-Plug-Pic.jpg)
+- ![ |200](../Attachments/Timer-Plug-Manual2.jpg)
+- ![ |200](../Attachments/Timer-Plug-Manual1.jpg)
 
 
 ###### Resources
 - [Link to Timer](https://ie.rs-online.com/web/p/plug-in-timers/1716224?gb=s)
-- [TR-Rooms-26YS](../03-Resources/Rooms/TR-Rooms-26YS.md)
+- [YS26-TR-Rooms](../../03-Resources/Rooms/YS26-TR-Rooms.md)

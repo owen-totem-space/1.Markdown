@@ -1,5 +1,5 @@
 ---
-title: Block-B-Study-Room
+title: BlockB-Study-Room
 date: 2024-05-21
 building: Ardilaun
 room: Study-Room

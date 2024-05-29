@@ -16,6 +16,7 @@ A list of equipment in 26YS that is not on the AV VLAN.
 	- [SSG121-Networking](SSG121-Networking.md)
 	- [SSG123-Networking](SSG123-Networking.md)
 	- [Sennheiser-List](Sennheiser-List.md)
+	- [AV-VLAN](../../01-Projects/AV-Network/AV-VLAN.md)
 
 ## Task List
 

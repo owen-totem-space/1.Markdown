@@ -1,5 +1,5 @@
 ---
-title: Exam-Hall
+title: SSG123-Exam-Hall
 date: 2024-04-16
 building: 123SSG
 room: Exam-Hall

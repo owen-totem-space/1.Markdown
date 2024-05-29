@@ -1,8 +1,8 @@
 ---
-title: Robert-Adams
+title: BH-Carmichael
 date: 2024-05-07
 building: Beaumont-Hospital
-room: Robert-Adams
+room: Carmichael
 tags:
   - room-info
 ---
@@ -17,8 +17,8 @@ iss              | ISSAVRCSI
 
 Equipment        | IP
 ---------------- | -----------------
-DMPS             | 10.36.0.117
-TSW760           | 10.36.0.124
+DMPS             | 10.36.0.128
+TSW760           | 10.36.0.127
 
 ---
 

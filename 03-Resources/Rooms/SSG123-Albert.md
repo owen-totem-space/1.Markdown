@@ -1,9 +1,8 @@
 ---
-title: Albert
+title: SSG123-Albert
 date: 2024-04-27
 building: 123SSG
 room: Albert
-cssclasses: 
 tags:
   - room-info
 ---

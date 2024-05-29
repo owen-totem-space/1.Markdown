@@ -47,4 +47,4 @@ No  | Device
 
 ###### Resources
 
-[Desmond](../../03-Resources/Rooms/Desmond.md)
+[YS26-Desmond](../../03-Resources/Rooms/YS26-Desmond.md)
