@@ -4,8 +4,8 @@ date: 2024-04-11
 tags: [moc]
 ---
 
-| [![ \|60](https://img.icons8.com/?size=100&id=43215&format=png&color=000000) <br> Rooms](00-Maps&Views/Rooms.md) | 
-| --- | --- |
+[![ \|60](https://img.icons8.com/?size=100&id=43215&format=png&color=000000) <br> Rooms](00-Maps&Views/Rooms.md)
+
 
 
 ## Issues
