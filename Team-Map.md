@@ -8,14 +8,11 @@ tags: [moc]
 
 <div style="display: flex; flex-directions: row">
   <a href="00-Maps&Views/Rooms.md">
-    <img src=https://img.icons8.com/?size=100&id=43215&format=png&color=000000 />
-    </br>
+    <img src=https://img.icons8.com/?size=100&id=43215&format=png&color=000000 /></br>
     Rooms
   </a>
-
   <a href="00-Maps&Views/Rooms.md">
-    <img src=https://img.icons8.com/?size=100&id=43215&format=png&color=000000 />
-    </br>
+    <img src=https://img.icons8.com/?size=100&id=43215&format=png&color=000000 /></br>
     Rooms
   </a>
 </div>
