@@ -10,7 +10,7 @@ tags:
 
 - [ ] Install stage box under the podium floor in Mutchnik Lab
 - [ ] Boucher Hayes camera fix
-- [ ] TR Room timers
+- [x] TR Room timers
 - [ ] Terminate spare Cat6/SDI box in Exam Hall
 - [ ] College Hall Podium Cabling
 - [ ] Install rs232 cable between foldback monitors in Desmond
