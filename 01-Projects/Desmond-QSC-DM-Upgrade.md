@@ -39,4 +39,4 @@ Heading          | Description
 - [QSC Quote](https://rcsicampus.sharepoint.com/sites/MediaSevicesStaff/Shared%20Documents/General/AV%20Room%20Installation%20(PO%27s%20-%20Quotes%20-%20RAMS)/Desmond%20LT/Booth%20AV%20Upgrade%202023-24/Desmond%20-%20QSC%20Upgrade%20Quote%20v1%2023-24.pdf)
 - [po-Desmond-Upgrade-DM-Matrix.pdf](https://rcsicampus-my.sharepoint.com/:b:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/po-Desmond-Upgrade.pdf?csf=1&web=1&e=UK4UD9)
 
-[YS26-Desmond](../05-Team/03-Rooms/YS26-Desmond.md)
+[YS26-Desmond](../03-Resources/Rooms/YS26-Desmond.md)

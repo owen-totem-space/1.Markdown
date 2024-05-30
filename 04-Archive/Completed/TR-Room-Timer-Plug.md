@@ -42,4 +42,4 @@ tags:
 
 ###### Resources
 - [Link to Timer](https://ie.rs-online.com/web/p/plug-in-timers/1716224?gb=s)
-- [YS26-TR-Rooms](../../05-Team/03-Rooms/YS26-TR-Rooms.md)
+- [YS26-TR-Rooms](../../03-Resources/Rooms/YS26-TR-Rooms.md)

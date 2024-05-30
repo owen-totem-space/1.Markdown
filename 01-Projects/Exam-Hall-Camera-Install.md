@@ -22,7 +22,7 @@ tags:
 
 - Due to booking cancellations and issues arranging time for an installer to complete the work, we decided to complete the work ourselves with the help if estates to install the cabling.
 
-- [SSG123-Exam-Hall](../05-Team/03-Rooms/SSG123-Exam-Hall.md)
+- [SSG123-Exam-Hall](../03-Resources/Rooms/SSG123-Exam-Hall.md)
 - [Aver PTZ330 Manual]
 
 ---

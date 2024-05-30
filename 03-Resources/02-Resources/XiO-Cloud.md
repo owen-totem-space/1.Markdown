@@ -70,4 +70,4 @@ The **SETTINGS** menu for managing support providers is located in the user ma
 ###### Resources
 
 ###### Issues
-- [XiO-Duplicate-Mac-Address](../01-Issue-Resolutions/XiO-Duplicate-Mac-Address.md)
+- [XiO-Duplicate-Mac-Address](../../03-Resources/01-Issue-Resolutions/XiO-Duplicate-Mac-Address.md)
