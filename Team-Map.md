@@ -4,8 +4,8 @@ date: 2024-04-11
 tags: [moc]
 ---
 
-<a href="05-Team/03-Rooms/01-RoomView.md"><img width="60" src="https://img.icons8.com/?size=100&id=43215&format=png&color=000000"/></br>Rooms</a> | <a href="05-Team/Job-List.md"><img width="60" src="https://img.icons8.com/?size=100&id=10758&format=png&color=CCCCCC"/></br>Jobs To Do</a>
---- | ---
+<a href="05-Team/03-Rooms/01-RoomView.md"><img width="40" src="https://img.icons8.com/?size=100&id=43215&format=png&color=000000"/></br>Rooms</a> | <a href="05-Team/Job-List.md"><img width="40" src="https://img.icons8.com/?size=100&id=10758&format=png&color=CCCCCC"/></br>Jobs Todo</a>
+:---: | :---:
 
 ## Issues
 
