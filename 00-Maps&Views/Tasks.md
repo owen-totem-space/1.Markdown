@@ -45,7 +45,9 @@ const query = (t) => { if (!t.completed) return true }
 
 dv.taskList(
 	dv.pages(pages).file.tasks
-		.where(t => query(t)))
+		.where(t => query(t)
+		)
+)
 ```
 
 ---
