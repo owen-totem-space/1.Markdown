@@ -88,5 +88,5 @@ tags: [cheatsheet, markdown]
 | :memo:        | Take note of this       |
 |---------------|:------------------------|
 
-| :point_up:    | Remember to not forget! |
+| :FasHandPointUp:    | Remember to not forget! |
 |---------------|:------------------------|
