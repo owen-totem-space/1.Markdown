@@ -18,3 +18,5 @@ tags:
 
 
 
+> [!Note] 
+> Replace `01-Projects/` with `../01-Projects/`
