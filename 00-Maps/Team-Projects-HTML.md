@@ -1,7 +1,5 @@
 ---
 title: Job-List
-date: 2024-05-07
-cssclasses: 
 tags:
   - tasklist
 ---

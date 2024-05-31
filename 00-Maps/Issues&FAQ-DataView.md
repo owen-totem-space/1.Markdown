@@ -1,6 +1,5 @@
 ---
 title: Team-DataView
-date: 2024-05-29
 tags:
   - dataview
   - team

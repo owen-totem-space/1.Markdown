@@ -1,6 +1,5 @@
 ---
 title: Team-Project-Tasks
-date: 2024-05-31
 tags:
   - tasklist
 ---

@@ -1,6 +1,5 @@
 ---
 title: All-Tasks-DataView
-date: 2024-04-11
 tags:
   - todo
   - tasklist

@@ -1,7 +1,5 @@
 ---
 title: Past-Purchases
-date: 2024-05-30
-cssclasses: 
 tags:
   - purchases/past
 ---
