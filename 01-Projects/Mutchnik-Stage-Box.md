@@ -5,6 +5,7 @@ building: 26YS
 room: Mutchnik-Lab-302
 tags:
   - project/active
+  - project/team
 ---
 
 ## Description
@@ -15,11 +16,11 @@ tags:
 ## Task List
 
 - [ ] Build Stage Box
-	- [ ] Cat6 can be built as back to back - angled Cat6 Cables in basement
-	- [ ] Solder Female XLR port to male XLR head
+	- Cat6 connector is a back to back, angled Cat6 Cables in basement
+	- Solder Female XLR port to male XLR head
 - [ ] Install stage box in floor
 	- [ ] Terminate Cat6 cables in floor with female Cat6 heads
-	- [ ] Solder female head onto XLR cable in floor
+
 
 ## Purchases
 - [x] Stage box

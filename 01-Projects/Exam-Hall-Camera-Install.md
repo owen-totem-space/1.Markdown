@@ -5,6 +5,7 @@ building: 123SSG
 room: Exam-Hall
 tags:
   - project/active
+  - project/team
 ---
 
 ## Tasks

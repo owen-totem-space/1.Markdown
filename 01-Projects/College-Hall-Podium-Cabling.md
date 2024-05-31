@@ -5,6 +5,7 @@ building: 123SSG
 room: College-Hall
 tags:
   - project/active
+  - project/team
 ---
 
 > [!Note]
@@ -22,8 +23,8 @@ tags:
 ## Task List
 
 - [ ] Podium Cabling
-	-  Install new cables where necessary
-	-  Dress cables with cable sock
+-  Install new cables where necessary
+-  Dress cables with cable sock
 - [ ] Ask about IEC power connection to podium
 - [x] Purchase or make bespoke length cables
 	- [x] Get List Of Cables
