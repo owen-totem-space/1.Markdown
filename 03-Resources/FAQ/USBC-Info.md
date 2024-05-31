@@ -5,7 +5,6 @@ tags:
   - usbc
   - usb
   - resource/team
-  - resource/information
 ---
 ## Contents
 
