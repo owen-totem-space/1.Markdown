@@ -3,6 +3,7 @@ title: Automate-Duplicate-Display
 date: 2024-04-08
 tags:
   - resource/team
+  - resource/tutorial
 ---
 
 # Automate-Duplicate-Display

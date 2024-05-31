@@ -10,33 +10,24 @@ tags:
 ## Issues
 
 ```dataviewjs
-const pages = '#issue'
+const pages = '#resource/team and #resource/issue'
  const data = dv.pages(pages).file.link
 dv.list(data)
 ```
-## Resources
+
+## How To's
 ```dataviewjs
-const pages = '#resource/team'
+const pages = '#resource/team and #resource/tutorial'
 const data = dv.pages(pages).file.link
 dv.list(data)
 ```
 
----
-
-### Purchases
-
+## Information
 ```dataviewjs
-const pages = '#purchases'
-const query = (t) => { if (!t.completed) return true }
-
-dv.taskList(
- dv.pages(pages).file.tasks
-	 .filter(t => t.children = [])
-	 .where(t => query(t)
-	 )
-)
+const pages = '#resource/team and #resource/information'
+const data = dv.pages(pages).file.link
+dv.list(data)
 ```
-
 ---
 
 ### Rooms

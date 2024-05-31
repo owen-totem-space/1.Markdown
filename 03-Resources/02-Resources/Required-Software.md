@@ -2,7 +2,9 @@
 title: Required-Software
 date: 2024-04-12
 cssclasses: 
-tags: [ resource/team, software ]
+tags: 
+  - resource/team
+  - resource/information
 ---
 
 # Required Software

@@ -4,7 +4,8 @@ date: 2024-05-15
 building: 
 room: 
 tags:
-  - issue
+  - resource/issue
+  - resource/team
 ---
 
 # MS-Teams-Accounts-Timezone

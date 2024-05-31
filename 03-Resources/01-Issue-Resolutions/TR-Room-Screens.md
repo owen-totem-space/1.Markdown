@@ -2,9 +2,9 @@
 title: TR-Room-Screens
 date: 2024-04-15
 tags:
-  - issue
+  - resource/issue
+  - resource/team
   - tr-rooms
-  - 26YS
 ---
 # TR Room Screens
 

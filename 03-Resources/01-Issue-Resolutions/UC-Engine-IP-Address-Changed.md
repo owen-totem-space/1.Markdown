@@ -1,7 +1,10 @@
 ---
 title: UC-Engine-IP-Address-Changed
 date: 2024-04-08
-tags: [issue, xio, flex]
+tags: 
+  - resource/issue
+  - resource/team
+  - crestron/flex
 ---
 
 # UC-Engine-IP-Address-Changed

@@ -3,6 +3,7 @@ title: Sony-Bravia-XiO-Direct
 date: 2024-05-16
 tags:
   - resource/team
+  - resource/tutorial
 ---
 
 # Sony-Bravia-XiO-Direct

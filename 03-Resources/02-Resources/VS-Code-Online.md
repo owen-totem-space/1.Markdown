@@ -4,12 +4,12 @@ date: 2024-04-19
 cssclasses: 
 tags:
   - vscode
-  - crestron
-  - ccd
+  - crestron/certified-drivers
   - resource/team
+  - resource/tutorial
 ---
 
-## Description
+## Read Crestron Certified Driver Files
 
 - [VS Code Online](https://vscode.dev)
 - Download Driver Files in a .zip

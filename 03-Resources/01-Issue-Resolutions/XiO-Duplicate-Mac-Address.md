@@ -2,7 +2,9 @@
 title: XiO-Duplicate-Mac-Address
 date: 2024-04-26
 tags:
-  - issue
+  - resource/issue
+  - resource/team
+  - crestron/xio
 ---
 # XiO Duplicate Mac Address
 

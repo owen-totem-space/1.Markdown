@@ -1,6 +1,9 @@
 ---
 title: Crestron-OLH-Links
-tags: [crestron, faq, resource/team]
+tags: 
+  - crestron 
+  - resource/team
+  - resource/information
 ---
 
 # Table Of Contents

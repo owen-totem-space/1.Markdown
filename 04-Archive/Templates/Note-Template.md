@@ -14,9 +14,3 @@ tags:
 ## Tasks
 
 - [ ] Task 1
-
-
-
----
-
-###### Resources

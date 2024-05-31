@@ -2,8 +2,7 @@
 title: {{title}}
 date: {{date}}
 tags: 
-  - issue
-  - template
+  - resource/issue
 ---
 
 # {{title}}

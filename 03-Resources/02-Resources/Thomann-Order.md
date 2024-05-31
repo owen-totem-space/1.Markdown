@@ -3,7 +3,7 @@ title: Thomann-Order
 date: 2024-05-14
 tags:
   - resource/team
-  - thomann
+  - resource/information
 ---
 
 ## Thomann-Order

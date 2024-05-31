@@ -4,6 +4,7 @@ date: 2024-05-20
 cssclasses: 
 tags:
   - resource/team
+  - resource/tutorial
 ---
 
 # Edit-Video-Windows-10
