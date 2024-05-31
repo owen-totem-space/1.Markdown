@@ -3,9 +3,11 @@ title: SSG121-MR-G01
 date: 2024-05-28
 building: 121SSG
 room: MR-G01
+email: 121SSGMeetingRoomG-01@rcsi.com
 tags:
   - room-info
   - resource/team
+  - teams-room
 ---
 
 # SSG121-MR-G01

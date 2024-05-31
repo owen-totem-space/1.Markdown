@@ -3,9 +3,11 @@ title: SSG123-Mary-Emily-Dowson-Room
 date: 2024-05-27
 building: 123SSG
 room: Mary-Dowson
+email: marydowsonboardroom@rcsi.com
 tags:
   - room-info
   - resource/team
+  - teams-room
 ---
 
 # Mary-Emily-Dowson-Room

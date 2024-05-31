@@ -3,9 +3,11 @@ title: SSG123-Presidents-Meeting-Room
 date: 2024-05-27
 building: 123SSG
 room: Presidents-Meeting-Room
+email: presidentsmeetingroom@rcsi.com
 tags:
   - room-info
   - resource/team
+  - teams-room
 ---
 
 # Presidents-Meeting-Room

@@ -3,9 +3,11 @@ title: SSG123-Sir-Thomas-Myles-Room
 date: 2024-04-16
 building: 123SSG
 room: Sir-Thomas-Myles-Room
+email: sirthomasmylesroom@rcsi.com
 tags:
   - room-info
   - resource/team
+  - teams-room
 ---
 
 # Sir-Thomas-Myles-Room
