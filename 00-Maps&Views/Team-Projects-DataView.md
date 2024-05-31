@@ -5,7 +5,14 @@ tags:
   - tasklist
 ---
 
+## Project Files
+```dataviewjs
+const pages = '#project/team and #project/active'
 
+dv.list(dv.pages(pages).file.link)
+```
+
+---
 
 ## Tasks
 ```dataviewjs
@@ -17,9 +24,3 @@ dv.taskList(
 		.where(t => query(t)))
 ```
 
-## Project Files
-```dataviewjs
-const pages = '#project/team and #project/active'
-
-dv.list(dv.pages(pages).file.link)
-```
