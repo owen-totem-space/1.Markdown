@@ -3,9 +3,9 @@ title: SSG123-Sir-Thomas-Myles-Room
 date: 2024-04-16
 building: 123SSG
 room: Sir-Thomas-Myles-Room
-cssclasses: 
 tags:
   - room-info
+  - resource/team
 ---
 
 # Sir-Thomas-Myles-Room

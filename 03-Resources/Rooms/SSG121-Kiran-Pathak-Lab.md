@@ -5,6 +5,7 @@ building: 121SSG
 room: Kiran-Pathak-Lab
 tags:
   - room-info
+  - resource/team
 ---
 
 ## Kiran Pathak Lab

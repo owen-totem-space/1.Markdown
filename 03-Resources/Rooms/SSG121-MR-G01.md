@@ -5,6 +5,7 @@ building: 121SSG
 room: MR-G01
 tags:
   - room-info
+  - resource/team
 ---
 
 # SSG121-MR-G01

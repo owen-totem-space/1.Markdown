@@ -5,6 +5,7 @@ building: Ardilaun
 room: Study-Room
 tags:
   - room-info
+  - resource/team
 ---
 
 # Block-B-Study-Room

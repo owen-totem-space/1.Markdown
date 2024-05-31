@@ -32,4 +32,4 @@ tags:
 
 - [5x XIO Licenses PO May2024.pdf](https://rcsicampus.sharepoint.com/:b:/r/sites/MediaSevicesStaff/Shared%20Documents/General/AV%20Room%20Installation%20(PO%27s%20-%20Quotes%20-%20RAMS)/Equipment,%20Subscriptions%20%26%20Contract%20Quotes-PO%27s/XiO%20Cloud%20Room%20Licences/5x%20XIO%20Licenses%20PO%20May2024.pdf?csf=1&web=1&e=FAgLdj)
 - [BH-Carmichael](../../03-Resources/Rooms/BH-Carmichael.md)
-- [SSG123-Robert-Adams](../../03-Resources/Rooms/SSG123-Robert-Adams.md)
+- [BH-Robert-Adams](../../03-Resources/Rooms/BH-Robert-Adams.md)

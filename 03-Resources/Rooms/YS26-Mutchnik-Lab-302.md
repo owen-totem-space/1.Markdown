@@ -3,9 +3,9 @@ title: YS26-Mutchnik-Lab-302
 date: 2024-04-16
 building: 26YS
 room: Mutchnik-Lab-302
-cssclasses: 
 tags:
   - room-info
+  - resource/team
 ---
 
 # Mutchnik Lab 302

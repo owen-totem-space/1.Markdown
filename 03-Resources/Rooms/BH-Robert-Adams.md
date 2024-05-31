@@ -5,6 +5,7 @@ building: Beaumont-Hospital
 room: Robert-Adams
 tags:
   - room-info
+  - resource/team
 ---
 
 ## Information

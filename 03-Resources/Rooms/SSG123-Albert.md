@@ -5,6 +5,7 @@ building: 123SSG
 room: Albert
 tags:
   - room-info
+  - resource/team
 ---
 
 # Albert

@@ -5,6 +5,7 @@ building: 26YS
 room: Boucher-Hayes-502
 tags:
   - room-info
+  - resource/team
 ---
 
 ## Description

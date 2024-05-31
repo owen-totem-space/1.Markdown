@@ -5,6 +5,7 @@ building: 26YS
 room: TR Rooms
 tags:
   - room-info
+  - resource/team
 ---
 
 ## Description

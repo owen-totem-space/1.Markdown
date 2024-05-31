@@ -5,6 +5,7 @@ building: 123SSG
 room: SARA-MR
 tags:
   - room-info
+  - resource/team
 ---
 
 # SARA-MR

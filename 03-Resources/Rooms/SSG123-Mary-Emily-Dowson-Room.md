@@ -5,6 +5,7 @@ building: 123SSG
 room: Mary-Dowson
 tags:
   - room-info
+  - resource/team
 ---
 
 # Mary-Emily-Dowson-Room

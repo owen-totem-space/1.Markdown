@@ -5,6 +5,7 @@ building: 26YS
 room: Desmond
 tags:
   - room-info
+  - resource/team
 ---
 
 ## Stage Box Wiring

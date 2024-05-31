@@ -5,6 +5,7 @@ building: 123SSG
 room: PBS-MR
 tags:
   - room-info
+  - resource/team
 ---
 
 # PBS-MR

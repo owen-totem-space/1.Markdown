@@ -1,10 +1,11 @@
 ---
 title: SSG123-Presidents-Meeting-Room
 date: 2024-05-27
-cssclasses: 
+building: 123SSG
+room: Presidents-Meeting-Room
 tags:
-  - note
-  - template
+  - room-info
+  - resource/team
 ---
 
 # Presidents-Meeting-Room

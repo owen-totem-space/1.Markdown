@@ -5,6 +5,7 @@ building: Beaumont-Hospital
 room: Carmichael
 tags:
   - room-info
+  - resource/team
 ---
 
 ## Information

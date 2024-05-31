@@ -5,6 +5,7 @@ building: 123SSG
 room: TR4
 tags:
   - room-info
+  - resource/team
 ---
 
 # TR4
