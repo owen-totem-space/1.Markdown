@@ -1,5 +1,5 @@
 ---
-title: "TR Room Screens: Persistant Issue"
+title: "Persistant Issue: TR Room Screens"
 date: 2024-04-15
 tags:
   - resource/issue
