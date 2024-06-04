@@ -19,7 +19,7 @@ tags:
 	- [YS26-Networking](../../04-Archive/Completed/YS26-Networking.md)
 	- [KPL-Networking](../../04-Archive/Completed/KPL-Networking.md)
 	- [Network all screens](../../04-Archive/Completed/Networking-Screens-121.md)
-	- [Sennheiser-Cockpit](../../03-Resources/Equipment/Sennheiser-Cockpit.md)
+	- [Sennheiser-Cockpit](../../03-Resources/FAQ/Sennheiser-Cockpit.md)
 	- [Camera-List](Camera-List.md)
 
 ---

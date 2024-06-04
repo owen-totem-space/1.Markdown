@@ -10,7 +10,7 @@ tags:
 
 [Cockpit Server](http://10.102.24.53:8181)
 
-Currently running on PC in Desmond booth. The PC nearest to the Roland is the one running Cockpit.
+Currently running on PC nearest to the Roland, in Desmond booth, is the one running Cockpit.
 
 ###### Details
 - IP = 10.102.24.53
