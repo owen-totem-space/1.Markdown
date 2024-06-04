@@ -1,10 +1,8 @@
 ---
-title: Other-Device-List
-date: 2024-05-20
-building: 
-room: 
+title: Other Device List
 tags:
-  - project/active
+  - resource/team
+  - resource/information
 ---
 
 ## Table Of Contents
@@ -26,6 +24,7 @@ Extron IN1606    | 10.103.2.104 |
 ---
 
 ### PBS-Meeting-Room
+[SSG123-PBS-MR](../Rooms/SSG123-PBS-MR.md)
 Device           | IP           | MAC 
 ---------------- | ------------ | ----------------- 
 DM autoswitch    | 10.2.216.90  | 00:10:7f:97:5a:17
@@ -40,6 +39,8 @@ DM autoswitch    | 10.103.2.166 | 00:10:7f:84:39:67
 ---
 
 ### Desmond
+[YS26-Desmond](../Rooms/YS26-Desmond.md)
+
 Device           | IP           | MAC 
 ---------------- | ------------ | ----------------- 
 Panasonic AWHE40 | 10.103.2.117 | 20:C6:EB:EF:76:a2
@@ -51,6 +52,8 @@ Extron MGP 462   | 10.103.2.113 | 00:05:a6:10:3C:7b
 ---
 
 ### College-Hall
+[SSG123-College-Hall](../Rooms/SSG123-College-Hall.md)
+
 Device           | IP           | MAC 
 ---------------- | ------------ | ----------------- 
 DM autoswitch    | 10.2.160.45  | 00:10:7f:84:41:b5 

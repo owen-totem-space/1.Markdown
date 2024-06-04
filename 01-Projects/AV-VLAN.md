@@ -20,7 +20,7 @@ tags:
 	- [KPL-Networking](../../04-Archive/Completed/KPL-Networking.md)
 	- [Network all screens](../../04-Archive/Completed/Networking-Screens-121.md)
 	- [Sennheiser-Cockpit](../../03-Resources/FAQ/Sennheiser-Cockpit.md)
-	- [Camera-List](Camera-List.md)
+	- [Camera-List](../../03-Resources/FAQ/Camera-List.md)
 
 ---
 

@@ -38,4 +38,4 @@ tags:
 
 
 ###### Resources
-[AV-VLAN](../../01-Projects/AV-Network/AV-VLAN.md)
+[AV-VLAN](../../01-Projects/AV-VLAN.md)

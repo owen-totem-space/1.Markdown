@@ -1,10 +1,8 @@
 ---
-title: Camera-List
-date: 2024-05-21
-building: 
-room: 
+title: Camera List
 tags:
-  - project/active
+  - resource/team
+  - resource/information
 ---
 
 # Camera-List
