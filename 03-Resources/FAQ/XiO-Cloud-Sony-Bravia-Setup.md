@@ -1,6 +1,5 @@
 ---
-title: Sony-Bravia-XiO-Direct
-date: 2024-05-16
+title: "XiO Cloud: Sony Bravia Setup"
 tags:
   - resource/team
   - resource/tutorial

@@ -1,5 +1,5 @@
 ---
-title: XiO-Cloud
+title: XiO Cloud
 date: 2024-04-10
 tags:
   - crestron/xio
@@ -70,4 +70,4 @@ The **SETTINGS** menu for managing support providers is located in the user ma
 ###### Resources
 
 ###### Issues
-- [XiO-Duplicate-Mac-Address](../Issues/XiO-Duplicate-Mac-Address.md)
+- [XiO-Cloud-Duplicate-Mac](../Issues/XiO-Cloud-Duplicate-Mac.md)

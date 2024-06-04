@@ -1,7 +1,6 @@
 ---
-title: Common-Purchases
-date: 2024-04-08
-tags: 
+title: Common Purchases
+tags:
   - purchases
   - resource/team
   - resource/information

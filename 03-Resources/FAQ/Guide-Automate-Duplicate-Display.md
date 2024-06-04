@@ -1,5 +1,5 @@
 ---
-title: Automate-Duplicate-Display
+title: "Guide: Automate Duplicate Display"
 date: 2024-04-08
 tags:
   - resource/team

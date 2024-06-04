@@ -1,12 +1,12 @@
 ---
-title: XiO-Duplicate-Mac-Address
+title: "XiO Cloud: Duplicate Mac"
 date: 2024-04-26
 tags:
   - resource/issue
   - resource/team
   - crestron/xio
 ---
-# XiO Duplicate Mac Address
+# XiO Cloud Duplicate Mac Address
 
 ## Description
 

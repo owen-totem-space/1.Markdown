@@ -1,14 +1,25 @@
 ---
-title: Sennheiser-List
-date: 2024-04-12
-building: 
-room: 
+title: Sennheiser Cockpit
 tags:
-  - project/active
+  - resource/team
+  - resource/information
   - sennheiser/cockpit
 ---
 
-## Sennheiser Mics
+## Sennheiser Control Cockpit
+
+[Cockpit Server](http://10.102.24.53:8181)
+
+Currently running on PC in Desmond booth. The PC nearest to the Roland is the one running Cockpit.
+
+###### Details
+- IP = 10.102.24.53
+- Port = 8181
+- Password = Department Password
+
+---
+
+## Device Information
 
 Room          | Device             | IP           | MAC
 ------------- | ------------------ | ------------ | -----------------
@@ -21,7 +32,7 @@ College Hall  | Sennheiser Rx      | 10.2.160.47  | 00:1B:66:AE:50:40
 Albert        | Sennheiser Rx      | 10.2.32.56   | 00:1B:66:2A:D2:48 
 Albert        | Sennheiser Rx      | 10.2.32.54   | 00:1B:66:2A:75:81 
 Albert        | Sennheiser Rx      | 10.2.32.55   | 00:1B:66:2A:75:7F 
-Albert        | Sennheiser CHGR    | x.x.x.x      | 00:1B:66:31:D7:C8 
+Albert        | Sennheiser CHGR    | 10.2.32.79   | 00:1B:66:31:D7:C8 
 O'Flanagan    | Sennheiser Rx      | 10.103.2.189 | 00:1B:66:31:34:64
 O'Flanagan    | Sennheiser Rx      | x.x.x.x      | 00:1B:66:31:34:66
 O'Flanagan    | Sennheiser Rx      | 10.103.2.187 | 00:1B:66:31:77:C6

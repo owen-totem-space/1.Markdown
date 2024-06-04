@@ -1,7 +1,5 @@
 ---
-title: Edit-Video-Windows-10
-date: 2024-05-20
-cssclasses: 
+title: "Guide: Windows 10 Edit Video"
 tags:
   - resource/team
   - resource/tutorial

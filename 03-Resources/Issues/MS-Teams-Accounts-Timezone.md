@@ -1,8 +1,6 @@
 ---
-title: MS-Teams-Accounts-Timezone
+title: "MS Teams: Account Timezone Error"
 date: 2024-05-15
-building: 
-room: 
 tags:
   - resource/issue
   - resource/team

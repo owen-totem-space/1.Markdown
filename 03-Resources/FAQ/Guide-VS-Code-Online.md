@@ -1,7 +1,5 @@
 ---
-title: VS-Code-Online
-date: 2024-04-19
-cssclasses: 
+title: "Guide: VS Code Online"
 tags:
   - vscode
   - crestron/certified-drivers
