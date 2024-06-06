@@ -12,10 +12,10 @@ tags:
 
 ## Jobs
 
-- [TR-Room-Screen-Updates](../../04-Archive/Completed/TR-Room-Screen-Updates.md)
+- [TR-Room-Screen-Updates](../../04-Archive/Complete/TR-Room-Screen-Updates.md)
 - Install Ceiling Mics
 - Reprogram
-- [HTML5-XPanels](../../04-Archive/Completed/HTML5-XPanels.md)
-- [TR-Room-Timer-Plug](../../04-Archive/Completed/TR-Room-Timer-Plug.md)
+- [HTML5-XPanels](../../04-Archive/Complete/HTML5-XPanels.md)
+- [TR-Room-Timer-Plug](../../04-Archive/Complete/TR-Room-Timer-Plug.md)
 
 ###### Resources

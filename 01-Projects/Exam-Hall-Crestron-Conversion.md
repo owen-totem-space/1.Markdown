@@ -23,6 +23,8 @@ tags:
 	- [Link Crestron.com](https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-TX-4KZ-211-2G-B)
 - [ ] DM Lite Receiver with rs232 €299
 	- [Link Crestron.com](https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-RXC-4KZ-101)
+- [ ] Decorator Style Faceplate x2 €15
+	- [Link Crestron.com](https://www.crestron.com/Products/Video/Accessories/Faceplates/FP-G2-DM-B-T)
 
 ## Purchases
 

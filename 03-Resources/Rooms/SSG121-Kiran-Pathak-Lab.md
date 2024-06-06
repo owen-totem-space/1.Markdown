@@ -10,6 +10,16 @@ tags:
 
 ## Kiran Pathak Lab
 
+
+## Crestron Devices
+
+Device             | IP                | MAC
+------------------ | ----------------- | -----------------
+CP3                | 10.2.176.164      | 00.10.7f.3d.c7.46
+TSW760             | 10.2.176.211      | 00.10.7f.92.bd.3d
+
+## Other-Devices
+
 Device             | IP                | MAC
 ------------------ | ----------------- | -----------------
 Sony Bravia Left   | 10.2.176.63       | f8:4e:17:ba:e8:f2
@@ -21,9 +31,8 @@ Telycam Front      | 10.2.176.222      |
 QSC                | 10.2.176.213      |
 Sennheiser         | 10.2.176.225      | 00:1B:66:32:EF:FA
 Dante              | 10.2.176.215      | 00:1B:66:32:EF:F8
-CP3                | 10.2.176.164      | 00.10.7f.3d.c7.46
-TSW760             | 10.2.176.211      | 00.10.7f.92.bd.3d
 
+---
 
 ## Jobs
-- [KPL-Networking](../../04-Archive/Completed/KPL-Networking.md)
+- [KPL-Networking](../../04-Archive/Complete/KPL-Networking.md)

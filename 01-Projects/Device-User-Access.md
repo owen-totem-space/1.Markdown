@@ -1,8 +1,5 @@
 ---
 title: Device-User-Access
-date: 2024-05-01
-building: 
-room: 
 tags:
   - project/active
 ---

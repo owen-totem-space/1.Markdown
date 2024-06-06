@@ -8,7 +8,7 @@ tags:
   - resource/team
 ---
 
-## Information
+## Other-Devices
 
 Device           | IP Address   | MAC Address 
 ---------------- | ------------ | -----------------
@@ -22,6 +22,8 @@ Sennheiser CHG   | x.x.x.x      | 00:1B:66:31:F8:BD
 Aver PTZ310 rear | x.x.x.x      | 00:18:1A:06:98:9D
 Aver PTZ310 side |              |
 Aver controller  |              | 28:b7:7c:8d:c1:3f
+
+---
 
 ## Jobs
 

@@ -10,8 +10,8 @@ tags:
 
 # PBS-MR
 
-### Network Information
+### Other-Devices
 
 Device         | IP           | MAC
 -------------- | ------------ | -----------------
-DM autoswitch  | 10.2.216.90  | 00:10:7f:97:5a:17
+DM autoswitch  | 10.2.216.61  | 00:10:7f:97:5a:17

@@ -24,65 +24,32 @@ Extron IN1606    | 10.103.2.104 |
 ---
 
 ### PBS-Meeting-Room
-[SSG123-PBS-MR](../Rooms/SSG123-PBS-MR.md)
-Device           | IP           | MAC 
----------------- | ------------ | ----------------- 
-DM autoswitch    | 10.2.216.90  | 00:10:7f:97:5a:17
-
----
+![SSG123-PBS-MR](../Rooms/SSG123-PBS-MR.md#Other-Devices)
 
 ### Physio-Movement
+
 Device           | IP           | MAC 
 ---------------- | ------------ | ----------------- 
 DM autoswitch    | 10.103.2.166 | 00:10:7f:84:39:67
 
+
 ---
 
 ### Desmond
-[YS26-Desmond](../Rooms/YS26-Desmond.md)
-
-Device           | IP           | MAC 
----------------- | ------------ | ----------------- 
-Panasonic AWHE40 | 10.103.2.117 | 20:C6:EB:EF:76:a2
-Panasonic AWHE40 | 10.103.2.119 | 20:C6:EB:EF:7B:ea
-Panasonic AWHE40 | 10.103.2.120 | 20:C6:EB:EF:76:a3
-Panasonic AWRP50 | 10.103.2.254 | a8:13:74:77:4f:db
-Extron MGP 462   | 10.103.2.113 | 00:05:a6:10:3C:7b
-
----
+![YS26-Desmond](../Rooms/YS26-Desmond.md#Other-Devices)
 
 ### College-Hall
-[SSG123-College-Hall](../Rooms/SSG123-College-Hall.md)
-
-Device           | IP           | MAC 
----------------- | ------------ | ----------------- 
-DM autoswitch    | 10.2.160.45  | 00:10:7f:84:41:b5 
-Aver PTZ310      | 10.2.160.55  | 
-
----
+![SSG123-College-Hall](../Rooms/SSG123-College-Hall.md#Other-Devices)
 
 ### Exam-Hall
-Device           | IP           | MAC 
----------------- | ------------ | ----------------- 
-Aver PTZ310 rear | 10.2.120.65  | 00:18:1A:06:98:9D
-Aver PTZ310 side |              |
-Aver controller  |              | 28:b7:7c:8d:c1:3f
-
----
+![SSG123-Exam-Hall](../Rooms/SSG123-Exam-Hall.md#Other-Devices)
 
 ### Study-Room-Block-B
-Device           | IP           | MAC 
----------------- | ------------ | ----------------- 
-Extron IN1804    | 10.2.224.138 | 
-
----
+![BlockB-Study-Room](../Rooms/BlockB-Study-Room.md#Other-Devices)
 
 ### Kiran-Pathak-Lab
-Device           | IP           | MAC 
----------------- | ------------ | ----------------- 
-Extron 1606      | 10.2.176.231 |
+![SSG121-Kiran-Pathak-Lab](../Rooms/SSG121-Kiran-Pathak-Lab.md#Other-Devices)
 
----
 ## Poly SoundStructure
  Room               | Device           | IP           | MAC 
  ------------------ | ---------------- | ------------ | -----------------

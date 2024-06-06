@@ -31,4 +31,4 @@ tags:
 ---
 ###### Resources
 - [YS26-Desmond](../03-Resources/Rooms/YS26-Desmond.md)
-- [Desmond-Reprogramming](../04-Archive/Completed/Desmond-Reprogramming.md)
+- [Desmond-Reprogramming](../04-Archive/Complete/Desmond-Reprogramming.md)

@@ -18,7 +18,7 @@ Heading          | Description
 ## Jobs
 
 - [Boucher-Hayes-Cameras](../../01-Projects/Boucher-Hayes-Cameras.md)
-- [HTML5-XPanels](../../04-Archive/Completed/HTML5-XPanels.md)
+- [HTML5-XPanels](../../04-Archive/Complete/HTML5-XPanels.md)
 
 
 ###### Resources

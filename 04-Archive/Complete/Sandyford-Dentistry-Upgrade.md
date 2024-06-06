@@ -2,9 +2,8 @@
 title: Sandyford-Dentistry-Upgrade
 date: 2024-05-09
 building: Sandyford
-room: 
 tags:
-  - project/active
+  - project/complete
 ---
 
 ## Description

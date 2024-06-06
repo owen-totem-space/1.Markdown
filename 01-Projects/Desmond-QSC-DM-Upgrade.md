@@ -26,11 +26,7 @@ tags:
 
 - [x] Investigate NVX vs. DM Matrix replacement
 - [ ] Get work permits for ISS
-
-## Information
-
-Heading          | Description
----------------- | -----------------
+- [ ] contact ISS about UCI for QSC
 
 ---
 ###### Resources
