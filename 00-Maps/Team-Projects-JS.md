@@ -1,7 +1,8 @@
 ---
-title: Team-Project-Tasks
+title: Team-Projects-JS
 tags:
   - tasklist
+  - moc
 ---
 
 ## Project Files

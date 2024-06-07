@@ -1,7 +1,6 @@
 ---
-title: Rooms-DataView
+title: Room-List-JS
 tags:
-  - room-list
   - moc
 ---
 

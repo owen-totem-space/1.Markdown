@@ -1,10 +1,14 @@
 ---
-title: Job-List
+title: Team-Projects-HTML
 tags:
   - tasklist
+  - HTML
+  - moc
 ---
 
 <!--
+Github needs relative links
+
 Replace `01-Projects/` with `../01-Projects/`
 -->
 
@@ -20,5 +24,7 @@ Replace `01-Projects/` with `../01-Projects/`
 
 
 <!--
+Github needs relative links
+
 Replace `01-Projects/` with `../01-Projects/`
 -->

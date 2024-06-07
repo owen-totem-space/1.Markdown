@@ -1,9 +1,11 @@
 ---
 title: Map
-tags: [moc]
+tags: 
+  - moc
+  - HTML
 ---
 
-<a href="00-Maps/Rooms-HTML.md"><img width="70" src="https://img.icons8.com/?size=100&id=48483&format=png&color=cccccc"><br/>Rooms</a> | <a href="00-Maps/Team-Projects-HTML.md"><img width="70" src="https://img.icons8.com/?size=100&id=10758&format=png&color=CCCCCC"><br/>Jobs Todo</a>
+<a href="00-Maps/Room-List-HTML.md"><img width="70" src="https://img.icons8.com/?size=100&id=48483&format=png&color=cccccc"><br/>Rooms</a> | <a href="00-Maps/Team-Projects-HTML.md"><img width="70" src="https://img.icons8.com/?size=100&id=10758&format=png&color=CCCCCC"><br/>Jobs Todo</a>
 :---: | :---:
 
 ---

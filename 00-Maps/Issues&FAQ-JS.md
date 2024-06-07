@@ -1,8 +1,6 @@
 ---
-title: Team-DataView
+title: Issues&FAQ-JS
 tags:
-  - dataview
-  - team
   - moc
 ---
 

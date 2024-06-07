@@ -1,10 +1,11 @@
 ---
-title: Past-Purchases
+title: Past-Purchases-JS
 tags:
-  - purchases/past
+  - moc
 ---
 
 ## Past-Purchases
+
 ```dataviewjs
 const pages = '#purchases/past'
 
