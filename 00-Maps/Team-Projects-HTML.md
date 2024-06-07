@@ -20,6 +20,6 @@ tags:
 > Replace `01-Projects/` with `../01-Projects/`
 
 
-%% 
+<!--
 Replace `01-Projects/` with `../01-Projects/`
-%%
+-->
