@@ -1,6 +1,5 @@
 ---
-title: Team-Map
-date: 2024-04-11
+title: Map
 tags: [moc]
 ---
 
