@@ -83,8 +83,8 @@ Crestron MPC3-201| 10.2.224.115      | c4:42:68:0d:e1:78
 [Extron 1804 Manual](https://media.extron.com/public/download/files/userman/68-3274-01_C_IN1804UG.pdf)
 
 ##### Sennheiser
-![](../../04-Archive/Attachments/Pasted%20image%2020240517105340.png)
+![](../Attachments/BlockB-Sennheiser-screenshot1.png)
 
 ##### QSC
-![](../../04-Archive/Attachments/Pasted%20image%2020240517105639.png)
+![](../Attachments/blockB-QSC-screenshot1.png)
 

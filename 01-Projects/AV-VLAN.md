@@ -20,7 +20,7 @@ tags:
 	- [KPL-Networking](../04-Archive/Complete/KPL-Networking.md)
 	- [Network all screens](../04-Archive/Complete/Networking-Screens-121.md)
 	- [Sennheiser-Cockpit](../../03-Resources/FAQ/Sennheiser-Cockpit.md)
-	- [Camera-List](../02-Areas/Notes/Camera-List.md)
+	- [Camera-List](../02-Areas/Dashy/Camera-List.md)
 
 ---
 
@@ -43,6 +43,10 @@ tags:
 - [SSG123-Mary-Emily-Dowson-Room](../../03-Resources/Rooms/SSG123-Mary-Emily-Dowson-Room.md)
 - [SSG123-TR4](../../03-Resources/Rooms/SSG123-TR4.md)
 - [SSG123-SARA-MR](../../03-Resources/Rooms/SSG123-SARA-MR.md)
+- [SSG123-College-Hall](../03-Resources/Rooms/SSG123-College-Hall.md)
+- [SSG123-Exam-Hall](../03-Resources/Rooms/SSG123-Exam-Hall.md)
+- [SSG123-PBS-MR](../03-Resources/Rooms/SSG123-PBS-MR.md)
+- [SSG123-SARA-MR](../03-Resources/Rooms/SSG123-SARA-MR.md)
 
 ---
 

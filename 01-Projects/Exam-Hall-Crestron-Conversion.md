@@ -16,7 +16,15 @@ tags:
 - Control Cameras
 - Add mini-jack, HDMI IN, HDMI OUT, XLR Out, CAT6 on panel to cabinet
 
-## DM Lite Solution
+---
+
+## Purchases
+
+- [x] RMC4 Controller - ISS €869 +VAT 
+- [x] 7 inch touchpanel x2  €2,750 + VAT
+- [x] DM Receiver €804 + VAT
+
+#### DM Lite Solution
 - [ ] DM Lite 8x2 Switcher €3350
 	- [Link Crestron.com](https://www.crestron.com/Products/Video/DigitalMedia-Switchers/Fixed-Switchers/HD-PS622)
 - [ ] 2x HDMI/USBC wall plates €699
@@ -26,17 +34,12 @@ tags:
 - [ ] Decorator Style Faceplate x2 €15
 	- [Link Crestron.com](https://www.crestron.com/Products/Video/Accessories/Faceplates/FP-G2-DM-B-T)
 
-## Purchases
-
-- [x] RMC4 Controller - ISS €869 +VAT 
-- [x] 7 inch touchpanel x2  €2,750 + VAT
-- [x] DM Receiver €804 + VAT
-
 ###### Quotes & PO
 - [Crestron Equipment_Rev1-Quote with products and scope.pdf](https://rcsicampus-my.sharepoint.com/:b:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/Crestron%20Equipment_Rev1-Quote%20with%20products%20and%20scope.pdf?csf=1&web=1&e=5er3Sm)
 - [RCSI - Crestron TSW-770.pdf](https://rcsicampus-my.sharepoint.com/:b:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/RCSI%20-%20Crestron%20TSW-770.pdf?csf=1&web=1&e=yhfft6)
 - [PO-TSW770-Touchpanels.pdf](https://rcsicampus-my.sharepoint.com/:b:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/PO-TSW770-Touchpanels.pdf?csf=1&web=1&e=4dUkbv)
 - [po-ExamHall-RMC4.pdf](https://rcsicampus-my.sharepoint.com/:b:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/po-ExamHall-RMC4.pdf?csf=1&web=1&e=zfsnpx)
+- [Quote - Switcher, Plates, Receiver](https://rcsicampus-my.sharepoint.com/:b:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/Crestron%20Equipment-Products%20scope%20Overview.pdf?csf=1&web=1&e=GFcmSv)
 
 ---
 

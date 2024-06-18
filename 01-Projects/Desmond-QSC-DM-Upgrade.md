@@ -26,7 +26,7 @@ tags:
 
 - [x] Investigate NVX vs. DM Matrix replacement
 - [ ] Get work permits for ISS
-- [ ] contact ISS about UCI for QSC
+- [x] contact ISS about UCI for QSC
 
 ---
 ###### Resources
@@ -36,3 +36,41 @@ tags:
 - [po-Desmond-Upgrade-DM-Matrix.pdf](https://rcsicampus-my.sharepoint.com/:b:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/po-Desmond-Upgrade.pdf?csf=1&web=1&e=UK4UD9)
 
 [YS26-Desmond](../03-Resources/Rooms/YS26-Desmond.md)
+
+
+---
+
+### Outputs
+
+##### Signal Chain
+Gain -> EQ -> Delay -> Fader Level
+
+##### AMPS
+1. Back 31.65ms
+1. Ceiling 25.54ms
+1. Front L+R 0ms
+1. Outer L+R 16.23ms
+
+##### LINE OUTS
+1. Booth Monitor
+1. Recording/Line to Roland
+1. Podium Soundcard 1
+1. Podium Soundcard 2
+
+### Inputs
+
+##### Minimum Signal Chain
+Gain -> EQ -> Compressor -> Fader
+
+1. Line Input
+2. Line Input
+3. Lectern Mic 1
+4. Lectern Mic 2
+5. Lectern Mic 3
+6. Lectern Mic Small Podium
+7. Handheld 1
+8. Handheld 2
+9. Lapel 1
+10. Lapel 2
+11. Codec In (unused)
+12. Program Audio

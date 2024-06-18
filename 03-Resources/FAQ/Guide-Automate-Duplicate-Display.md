@@ -14,7 +14,7 @@ tags:
  
 ---
 
-## Resolution #1 - Windows Scheduler
+## Solution #1 - Windows Scheduler
 
 - Open Windows Task Scheduler
 - Right Click Task Scheduler Library and select "Create Task"
@@ -24,11 +24,11 @@ tags:
 	- ![ |400](../../04-Archive/Attachments/windows-scheduler-pic3.png)
 ---
 
-## Resolution #2 - Script
+## Solution #2 - Script
 >[!NOTE]
->  This method creates a .bat file that is clickable.  This `.bat` file can be triggered from windows scheduler.
+>  - This method creates a .bat file that is clickable.  This `.bat` file can be triggered from windows scheduler.
 >  
->  We will also create a shortcut to this `.bat` file to hide the file and to change the icon. I used to do this to put a button on the taskbar or desktop.
+>  - We will also create a shortcut to this `.bat` file to hide the file and to change the icon. I used to do this to put a button on the taskbar or desktop.
 
 - Create a new `.txt` file and name it `DisplaySwitch.txt`
 - Open the `DisplaySwitch.txt` file with `notepad.exe`
