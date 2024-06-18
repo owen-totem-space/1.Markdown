@@ -40,7 +40,7 @@ tags:
 - [Custom Backgrounds](https://community.crestron.com/s/article/id-1000743)
 - [Support for Flex Systems](https://community.crestron.com/s/article/id-1001798)
 
-  Insiders
+Insiders
 - [Crestron Flex For Microsoft Teams® Rooms (MTR) Systems Insider](https://community.crestron.com/s/article/id-1000471)
 
 ---
