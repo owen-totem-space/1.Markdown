@@ -20,18 +20,18 @@ tags:
 
 ## Purchases
 
+- [ ] Extron Cat6a Input plate (back to back)
 - [x] RMC4 Controller - ISS €869 +VAT 
 - [x] 7 inch touchpanel x2  €2,750 + VAT
 - [x] DM Receiver €804 + VAT
 
 #### DM Lite Solution
-- [ ] DM Lite 8x2 Switcher €3350
-	- [Link Crestron.com](https://www.crestron.com/Products/Video/DigitalMedia-Switchers/Fixed-Switchers/HD-PS622)
-- [ ] 2x HDMI/USBC wall plates €699
+- [x] [DM Lite 8x2 Switcher €3350](https://www.crestron.com/Products/Video/DigitalMedia-Switchers/Fixed-Switchers/HD-PS622)
+- [x] 2x HDMI/USBC wall plates €699
 	- [Link Crestron.com](https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-TX-4KZ-211-2G-B)
-- [ ] DM Lite Receiver with rs232 €299
+- [x] DM Lite Receiver with rs232 €299
 	- [Link Crestron.com](https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-RXC-4KZ-101)
-- [ ] Decorator Style Faceplate x2 €15
+- [x] Decorator Style Faceplate x2 €15
 	- [Link Crestron.com](https://www.crestron.com/Products/Video/Accessories/Faceplates/FP-G2-DM-B-T)
 
 ###### Quotes & PO
@@ -45,7 +45,7 @@ tags:
 
 ## Task List
 
-- [ ] Investigate visual switching needs in room
+- [x] Investigate visual switching needs in room
 - [ ] Investigate cabling to projector
 - [ ] Investigate cabling to touchpanels - Cat6?
 - [ ] Investigate screen relay cabling
