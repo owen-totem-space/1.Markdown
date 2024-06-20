@@ -23,11 +23,11 @@ The following needs to be decided:
 	-  Add web XPanel
 	-  Add Aver Camera
 
-- [ ] Cable Camera
+- [x] Cable Camera
 	- Cabling To Lectern
 	-  Cabling To Network
 	-  Power For Converters
-- [ ] Get HDMI - Cat6 Converters
+- [x] Get HDMI - Cat6 Converters
 - [ ] Debug pan/tilt programming
 
 ## Information

@@ -4,7 +4,7 @@ date: 2024-04-12
 building: 123SSG
 room: College-Hall
 tags:
-  - project/active
+  - project/complete
   - project/team
 ---
 
@@ -22,10 +22,10 @@ tags:
 
 ## Task List
 
-- [ ] Podium Cabling
+- [x] Podium Cabling
 -  Install new cables where necessary
 -  Dress cables with cable sock
-- [ ] Ask about IEC power connection to podium
+- [x] Ask about IEC power connection to podium
 - [x] Purchase or make bespoke length cables
 	- [x] Get List Of Cables
 - [x] Source a stage box plate to mount on podium

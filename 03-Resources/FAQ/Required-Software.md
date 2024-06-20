@@ -53,3 +53,7 @@ tags:
 ### Shure
 
 - [Shure Tech Portal](https://techportal.shure.com/en/)
+
+### Audinate Dante
+
+- [Dante Controller](https://my.audinate.com/support/downloads/dante-controller)

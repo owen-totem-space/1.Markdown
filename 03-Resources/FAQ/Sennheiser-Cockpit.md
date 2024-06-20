@@ -8,16 +8,19 @@ tags:
 
 ## Sennheiser Control Cockpit
 
-[Cockpit Server](http://10.102.24.53:8181)
-[Cockpit Help](http://10.102.24.53:8181/app/assets/manual/en/index.html)
+- [Planning and setting up single-room and multi-room installations](https://assets.sennheiser.com/global-downloads/file/16248/AN_1269_v1.0_SpeechLine_Digital_Wireless_Single_and_Multi-Room_Setup_EN.pdf)
+- [Sennheiser Manuals](https://www.sennheiser-sites.com/responsive-manuals/en/sl_dw/index.html#page/SpeechLine%20Digital%20Wireless/SL_DW_03_Anleitung_0_EN.html)
+- [Cockpit Server](http://10.102.24.53:8181)
+- [Cockpit Help](http://10.102.24.53:8181/app/assets/manual/en/index.html)
 
-> [!Note] 
-> Currently running on PC nearest to the Roland, in Desmond booth, is the one running Cockpit.
-
-###### Details
+### Details
 - IP = 10.102.24.53
 - Port = 8181
 - Password = Department Password
+
+> [!Note] 
+> Currently running on PC nearest to the Roland, in Desmond booth
+> 
 
 ---
 
@@ -50,7 +53,7 @@ Houston       | Sennheiser CHGR    | 10.103.2.184 | 00:1B:66:31:84:65
 Exam Hall     | Sennheiser Rx      | 10.2.120.51  | 00:1B:66:B0:7A:20
 Exam Hall     | Sennheiser Rx      | 10.2.120.86  | 00:1B:66:B0:7A:21
 Exam Hall     | Sennheiser Rx      | 10.2.120.91  | 00:1B:66:B0:58:F0
-Exam Hall     | Sennheiser Rx      | 10.2.120.90  | 00:1B:66:B0:D0:EF
+Exam Hall     | Sennheiser Rx      | 10.2.120.109 | 00:1B:66:B0:D0:EF
 Exam Hall     | Sennheiser Rx      | 10.2.120.90  | 00:1B:66:B0:58:EF
 Exam Hall     | Sennheiser Rx      | 10.2.120.98  | 00:1B:66:B0:58:F1
 Exam Hall     | Sennheiser CHGR    | 10.2.120.79  | 00:1B:66:31:F8:BD
