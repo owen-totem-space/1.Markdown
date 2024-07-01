@@ -6,6 +6,13 @@ tags:
   - sennheiser/cockpit
 ---
 
+> [!Note] 
+> Running on PC  in Desmond booth, nearest to the Roland
+> - IP: 10.102.24.53
+> - Port: 8181
+> - Password: Department Password
+
+
 ## Sennheiser Control Cockpit
 
 - [Planning and setting up single-room and multi-room installations](https://assets.sennheiser.com/global-downloads/file/16248/AN_1269_v1.0_SpeechLine_Digital_Wireless_Single_and_Multi-Room_Setup_EN.pdf)
@@ -13,14 +20,6 @@ tags:
 - [Cockpit Server](http://10.102.24.53:8181)
 - [Cockpit Help](http://10.102.24.53:8181/app/assets/manual/en/index.html)
 
-### Details
-- IP = 10.102.24.53
-- Port = 8181
-- Password = Department Password
-
-> [!Note] 
-> Currently running on PC nearest to the Roland, in Desmond booth
-> 
 
 ---
 

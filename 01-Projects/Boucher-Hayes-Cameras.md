@@ -4,20 +4,20 @@ date: 2024-04-10
 building: 26YS
 room: Boucher-Hayes-502
 tags: 
-  - project/active
+  - project/complete
   - project/team
 ---
 
 
 ## Tasks
-- [ ] update firmware
+- [x] update firmware
 - [x] Get com port numbers. Attach in program. (display, projector, cameras)
 - [x] Camera inputs 5 -6 
 - [x] Confirm relay numbers
 - [x] repatch/cable for camera and capture card
 - [x] remove poly device
 - [x] Write program - no program available
-- [ ] Find wiring for second Camera
+- [x] Find wiring for second Camera
 	- [See Below](#Fix-Second-Camera)
 
 ## Connected Equipment
