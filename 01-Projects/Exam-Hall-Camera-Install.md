@@ -8,6 +8,17 @@ tags:
   - project/team
 ---
 
+> [!Note]
+> - IT Network switch not providing enough power for booting the cameras
+> - Ordered 5 port switch to provide POE+
+
+## Cameras
+- http://10.2.120.67
+- http://10.2.120.72
+
+Username: mediaservices
+PW: Med1aserv1ces1
+
 ## Tasks
 
 - [x] Ask Estates to install cabling
@@ -17,7 +28,7 @@ tags:
 - [ ] Install and terminate spare SDI/Cat6 box
 - [ ] Change IP Address to AV VLAN
 - [ ] Change Sennheiser IP addresses to AV VLAN
-- [ ] Debug camera issue - No Content Showing
+- [x] Debug camera issue - No Content Showing
 
 ## Information
 

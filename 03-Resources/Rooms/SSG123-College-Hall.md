@@ -15,7 +15,7 @@ tags:
 Device           | IP Address  | MAC
 ---------------- | ----------- | ---------------
 HD-MD-400-CE     | 10.2.160.45 | 00:10:7f:84:41:b5
-Aver PTZ Cam     | 10.2.160.55 | 00:18:1A:09:75:95
+Aver PTZ Cam     | 10.2.160.54 | 00:18:1A:09:75:95
 MPC3             | 10.2.160.42 | c4:42:68:25:59:6a
 
 ---
@@ -23,7 +23,7 @@ MPC3             | 10.2.160.42 | c4:42:68:25:59:6a
 ## Jobs
 
 - [College-Hall-Camera-Install](../../01-Projects/College-Hall-Camera-Install.md)
-- [College-Hall-Podium-Cabling](../../01-Projects/College-Hall-Podium-Cabling.md)
+- [College-Hall-Podium-Cabling](../../04-Archive/Complete/College-Hall-Podium-Cabling.md)
 - [HTML5-XPanels](../../04-Archive/Complete/HTML5-XPanels.md)
 
 
