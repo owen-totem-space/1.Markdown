@@ -34,7 +34,7 @@ tags:
 
 ---
 
-## Camera Stream Addresses
+## Camera Stream Addresses Examples
 
 ```
 Aver                     | rtsp://10.2.120.72/live_st1
