@@ -4,7 +4,7 @@ date: 2024-04-10
 building: 123SSG
 room: College-Hall
 tags:
-  - project/active
+  - project/complete
 ---
 
 ## Description
@@ -28,7 +28,7 @@ The following needs to be decided:
 	-  Cabling To Network
 	-  Power For Converters
 - [x] Get HDMI - Cat6 Converters
-- [ ] Debug pan/tilt programming
+- [x] Debug pan/tilt programming
 
 ## Information
 
@@ -46,5 +46,5 @@ MPC3           | c4:42:68:25:59:6a | [XPanel IP]
 
 ###### Resources
 - [Aver-PTZ330](../../03-Resources/Equipment/Aver-PTZ330.md)
-- [SSG123-College-Hall](../03-Resources/Rooms/SSG123-College-Hall.md)
-- [College-Hall-Podium-Cabling](../04-Archive/Complete/College-Hall-Podium-Cabling.md)
+- [SSG123-College-Hall](../../03-Resources/Rooms/SSG123-College-Hall.md)
+- [College-Hall-Podium-Cabling](College-Hall-Podium-Cabling.md)

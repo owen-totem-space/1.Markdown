@@ -28,11 +28,11 @@ tags:
 
 
 - [ ] Clean cables behind foldback screen.
-	- [ ] Fix DM Receiver to screen. Clean up cabling
+
 	- [ ] Cable tie cables together for easy removal/connection
 	- [ ] Label cables
 	- [ ] Put cable sock on cables/loom
-- [ ] Fix receiver to back of screen
+- [ ] Fix DM Receiver to screen bracket. Clean up cabling
 	- build box for back of foldback?
 
 ---

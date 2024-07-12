@@ -4,7 +4,7 @@ date: 2024-04-12
 building: 123SSG
 room: Physio-Movement
 tags:
-  - project/future
+  - project/active
 ---
  
 ## Description
@@ -23,6 +23,9 @@ I plan to replace the two switcher system with a single dual output DMPS3.
 
 ## Task List
 
+- [ ] Set up test rig with AP3 and Wireless Touchpanel
+	- Install battery in touchpanel
+	- Set up CEN-GWEXER
 - [ ] Create Schematic
 - [ ] Create Program
 	- [ ] User Interface

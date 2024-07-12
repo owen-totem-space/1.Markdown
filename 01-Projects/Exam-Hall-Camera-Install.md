@@ -8,9 +8,8 @@ tags:
   - project/team
 ---
 
-> [!Note]
-> - IT Network switch not providing enough power for booting the cameras
-> - Ordered 5 port switch to provide POE+
+
+
 
 ## Cameras
 - http://10.2.120.67
@@ -21,14 +20,19 @@ PW: Med1aserv1ces1
 
 ## Tasks
 
+> [!Note]
+> - IT Network switch not providing enough power for booting the cameras
+> - Ordered 5 port switch to provide POE+
+
 - [x] Ask Estates to install cabling
 	- Completed by Ian
 - [x] Terminate Camera SDI cables
 - [x] Terminate Cat6 Cables
 - [ ] Install and terminate spare SDI/Cat6 box
-- [ ] Change IP Address to AV VLAN
-- [ ] Change Sennheiser IP addresses to AV VLAN
 - [x] Debug camera issue - No Content Showing
+	- Issue was not enough POE+ during bootup. Boot loop was created.
+- [ ] Re-terminate SDI cables
+- [x] Replace head of Cat6 cable to side cam
 
 ## Information
 
