@@ -8,7 +8,7 @@ tags:
 # Viewing Cameras
 
 > [!CAUTION]
-> With some cameras, only one person can view the backend camera stream at a time. Using the RTSP Steam gets around this issue and allows you to keep a playlist with all cameras
+> With some cameras, only one person can view the backend camera stream at a time. Using the RTSP stream gets around this issue and allows you to keep a playlist with all cameras
 
 ---
 

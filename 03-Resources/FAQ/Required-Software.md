@@ -45,7 +45,8 @@ tags:
 - [ ] nmap/zenmap
 
 ### QSC
-- [ ] Q-sys Designer
+- [ ] Q-Sys Designer
+- [ ] Q-Sys UCI Viewer
 
 - [Q-sys Training](https://training.qsc.com/mod/page/view.php?id=560)
 - [Q-sys Designer Software](https://www.qsys.com/resources/software-and-firmware/q-sys-designer-software/)
