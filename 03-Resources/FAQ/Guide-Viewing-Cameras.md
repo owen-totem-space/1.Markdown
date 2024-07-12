@@ -24,6 +24,7 @@ tags:
 ---
 
 ## RTSP Stream Via VLC
+[Link to playlist File](../../04-Archive/Attachments/RCSI%20Cameras.xspf)
 
 - Open VLC Playlist file (.xspf)
 - If camera opens fullscreen like below, select playlist button, circled red
