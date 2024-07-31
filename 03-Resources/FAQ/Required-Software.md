@@ -28,28 +28,36 @@ tags:
 
 ### Extron
 - [ ] Extron PCS (Product Configuration Software)
+	- https://www.extron.com/product/software/pcscs
 
 ### Aver
 - [ ] Aver IP Cam Utility
+	- https://www.aver.com/Downloads/search?q=AVer%20IPCam%20Utility%20for%20Camera%20IP%20Searching
 
 ### Sennheiser
-- [ ] Sennhesier Control Cockpit - server on booth pc
+- [ ] Sennhesier Control Cockpit - (not necessary on PC, server on booth pc)
+
 
 ### Poly
 - [ ] Soundstructure Studio - Polycom
+	- https://support.hp.com/us-en/document/ish_10198660-10198574-16
 - [ ] Poly Lens (available in a browser/web app)
 
 ### Other
 - [ ] Filezilla - emergency file transfer to devices
+	- https://filezilla-project.org/
 - [ ] Obsidian - Notes
 - [ ] nmap/zenmap
+- [ ] VS Code
+- [ ] Windows Terminal
 
 ### QSC
 - [ ] Q-Sys Designer
+	- [Q-sys Designer Software](https://www.qsys.com/resources/software-and-firmware/q-sys-designer-software/)
 - [ ] Q-Sys UCI Viewer
 
-- [Q-sys Training](https://training.qsc.com/mod/page/view.php?id=560)
-- [Q-sys Designer Software](https://www.qsys.com/resources/software-and-firmware/q-sys-designer-software/)
+[Q-sys Training](https://training.qsc.com/mod/page/view.php?id=560)
+
 
 ### Shure
 
