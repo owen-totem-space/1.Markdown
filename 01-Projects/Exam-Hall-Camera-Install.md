@@ -28,7 +28,7 @@ PW: Med1aserv1ces1
 	- Completed by Ian
 - [x] Terminate Camera SDI cables
 - [x] Terminate Cat6 Cables
-- [ ] Install and terminate spare SDI/Cat6 box
+- [x] Install and terminate spare SDI/Cat6 box
 - [x] Debug camera issue - No Content Showing
 	- Issue was not enough POE+ during bootup. Boot loop was created.
 - [x] Replace head of Cat6 cable to side cam

@@ -45,7 +45,7 @@ tags:
 
 ## Task List
 
-- [x] Investigate visual switching needs in room
+- [ ] Investigate visual switching needs in room
 - [ ] Investigate cabling to projector
 - [ ] Investigate cabling to touchpanels - Cat6?
 - [ ] Investigate screen relay cabling

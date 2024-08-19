@@ -15,11 +15,11 @@ tags:
 
 ## Task List
 
-- [ ] Build Stage Box
+- [x] Build Stage Box
 	- Cat6 connector is a back to back, angled Cat6 Cables in basement
 	- Solder Female XLR port to male XLR head
-- [ ] Install stage box in floor
-	- [ ] Terminate Cat6 cables in floor with female Cat6 heads
+- [x] Install stage box in floor
+	- [x] Terminate Cat6 cables in floor with female Cat6 heads
 
 
 ## Purchases

@@ -31,4 +31,3 @@ Heading          | Description
 - https://www.graham-walsh.com/setting-up-a-crestron-flex-system-for-microsoft-teams/
 - [Crestron-OLH-Links](../FAQ/Crestron-OLH-Links.md)
 - [mg_sg_uc-m150-t_uc-b160-t_uc-c160-t](https://www.crestron.com/getmedia/37077e91-4b19-4c40-b88a-ea45be7e651d/mg_sg_uc-m150-t_uc-b160-t_uc-c160-t)
-- [MS-Teams](../../02-Areas/IT/MS-Teams.md)

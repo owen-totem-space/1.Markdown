@@ -10,11 +10,11 @@ tags:
 
 ## Other-Devices
 
-Device           | IP Address              | MAC Address 
----------------- | ----------------------- | -----------------
-Aver PTZ310 rear | http://10.2.120.72/     | 00:18:1A:06:98:9D
-Aver PTZ310 side | http://10.2.120.67/     |
-Aver controller  |                         | 28:b7:7c:8d:c1:3f
+| Device           | IP Address          | MAC Address       |
+| ---------------- | ------------------- | ----------------- |
+| Aver PTZ310 rear | http://10.2.120.72/ | 00:18:1A:06:98:9D |
+| Aver PTZ310 side | http://10.2.120.67/ | 00:18:1A:09:75:91 |
+| Aver controller  |                     | 28:b7:7c:8d:c1:3f |
 
 ### Cameras
 
