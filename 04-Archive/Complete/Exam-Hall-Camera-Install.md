@@ -4,7 +4,7 @@ date: 2024-04-10
 building: 123SSG
 room: Exam-Hall
 tags:
-  - project/active
+  - project/complete
   - project/team
 ---
 
@@ -37,7 +37,7 @@ PW: Med1aserv1ces1
 
 - Due to booking cancellations and issues arranging time for an installer to complete the work, we decided to complete the work ourselves with the help if estates to install the cabling.
 
-- [SSG123-Exam-Hall](../03-Resources/Rooms/SSG123-Exam-Hall.md)
+- [SSG123-Exam-Hall](../../03-Resources/Rooms/SSG123-Exam-Hall.md)
 - [Aver PTZ330 Manual]
 
 ---
@@ -62,7 +62,7 @@ PW: Med1aserv1ces1
 - 3 SDI for camera
 - 3 SDI for wall plates
 - 
-![](../04-Archive/Attachments/rack-wall-front.jpg)
+![](../Attachments/rack-wall-front.jpg)
 
 - Connect 3 Camera SDI ports to black magic box (SDI – HDMI) in the rack.
 - Supply 1U panel for cabinet rack with 3 HDMI ports (can be HDMI back to back). Fed from black magic boxes.
@@ -75,21 +75,21 @@ PW: Med1aserv1ces1
 - Supply 3 Wall plates with SDI connector
 - My preference would be for wall plates in style of below pic
 
-![](../04-Archive/Attachments/Current-Wall-plate.jpg)
+![](../Attachments/Current-Wall-plate.jpg)
 
 ### Wall plates can replace current wall plates. Pics below
 
 ##### Wall Plate 1 – current plate is not in use
 
-![](../04-Archive/Attachments/Wall-plate-1.jpg)
+![](../Attachments/Wall-plate-1.jpg)
 
 ##### Wall Plate 2 – current plate is not in use
 
-![](../04-Archive/Attachments/wall-plate-2.jpg)
+![](../Attachments/wall-plate-2.jpg)
 
 ##### Wall Plate 3
 
-![](../04-Archive/Attachments/wall-plate-3.jpg)
+![](../Attachments/wall-plate-3.jpg)
 
 - My preference for this wall plate rather than add another single gang plate beside it, would be to replace this with a 2 port single gang like in the picture above and re-terminate the cat6 to an ethercon and add SDI connector.
 

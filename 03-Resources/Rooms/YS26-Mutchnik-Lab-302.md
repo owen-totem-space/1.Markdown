@@ -20,7 +20,7 @@ Heading          | Description
 ## Jobs
 
 - [Mutchnik-302-Camera-Install](../../04-Archive/Complete/Mutchnik-302-Camera-Install.md)
-- [Mutchnik-Stage-Box](../../01-Projects/Mutchnik-Stage-Box.md)
+- [Mutchnik-Stage-Box](../../04-Archive/Complete/Mutchnik-Stage-Box.md)
 
 
 

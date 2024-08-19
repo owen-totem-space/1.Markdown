@@ -4,7 +4,7 @@ date: 2024-04-12
 building: 26YS
 room: Mutchnik-Lab-302
 tags:
-  - project/active
+  - project/complete
   - project/team
 ---
 
@@ -32,11 +32,11 @@ tags:
 
 ## Information
 
-![ | 200](../04-Archive/Attachments/mutchnik-cable-damage.jpg)
+![ | 200](../Attachments/mutchnik-cable-damage.jpg)
 
-![|200](../04-Archive/Attachments/Mutchnik-Cable-Damage%201.jpg)
+![|200](../Attachments/Mutchnik-Cable-Damage%201.jpg)
 
 
 ---
 ###### Resources
-- [YS26-Mutchnik-Lab-302](../03-Resources/Rooms/YS26-Mutchnik-Lab-302.md)
+- [YS26-Mutchnik-Lab-302](../../03-Resources/Rooms/YS26-Mutchnik-Lab-302.md)
