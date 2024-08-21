@@ -7,17 +7,11 @@ tags:
 ---
 # Table Of Contents
 1. [Miscellaneous Equipment](#Miscellaneous-Equipment)
-4. [Cables](#Cables)
-	1. [Cat6a](#Cat6a)
-	1. [HDMI](#HDMI)
-	1. [RS232](#RS232)
 2. [Crestron](#Crestron)
+4. [Cables](#Cables)
 3. [Cable Termination](#Cable-Termination)
-5. [Rack Equipment](#Rack%20Equipment)
-1. [Capture Cards](#Capture%20Cards)
-	1. [HDMI-Ethernet-Converters](#HDMI-Ethernet-Converters)
-	1. [SDI](#SDI)
-3. [HDMI - Ethernet Converters](#HDMI%20-%20Ethernet%20Converters)
+5. [Rack Equipment](#Rack-Equipment)
+1. [Capture Cards](#Capture-Cards)
 4. [Streaming](#Streaming)
 
 ---
@@ -92,12 +86,12 @@ tags:
 - [Neutrik Female XLR Connector](https://ie.rs-online.com/web/p/xlr-connectors/0166254?gb=s)
 
 --- 
-## Rack Equipment
+## Rack-Equipment
 - [Rack Mounted Power Strip](https://ie.farnell.com/lms-data/pdu-6ws-h/6-way-horizontal-13a-switched/dp/3761838)
 
 ---
 
-## Capture Cards
+## Capture-Cards
 #### SDI - USB
 - [Inogeni SDI - USB](https://www.thomann.de/ie/inogeni_sdi_to_usb_3.0_converter.htm?listPosition=2)
 - [Blackmagic MC SDI-HDMI 3G w. PSU](https://www.thomann.de/ie/blackmagic_design_mc_sdi_hdmi_3g_w._psu.htm)
