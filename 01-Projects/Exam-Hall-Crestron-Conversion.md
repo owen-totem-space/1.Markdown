@@ -16,16 +16,26 @@ tags:
 - Control Cameras
 - Add mini-jack, HDMI IN, HDMI OUT, XLR Out, CAT6 on panel to cabinet
 
+#### Plate on Rack
+- [RS PRO Single Gang 4 Way XLR Faceplate](https://ie.rs-online.com/web/p/audio-video-faceplates/1873813?gb=s)
+- [Panel Mount BNC Connector](https://ie.rs-online.com/web/p/coaxial-connectors/9093676?gb=s)
+
+- [Neutrik D Dummy Plate](https://ie.rs-online.com/web/p/av-connector-accessories/8485294?gb=s)
+- [Female HDMI Connector](https://ie.rs-online.com/web/p/hdmi-connectors/2617591?gb=s)
+- HDMI input
+- HDMI output
+- SDI Camera 1
+- SDI Camera 2
+
+#### Plate 2 On Rack
+- Network ethernet connection
+- Ethernet patch to back of room
+
 ---
 
-## Purchases
-
-- [ ] Extron Cat6a Input plate (back to back)
+## DM Lite Solution
 - [x] RMC4 Controller - ISS €869 +VAT 
 - [x] 7 inch touchpanel x2  €2,750 + VAT
-- [x] DM Receiver €804 + VAT
-
-#### DM Lite Solution
 - [x] [DM Lite 8x2 Switcher €3350](https://www.crestron.com/Products/Video/DigitalMedia-Switchers/Fixed-Switchers/HD-PS622)
 - [x] 2x HDMI/USBC wall plates €699
 	- [Link Crestron.com](https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-TX-4KZ-211-2G-B)
@@ -50,14 +60,6 @@ tags:
 - [ ] Investigate cabling to touchpanels - Cat6?
 - [ ] Investigate screen relay cabling
 - [ ] Investigate cabling to wall plates
-
-## Equipment
-
-- Do I need a CEN-IO up at the projector? NO
-- Do I have enough RS232 ports?
-
-- rs232 to projector achieved with DM Lite Receiver
-
 
 ---
 
