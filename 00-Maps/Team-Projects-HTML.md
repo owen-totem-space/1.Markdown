@@ -9,12 +9,12 @@ tags:
 <!--
 Github needs relative links
 
-Replace `01-Projects/` with `../../01-Projects/`
+Replace `01-Projects/` with `../01-Projects/`
 -->
 
 ## Project Files
 
-<div><div class="block-language-dataviewjs node-insert-event" style="overflow-x: auto;"><div><ul class="dataview list-view-ul"><li dir="auto"><span><a data-tooltip-position="top" aria-label="../../01-Projects/Desmond-Foldback-Monitors.md" data-href="01-Projects/Desmond-Foldback-Monitors.md" href="../../01-Projects/Desmond-Foldback-Monitors.md" class="internal-link" target="_blank" rel="noopener">Desmond-Foldback-Monitors</a></span></li><li dir="auto"><span><a data-tooltip-position="top" aria-label="../../01-Projects/O'Flanagan Refresh.md" data-href="../../01-Projects/O'Flanagan-Refresh.md" href="../../01-Projects/O'Flanagan-Refresh.md" class="internal-link" target="_blank" rel="noopener">O'Flanagan Refresh</a></span></li></ul></div></div></div>
+<div><div class="block-language-dataviewjs node-insert-event" style="overflow-x: auto;"><div><ul class="dataview list-view-ul"><li dir="auto"><span><a data-tooltip-position="top" aria-label="../01-Projects/Desmond-Foldback-Monitors.md" data-href="../01-Projects/Desmond-Foldback-Monitors.md" href="../01-Projects/Desmond-Foldback-Monitors.md" class="internal-link" target="_blank" rel="noopener">Desmond-Foldback-Monitors</a></span></li><li dir="auto"><span><a data-tooltip-position="top" aria-label="../01-Projects/OFlanagan Refresh.md" data-href="../01-Projects/OFlanagan-Refresh.md" href="../01-Projects/OFlanagan-Refresh.md" class="internal-link" target="_blank" rel="noopener">O'Flanagan Refresh</a></span></li></ul></div></div></div>
 
 ---
 

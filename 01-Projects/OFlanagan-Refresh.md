@@ -1,5 +1,5 @@
 ---
-title: O'Flanagan-Refresh
+title: OFlanagan-Refresh
 date: 2024-08-21
 building: 123SSG
 room: O'Flanagan
