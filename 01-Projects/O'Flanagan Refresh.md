@@ -4,7 +4,8 @@ date: 2024-08-21
 building: 123SSG
 room: O'Flanagan
 tags:
-  - project/future
+  - project/active
+  - project/team
 ---
 
 ## Clean Rack & Replace Network Switch
@@ -31,11 +32,8 @@ tags:
 > One receiver for the projector and to provide control to it.
 > One receiver for foldback screen on stage,
 
-
-
-
 ---
-### Recce
+## Recce
 
 - [ ] power = 21 sockets minimum
 	- [ ] horizontal strip and iec strip
@@ -57,9 +55,8 @@ tags:
 - [ ] Wall box for student iput with outputs for xlr and hdmi
 
 - [ ] xlr loom - female and male heads
- 
- 
- ---
+
+---
 
 Get a box like exam hall for cat 6 and xlr
 
