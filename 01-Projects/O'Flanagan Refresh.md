@@ -30,3 +30,43 @@ tags:
 
 > One receiver for the projector and to provide control to it.
 > One receiver for foldback screen on stage,
+
+
+
+
+---
+### Recce
+
+- [ ] power = 21 sockets minimum
+	- [ ] horizontal strip and iec strip
+	- [ ] iec patch cable
+- [ ] ethernet = 13 switch ports
+	- [ ] 3m max with a couple of 5m
+	- [ ] 1.5m - 2m 
+- [ ] ethernet = 6 visual runs
+- [ ] xlr = 18 + 4 jacks
+- [ ] cat5 =  do we terminate
+- [ ] speakon = 6
+- [ ] male speakon heads = 6
+
+- [ ] rack for wall 4U
+	- [ ] 16 way strips x 2 for speakon and xlr
+	- [ ] xlr ports male x 12
+	- [ ] xlr ports female x 4
+
+- [ ] Wall box for student iput with outputs for xlr and hdmi
+
+- [ ] xlr loom - female and male heads
+ 
+ 
+ ---
+
+Get a box like exam hall for cat 6 and xlr
+
+remove old radio and aerials
+
+xlr in, xlr out and hdmi out in box outside booth
+
+IEC power strip
+
+clip for mounting dock

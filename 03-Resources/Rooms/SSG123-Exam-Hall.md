@@ -6,6 +6,9 @@ room: Exam-Hall
 tags:
   - room-info
   - resource/team
+cssclasses: 
+  - wide-table
+  - style-table
 ---
 
 ## Other-Devices

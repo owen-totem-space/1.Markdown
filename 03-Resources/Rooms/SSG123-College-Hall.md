@@ -6,6 +6,9 @@ room: College-Hall
 tags:
   - room-info
   - resource/team
+cssclasses: 
+  - wide-table
+  - style-table
 ---
 
 ## College-Hall

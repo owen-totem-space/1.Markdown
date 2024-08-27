@@ -23,6 +23,10 @@ tags:
 
 ## User-Access
 
+> [!Important] 
+> - You must use https://rcsi-portal.crestron.io/ to log in
+> - https://portal.crestron.io will not let you log in with an @rcsi.com email
+
 ### Adding-New-Users
 
 - Create new user on XiO Cloud with @rcsi.com address. [XiO Help: Manage Users](https://docs.crestron.com/en-us/8214/Content/Topics/Manage-Users.htm)

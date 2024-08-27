@@ -1,5 +1,5 @@
 ---
-title: Common Purchases
+title: Equipment Purchases
 tags:
   - purchases
   - resource/team
@@ -36,7 +36,6 @@ tags:
 - [Dymo Label Writer 5XL](https://ie.rs-online.com/web/p/label-printers/2301195)
 - [Dymo Label Roll 64mm Width, 19mm Height](https://ie.rs-online.com/web/p/label-rolls/1245854)
 	- reported as too small
-	- https://ie.rs-online.com/web/p/label-rolls/3298418?gb=s
 	- https://ie.rs-online.com/web/p/label-rolls/3298424?gb=s
 
 #### HDMI-Ethernet-Converters
