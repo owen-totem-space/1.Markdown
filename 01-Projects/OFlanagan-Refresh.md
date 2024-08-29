@@ -29,9 +29,11 @@ tags:
 
 ---
 
-**Stage Box**
-- [ ] [Canford Wall Box](https://www.canford.co.uk/CANFORD-RACKBOX-Wall-racks-steel)
-- [ ] [Canford Wooden Wall Box](https://www.canford.co.uk/Wall-mount-wooden-racks-and-cabinets/CANFORD-RACKS-ES414-Series-19-Inch-wall-racks-Wooden)
+**Cables**
+- [ ] [Roline Cat6a Straight Male RJ45 1.5m](https://ie.rs-online.com/web/p/ethernet-cable/2660731?gb=s)
+- [ ] [Roline Cat6a Straight Male RJ45 2m](https://ie.rs-online.com/web/p/ethernet-cable/1973633?gb=s)
+- [ ] [Roline Cat6a Straight Male RJ45 3m](https://ie.rs-online.com/web/p/ethernet-cable/1973648?gb=s)
+- [ ] [Roline Cat6a Straight Male RJ45 5m](https://ie.rs-online.com/web/p/ethernet-cable/1973587?gb=s)
 
   **Networking**
 - [ ] [NETGEAR GS116PP](https://www.elara.ie/productdetail.aspx?manufacturer=NETGEAR&mancode=GS116PP-100EUS&productcode=MME0714416)
@@ -40,11 +42,9 @@ tags:
 - [ ] [RPP Power Strip 8 Sockets - Switched](https://www.canford.co.uk/Products/2025194/42-6002_RPP-POWER-DISTRIBUTION-UNIT-X198S)
 - [ ] [RPP Combo IEC & UK Socket](https://www.canford.co.uk/RPP-POWER-DISTRIBUTION-UNITS-Rackmount-combination-type)
 
-  **Screws/Nuts/Washers etc**
-- [ ] [M3 Posi Screw 8mm | Pack of 100](https://www.canford.co.uk/Products/2024023/14-322_M3-POZI-SCREW-Csk-MS-CB-8mm-pack-of-100)
-- [ ] [M3 Posi Screw 6mm | Pack of 100](https://www.canford.co.uk/Products/2024023/14-321_M3-POZI-SCREW-Csk-MS-CB-6mm-pack-of-100)
-- [ ] [M3 Posi Screw 10mm | Pack of 100](https://www.canford.co.uk/Products/2024023/14-323_M3-POZI-SCREW-Csk-MS-CB-10mm-pack-of-100)
-- [ ] [M3 Lock Nut | Pack of 100](https://www.canford.co.uk/Products/14-081_M3-NYLOC-NUT-Type-P-MS-ZCP-pack-of-100)
+  **Stage Box**
+- [ ] [Canford Wall Box](https://www.canford.co.uk/CANFORD-RACKBOX-Wall-racks-steel)
+- [ ] [Canford Wooden Wall Box](https://www.canford.co.uk/Wall-mount-wooden-racks-and-cabinets/CANFORD-RACKS-ES414-Series-19-Inch-wall-racks-Wooden)
 
   **Rack Strips**
 - [ ] [Canford Universal Connection Panel 1U - 12](https://www.canford.co.uk/Products/2015902/45-3367_CANFORD-UNIVERSAL-CONNECTION-PANEL-Kit-1U-1x12-black)
@@ -60,11 +60,18 @@ tags:
 - [ ] [NEUTRIK NLFASTON Crimp spade terminals 4.8mm (pack of 100)](https://www.canford.co.uk/Products/43-047_NEUTRIK-NLFASTON-Crimp-spade-terminals-4.8mm-pack-of-100)
 - [ ] [Canford Mini-Jack D-Series](https://www.canford.co.uk/Products/2015907/49-290_CANFORD-D-SERIES-3.5mm-3-pole-jack-black)
 - [ ] [Neutrik Blanking Plate](https://www.canford.co.uk/Products/2024027/40-992_NEUTRIK-DBA-BL-XLR-BLANKING-PLATE-D-series-surface-mount-black)
+- [ ] [XLR Label](https://www.canford.co.uk/NEUTRIK-XLR-LABEL-HOLDERS)
 
   **Cable Connectors**
 - [ ] [Neutrik NC3MXX XLR Male cable connector](https://www.canford.co.uk/Products/41-032_NEUTRIK-NC3MXX-XLR-Male-cable-connector-nickel-shell-silver-plated-contacts)
 - [ ] [Neutrik NL8FC Speakon Cable connector](https://www.canford.co.uk/Products/43-081_NEUTRIK-NL8FC-SPEAKON-Cable-connector)
 - [ ] [Neutrik NC3FXX XLR Female cable connector](https://www.canford.co.uk/Products/41-031_NEUTRIK-NC3FXX-XLR-Female-cable-connector-nickel-shell-silver-plated-contacts)
+
+  **Screws/Nuts/Washers etc**
+- [ ] [M3 Posi Screw 8mm | Pack of 100](https://www.canford.co.uk/Products/2024023/14-322_M3-POZI-SCREW-Csk-MS-CB-8mm-pack-of-100)
+- [ ] [M3 Posi Screw 6mm | Pack of 100](https://www.canford.co.uk/Products/2024023/14-321_M3-POZI-SCREW-Csk-MS-CB-6mm-pack-of-100)
+- [ ] [M3 Posi Screw 10mm | Pack of 100](https://www.canford.co.uk/Products/2024023/14-323_M3-POZI-SCREW-Csk-MS-CB-10mm-pack-of-100)
+- [ ] [M3 Lock Nut | Pack of 100](https://www.canford.co.uk/Products/14-081_M3-NYLOC-NUT-Type-P-MS-ZCP-pack-of-100)
 
   **Input Plates**
 - [ ] [CONNECTOR-PLATE-1-gang-4-mounting-hole](https://www.canford.co.uk/Products/20244/49-607_CANFORD-F41B-CONNECTOR-PLATE-1-gang-4-mounting-hole-black)
@@ -83,6 +90,14 @@ tags:
 - Mount Laptop Dock in better position inside podium
 - Loom and clean cables inside podium
 - [ ] Mounting Clips for cable ties
+	- [ ] https://ie.rs-online.com/web/p/cable-ties/8111600?gb=s
+	- [ ] https://ie.rs-online.com/web/p/cable-ties/8111808?gb=s
+	- [ ] https://ie.rs-online.com/web/p/cable-ties/3212543?gb=s
+	- [ ] https://ie.rs-online.com/web/p/cable-tie-mounts/0233685?gb=s
+	- [ ] https://ie.rs-online.com/web/p/cable-tie-mounts/0233663
+	- [ ] https://ie.rs-online.com/web/p/wood-screws/0521169?gb=s
+	- [ ] https://ie.rs-online.com/web/p/wood-screws/4833135?gb=s
+	- [ ] https://ie.rs-online.com/web/p/screwdrivers/1829700?gb=s
 - Suggest removing extra HDMI cable - wire bench to podium input
 ## Proposed New Equipment
 - [HD-TX-4KZ-421-CHGR €908](https://www.crestron.com/Products/Video/DM-Essentials/Switching-Transmitters-Receivers/HD-TX-4KZ-421-CHGR)
