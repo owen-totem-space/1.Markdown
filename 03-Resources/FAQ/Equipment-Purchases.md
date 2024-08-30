@@ -30,9 +30,9 @@ tags:
 - [Cable retainer clips for wall input plates](https://ie.rs-online.com/web/p/cable-tie-mounts/7048652?searchId=1ce8dd6f-f2e7-44d2-975f-322d0c2193dc&gb=s)
 - [Dongle Lock](https://ie.rs-online.com/web/p/laptop-locks/2228283)
 - [Analogue Plug In Timer](https://ie.rs-online.com/web/p/plug-in-timers/1716224?gb=s)
-- [Straight IEC C13 Socket to Straight IEC C14 - 2m](https://ie.rs-online.com/web/p/power-cords/0487277?gb=s)
-- [Straight IEC C13 Socket to Straight IEC C14 - 3m](https://ie.rs-online.com/web/p/power-cords/1230961?gb=s)
-- [Straight IEC C13 Socket to Straight IEC C14 - 1m](https://ie.rs-online.com/web/p/power-cords/2660619)
+- [Straight IEC C13 Socket to Straight IEC C14 - 2m](https://ie.rs-online.com/web/p/power-cords/1373345)
+- [Straight IEC C13 Socket to Straight IEC C14 - 3m](https://ie.rs-online.com/web/p/power-cords/1230940)
+- [Straight IEC C13 Socket to Straight IEC C14 - 1m](https://ie.rs-online.com/web/p/power-cords/1373339)
 
 #### Labellers
 - [Brother PT-E550W Label Printer](https://ie.rs-online.com/web/p/label-printers/9186692)
