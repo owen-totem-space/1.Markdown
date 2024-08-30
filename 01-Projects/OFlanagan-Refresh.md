@@ -50,6 +50,8 @@ tags:
 - [ ] [Canford Universal Connection Panel 1U - 12](https://www.canford.co.uk/Products/2015902/45-3367_CANFORD-UNIVERSAL-CONNECTION-PANEL-Kit-1U-1x12-black)
 - [ ] [Canford Universal Connection Panel 1U - 16](https://www.canford.co.uk/Products/2015902/45-3391_CANFORD-UNIVERSAL-CONNECTION-PANEL-Kit-1U-1x16-black)
 - [ ] [1U Rack Panel Blank](https://www.canford.co.uk/Products/19-2121_CANFORD-RACK-PANEL-BLANK-FULL-WIDTH-1U-Flat-aluminium-black-anodised)
+- [ ] [XLR Termination Panel 1U 1x8 Neutrik XLRF (left), 1x8 Neutrik XLRM (right), black](https://www.canford.co.uk/Products/20266/45-3321_CANFORD-XLR-TERMINATION-PANEL-1U-1x8-Neutrik-XLRF-left-1x8-Neutrik-XLRM-right-black)
+- [ ] [CAT6A RJ45 PRO PATCH PANEL 1U 1x16 FEEDTHROUGH](https://www.canford.co.uk/Products/2011403/45-3535_CANFORD-CAT6A-RJ45-PRO-PATCH-PANEL-1U-1x16-FEEDTHROUGH-Screened-black)
 
   **Panel Connectors**
 - [ ] [Neutrik D-Series HDMI Back to Back](https://www.canford.co.uk/NEUTRIK-HDMI-CONNECTORS-Panel-Universal-D-Series-Back-to-back)
@@ -112,3 +114,13 @@ tags:
 
 > One receiver for the projector and to provide control to it.
 > One receiver for foldback screen on stage,
+
+
+
+---
+
+## Houston
+6 ethernet in rack
+3 or 4 xlr to podium
+4 speakon
+do we need hdmi and xlr out on outside of booth
