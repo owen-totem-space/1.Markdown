@@ -22,6 +22,7 @@ tags:
 - Install new ethernet network cabling
 - Terminate all infrastructure cabling to a wall box
 - Review available ports and install as required
+- Remove radio microphone
 ## Podiums
 - Mount Laptop Dock in better position inside podium
 - Loom and clean cables inside podium
