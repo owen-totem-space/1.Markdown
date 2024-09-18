@@ -17,14 +17,13 @@ tags:
 - Open VLC
 - Select "Media" -> "Open Network Stream"
 - Enter camera RTSP address ([as below](#Camera%20Stream%20Addresses))
-- Add to this playlist by adding other streams
+- ![](../../04-Archive/Attachments/Pasted%20image%2020240918142640.png)
 - Save the playlist. Select "Media" --> "Save Playlist to file"
 - You can now open this file with all your streams saved.
 
 ---
 
 ## RTSP Stream Via VLC
-[Link to playlist File](../../04-Archive/Attachments/RCSI%20Cameras.xspf)
 
 - Open VLC Playlist file (.xspf)
 - If camera opens fullscreen like below, select playlist button, circled red
