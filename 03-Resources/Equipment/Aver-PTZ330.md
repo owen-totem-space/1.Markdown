@@ -31,3 +31,5 @@ tags: [equipment, rs232]
 ---
 
 ###### Resources
+
+[Manual](https://www.averusa.com/pro-av/downloads/user-manual/PTZ310,330,310N,330N%20UM_20200316.pdf)

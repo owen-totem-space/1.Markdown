@@ -66,3 +66,19 @@ tags:
 
 ### DHCP-Client Log File
 ![](../../04-Archive/Attachments/DHCPNACK_UC-Engine.png)
+
+---
+
+Radiology TR Room
+- 192.168.1.120 - Shure MXA910 mic Network
+- 192.168.1.110 - Shure MXA910 mic Audio Network
+- QSC LAN A - 192.168.1.140
+- QSC LAN B - 10.2.176.128
+
+Ardilaun - Study Room
+- Sennheiser - 10.103.2.206
+- QSC - 10.103.2.207
+
+KPL/Dispensory
+- QSC - 10.2.176.144
+

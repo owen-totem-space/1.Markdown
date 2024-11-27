@@ -6,7 +6,18 @@ room: Physio-Movement
 tags:
   - project/active
 ---
- 
+
+email eimear mcdonnell
+## 241016
+- find model projector - do drivers
+- get 2x dm Rx and 1x DM Tx
+
+
+
+---
+
+- https://docs.crestron.com/en-us/7750/Content/Topics/Configuration/Initial-Setup.htm
+- https://www.crestron.com/getmedia/3b3588d1-9356-4d4b-a2df-b3ac1c6fff14/mg_bp_installation_setup_crestron_rf_products
 ## Description
 
 Install new switching system in physio movement lab. The current system is extremely prone to errors and communication problems between switchers and the button panel.
@@ -46,38 +57,20 @@ I plan to replace the two switcher system with a single dual output DMPS3.
 
 ---
 
-## Information
- 
- Function           | Device      | Communication
- ------------------ | ----------- | ------------------------
- Processor/Switcher | DMPS3 250   | Network
- Button Panel       | MPC3 Button | Network
- Touch Panel        | TS 990      | Network via wireless box 
- Wireless Box       | CEN         | Network
- Projector          | Sony?       | RS232 Driver
- Displays           |             |
- Cameras            | Telecam     |
- Audio Capture      |             |
- Video Capture      |             |
-
-
-|  |
-| -- | -- |
-| DMPS Routing |
-| Output 1 | 
-| Output 2 |
-| Input 1 |
-| Input 2 |
-| Input 3 |
-| Input 4 |
-| Com 1 |
-| Com 2 |
-
----
-
 ## Pictures
 
 - ![ |200](../04-Archive/Attachments/Physio-Movement-Rack.jpg)
 	- [Link](../04-Archive/Attachments/Physio-Movement-Rack.jpg)
 - ![|200](../04-Archive/Attachments/Physio-Movement-Projector.jpg)
 	- [Link](../04-Archive/Attachments/Physio-Movement-Projector.jpg)
+
+
+---
+
+## New Equipment Information
+
+| Equipment   | MAC               | IP           | Serial       |
+| ----------- | ----------------- | ------------ | ------------ |
+| DMPS        | 00.10.7f.a8.41.62 | 10.103.2.197 | 1807JBH15435 |
+| DM-TX-201-C | 00.10.7f.4c.06.64 |              | 11212991     |
+| CEN-GWEXER  | c4.42.68.51.78.ec | 10.103.2.228 | 2338JBH10299 |

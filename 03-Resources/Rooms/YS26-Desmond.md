@@ -32,7 +32,7 @@ Heading          | Description
 - [Desmond-Stage-Box](../../04-Archive/Complete/Desmond-Stage-Box.md)
 - [Desmond-Reprogramming](../../04-Archive/Complete/Desmond-Reprogramming.md)
 - [HTML5-XPanels](../../04-Archive/Complete/HTML5-XPanels.md)
-- [Desmond-Foldback-Monitors](../../01-Projects/Desmond-Foldback-Monitors.md)
+- [Desmond-Foldback-Monitors](../../04-Archive/Complete/Desmond-Foldback-Monitors.md)
 
 
 ###### Resources

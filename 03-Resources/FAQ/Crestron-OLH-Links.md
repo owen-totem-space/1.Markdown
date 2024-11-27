@@ -80,6 +80,7 @@ Insiders
 - [crestron.com/Security](https://www.crestron.com/Security)
 - [IP Guidelines for the IT Professional](https://www.crestron.com/getmedia/4292ddca-5063-4b79-8d61-9b29fbb425eb/mg_sr_ip-guidelines-for-the-it-professional)
 - [3-Series Security Reference Guide](https://www.crestron.com/getmedia/659a78e0-bd45-431d-af60-1eeeff825fa2/mg_sr_crestron-secure)
+- [4-Series Control Systems - Certificate Management](https://docs.crestron.com/en-us/8559/content/topics/reference/Certificate-Management.htm)
 
 ---
 ## Programming

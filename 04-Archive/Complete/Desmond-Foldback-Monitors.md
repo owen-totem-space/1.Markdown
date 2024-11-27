@@ -4,7 +4,7 @@ date: 2024-05-13
 building: 26YS
 room: Desmond
 tags:
-  - project/active
+  - project/complete
   - project/team
 ---
 ### Foldback Monitors
@@ -27,12 +27,12 @@ tags:
 	- [x] Install cable, cable tie to Cat6 signal cable.
 
 
-- [ ] Clean cables behind foldback screen.
+- [x] Clean cables behind foldback screen.
 
 	- [ ] Cable tie cables together for easy removal/connection
 	- [ ] Label cables
 	- [ ] Put cable sock on cables/loom
-- [ ] Fix DM Receiver to screen bracket. Clean up cabling
+- [x] Fix DM Receiver to screen bracket. Clean up cabling
 	- build box for back of foldback?
 
 ---
