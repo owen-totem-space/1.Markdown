@@ -46,6 +46,7 @@ tags:
 - [ ] nmap/zenmap
 - [ ] VS Code
 - [ ] Windows Terminal
+- [ ] Rocket Dock
 
 ### QSC
 - [ ] [Q-sys Designer](https://www.qsys.com/resources/software-and-firmware/q-sys-designer-software/)
