@@ -7,6 +7,13 @@ tags:
 
 # Required Software
 
+L0F34R7P24213FB
+Owen McCarthy
+0871468295
+owenmccarthy@rcsi.com
+Media Services
+N/A
+
 ### CRESTRON
 - [ ] Master Installer
     - [ ] Toolbox
@@ -24,8 +31,9 @@ tags:
 - [ ] Construct
 - [ ] DM NVX Tool
 - [ ] Firmware Update Tool
-	- [Crestron Advanced Support Tools OLH](https://community.crestron.com/s/article/ATSG?fbclid=IwAR07Q_3Znlm87sayp7QxGwOtMVtNOgmfa2qr19KKGiVdfuM_yx6BOr1_4eo)
+- [ ] [.NET Compact Framework 3.5](https://community.crestron.com/s/article/id-1001084)
 
+- [Crestron Advanced Support Tools OLH](https://community.crestron.com/s/article/ATSG?fbclid=IwAR07Q_3Znlm87sayp7QxGwOtMVtNOgmfa2qr19KKGiVdfuM_yx6BOr1_4eo)
 ### Extron
 - [ ] [Extron PCS (Product Configuration Software)](https://www.extron.com/product/software/pcscs)
 
@@ -38,18 +46,22 @@ tags:
 
 ### Poly
 - [ ] [Soundstructure Studio - Polycom](https://support.hp.com/us-en/document/ish_10198660-10198574-16)
-- [ ] Poly Lens (available in a browser/web app)
+- [x] Poly Lens (available in a browser/web app)
 
 ### Other
 - [ ] [Filezilla](https://filezilla-project.org/)
-- [ ] Obsidian - Notes
-- [ ] nmap/zenmap
+- [x] Obsidian - Notes
 - [ ] VS Code
 - [ ] Windows Terminal
+- [ ] VLC
+- [ ] Inkscape
+- [ ] Git
 
 ### QSC
 - [ ] [Q-sys Designer](https://www.qsys.com/resources/software-and-firmware/q-sys-designer-software/)
 - [ ] Q-Sys UCI Viewer
+- [ ] Q-Sys Admin Tools
+- [ ] Q-Sys Control for MTR
 
 [Q-sys Training](https://training.qsc.com/mod/page/view.php?id=560)
 
@@ -60,4 +72,4 @@ tags:
 
 ### Audinate Dante
 
-- [Dante Controller](https://my.audinate.com/support/downloads/dante-controller)
+- [ ] [Dante Controller](https://my.audinate.com/support/downloads/dante-controller)
