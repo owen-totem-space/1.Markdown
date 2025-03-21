@@ -53,9 +53,13 @@ N/A
 - [x] Obsidian - Notes
 - [ ] VS Code
 - [ ] Windows Terminal
+
 - [ ] VLC
 - [ ] Inkscape
 - [ ] Git
+
+- [ ] Rocket Dock
+
 
 ### QSC
 - [ ] [Q-sys Designer](https://www.qsys.com/resources/software-and-firmware/q-sys-designer-software/)
