@@ -81,7 +81,7 @@ tags:
 ---
 
 ###### Resources
-- [Aver-PTZ330](../03-Resources/Equipment/Aver-PTZ330.md)
+- [Aver-PTZ330](../02-Areas/Equipment/Aver-PTZ330.md)
 - [SSG123-Exam-Hall](../03-Resources/Rooms/SSG123-Exam-Hall.md)
 
 ---

@@ -32,7 +32,7 @@ MPC3             | 10.2.160.42 | c4:42:68:25:59:6a
 
 ###### Resources
 
-- [Aver-PTZ330](../../03-Resources/Equipment/Aver-PTZ330.md)
+- [Aver-PTZ330](../../02-Areas/Equipment/Aver-PTZ330.md)
 - [po-College-Hall-Audio-Upgrade.pdf](https://rcsicampus-my.sharepoint.com/:b:/r/personal/owenmccarthy_rcsi_com/Documents/Archive/po-College-Hall-Audio-Upgrade.pdf?csf=1&web=1&e=Miedfp)
 
 ---

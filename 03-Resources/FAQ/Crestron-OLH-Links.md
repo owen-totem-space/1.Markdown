@@ -31,14 +31,17 @@ tags:
 ---
 ## Flex
 - [Crestron Flex: Crestron Remote Client](https://community.crestron.com/s/article/id-1000725)
-- [Crestron® Update Corrects Dell® UC-ENGINE Boot-Up Error – “No Hard Drive Detected”](https://community.crestron.com/s/article/id-1001835)
+- [Crestron Flex: Getting Started](https://docs.crestron.com/en-us/9520/Content/Topics/Get-Started.htm)
+- [Crestron Flex Manual](https://docs.crestron.com/en-us/9132/Content/Topics/Overview/Overview.htm)
 - [Crestron Flex: Manually Updating Firmware](https://community.crestron.com/s/article/id-1000862)
-- [Manually Updating MTR](https://community.crestron.com/s/article/id-1001137)
+- [Updating the Microsoft Teams® Room Application Manually](https://community.crestron.com/s/article/id-1001137)
 - [Gathering Logs from Crestron Flex systems](https://community.crestron.com/s/article/id-1000347)
 - [Flex Supplemental Guide](https://www.crestron.com/getmedia/37077e91-4b19-4c40-b88a-ea45be7e651d/mg_sg_uc-m150-t_uc-b160-t_uc-c160-t)
 - [Flex Third Party Cameras and Soundbars](https://community.crestron.com/s/article/Crestron-Flex-UC-ENGINE-Integration-with-Third-Party-Cameras-and-Soundbars)
 - [Custom Backgrounds](https://community.crestron.com/s/article/id-1000743)
 - [Support for Flex Systems](https://community.crestron.com/s/article/id-1001798)
+- [Security Reference Guide: Crestron Flex UC-ENGINE](https://www.crestron.com/getmedia/08d0bf30-a8d6-4346-b6b7-0ab1182fb8e5/mg_sr_uc-engine)
+- [Crestron® Update Corrects Dell® UC-ENGINE Boot-Up Error – “No Hard Drive Detected”](https://community.crestron.com/s/article/id-1001835)
 
 Insiders
 - [Crestron Flex For Microsoft Teams® Rooms (MTR) Systems Insider](https://community.crestron.com/s/article/id-1000471)
