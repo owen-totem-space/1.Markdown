@@ -10,7 +10,7 @@ tags:
 
 Primary Static DNS: 10.1.9.61
 
-![](../04-Archive/Attachments/Pasted%20image%2020241014120526.png)
+![](../Attachments/Pasted%20image%2020241014120526.png)
 
 https://learn.microsoft.com/en-us/microsoftteams/troubleshoot/teams-rooms-and-devices/teams-rooms-resource-account-sign-in-issues
 

@@ -1,3 +1,0 @@
-- Timezone incorrect on Mercury
-- Rebooted both mercury and flex multiple times
-- Updated UC engine firmware

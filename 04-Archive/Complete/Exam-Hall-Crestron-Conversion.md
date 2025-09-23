@@ -81,10 +81,10 @@ tags:
 ---
 
 ###### Resources
-- [Aver-PTZ330](../02-Areas/Equipment/Aver-PTZ330.md)
-- [SSG123-Exam-Hall](../03-Resources/Rooms/SSG123-Exam-Hall.md)
+- [Aver-PTZ330](../../02-Areas/Equipment/Aver-PTZ330.md)
+- [SSG123-Exam-Hall](../../03-Resources/Rooms/SSG123-Exam-Hall.md)
 
 ---
 
 #### CT Schematic Of Exam Hall
- ![ |200](../04-Archive/Attachments/Exam-Hall-Ion-Solutions-Schematic.jpg)
+ ![ |200](../Attachments/Exam-Hall-Ion-Solutions-Schematic.jpg)
